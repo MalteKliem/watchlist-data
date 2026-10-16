@@ -255,6 +255,62 @@ li.zero .stalemark{color:var(--warn)}
 <script src="data/stocks.js"></script>
 <script>
 if(typeof STOCKS==="undefined"||typeof SRC==="undefined"||typeof FX==="undefined"){ document.addEventListener("DOMContentLoaded",function(){ var a=document.getElementById("app"); if(a) a.innerHTML='<p style="padding:24px">Die Datei data/stocks.js konnte nicht geladen werden.</p>'; }); throw new Error("data/stocks.js fehlt"); }
+/* ---- Börsenfeiertage (Regeln statt Datenquelle; gilt für die Börsen, an denen die Aktien gehandelt werden) ---- */
+var HCAL={"America/New_York":"NYSE","America/Toronto":"TSX","Europe/Amsterdam":"AMS","Europe/Stockholm":"STO","Asia/Tokyo":"JPX"}, HCACHE={};
+function hIso(y,m,d){ return y+"-"+String(m).padStart(2,"0")+"-"+String(d).padStart(2,"0"); }
+function hUtc(y,m,d){ return new Date(Date.UTC(y,m-1,d)); }
+function hAdd(dt,n){ return new Date(dt.getTime()+n*86400000); }
+function hWd(y,m,d){ return hUtc(y,m,d).getUTCDay(); }
+function hNth(y,m,wd,n){ var f=hWd(y,m,1); return 1+((wd-f+7)%7)+(n-1)*7; }
+function hLast(y,m,wd){ var ld=new Date(Date.UTC(y,m,0)).getUTCDate(), l=hWd(y,m,ld); return ld-((l-wd+7)%7); }
+function hEaster(y){
+  var a=y%19,b=Math.floor(y/100),c=y%100,d=Math.floor(b/4),e=b%4,f=Math.floor((b+8)/25),g=Math.floor((b-f+1)/3),h=(19*a+b-d-g+15)%30,
+      i=Math.floor(c/4),k=c%4,l=(32+2*e+2*i-h-k)%7,m=Math.floor((a+11*h+22*l)/451),mo=Math.floor((h+l-7*m+114)/31),da=((h+l-7*m+114)%31)+1;
+  return hUtc(y,mo,da);
+}
+function hBuild(cal,y){
+  var H={}, E=hEaster(y);
+  function put(dt,name){ H[hIso(dt.getUTCFullYear(),dt.getUTCMonth()+1,dt.getUTCDate())]=name; }
+  function putD(m,d,name){ put(hUtc(y,m,d),name); }
+  function wk(dt){ var w=dt.getUTCDay(); return w!==0&&w!==6; }
+  if(cal==="NYSE"){
+    function obs(m,d,name,noSatBack){ var dt=hUtc(y,m,d), w=dt.getUTCDay(); if(w===6){ if(noSatBack) return; dt=hAdd(dt,-1); } else if(w===0) dt=hAdd(dt,1); put(dt,name); }
+    obs(1,1,"Neujahr",true);
+    putD(1,hNth(y,1,1,3),"Martin-Luther-King-Tag"); putD(2,hNth(y,2,1,3),"Presidents' Day");
+    put(hAdd(E,-2),"Karfreitag"); putD(5,hLast(y,5,1),"Memorial Day");
+    if(y>=2022) obs(6,19,"Juneteenth"); obs(7,4,"Unabhängigkeitstag");
+    putD(9,hNth(y,9,1,1),"Labor Day"); putD(11,hNth(y,11,4,4),"Thanksgiving"); obs(12,25,"Weihnachten");
+  } else if(cal==="TSX"){
+    function nxt(m,d,name){ var dt=hUtc(y,m,d); while(!wk(dt)||H[hIso(dt.getUTCFullYear(),dt.getUTCMonth()+1,dt.getUTCDate())]) dt=hAdd(dt,1); put(dt,name); }
+    nxt(1,1,"Neujahr"); putD(2,hNth(y,2,1,3),"Family Day"); put(hAdd(E,-2),"Karfreitag");
+    putD(5,25-((hWd(y,5,25)+6)%7||7),"Victoria Day"); nxt(7,1,"Canada Day"); putD(8,hNth(y,8,1,1),"Civic Holiday");
+    putD(9,hNth(y,9,1,1),"Labour Day"); putD(10,hNth(y,10,1,2),"Thanksgiving (Kanada)"); nxt(12,25,"Weihnachten"); nxt(12,26,"Boxing Day");
+  } else if(cal==="AMS"){
+    putD(1,1,"Neujahr"); put(hAdd(E,-2),"Karfreitag"); put(hAdd(E,1),"Ostermontag"); putD(5,1,"Tag der Arbeit"); putD(12,25,"1. Weihnachtstag"); putD(12,26,"2. Weihnachtstag");
+  } else if(cal==="STO"){
+    putD(1,1,"Neujahr"); putD(1,6,"Dreikönigstag"); put(hAdd(E,-2),"Karfreitag"); put(hAdd(E,1),"Ostermontag"); putD(5,1,"Tag der Arbeit");
+    put(hAdd(E,39),"Christi Himmelfahrt"); putD(6,6,"Nationalfeiertag");
+    var mf=19; while(hWd(y,6,mf)!==5) mf++; putD(6,mf,"Mittsommerabend");
+    putD(12,24,"Heiligabend"); putD(12,25,"1. Weihnachtstag"); putD(12,26,"2. Weihnachtstag"); putD(12,31,"Silvester");
+  } else if(cal==="JPX"){
+    var nat={}; function jp(m,d,name){ nat[hIso(y,m,d)]=[hUtc(y,m,d),name]; }
+    var ve=Math.floor(20.8431+0.242194*(y-1980)-Math.floor((y-1980)/4)), ae=Math.floor(23.2488+0.242194*(y-1980)-Math.floor((y-1980)/4));
+    jp(1,1,"Neujahr"); jp(1,hNth(y,1,1,2),"Tag der Volljährigkeit"); jp(2,11,"Tag der Staatsgründung"); jp(2,23,"Geburtstag des Kaisers"); jp(3,ve,"Frühlings-Tagundnachtgleiche");
+    jp(4,29,"Shōwa-Tag"); jp(5,3,"Verfassungstag"); jp(5,4,"Tag des Grüns"); jp(5,5,"Kindertag"); jp(7,hNth(y,7,1,3),"Tag des Meeres"); jp(8,11,"Tag der Berge");
+    jp(9,hNth(y,9,1,3),"Tag der Ehrung der Alten"); jp(9,ae,"Herbst-Tagundnachtgleiche"); jp(10,hNth(y,10,1,2),"Tag des Sports"); jp(11,3,"Tag der Kultur"); jp(11,23,"Tag der Arbeit (Erntedank)");
+    Object.keys(nat).forEach(function(k){ put(nat[k][0],nat[k][1]); });
+    Object.keys(nat).forEach(function(k){ var dt=nat[k][0]; if(dt.getUTCDay()===0){ var s=hAdd(dt,1); while(H[hIso(s.getUTCFullYear(),s.getUTCMonth()+1,s.getUTCDate())]) s=hAdd(s,1); put(s,"Ersatzfeiertag"); } });
+    for(var dd=hUtc(y,1,2); dd.getUTCFullYear()===y; dd=hAdd(dd,1)){ var k2=hIso(y,dd.getUTCMonth()+1,dd.getUTCDate()); if(!H[k2]&&wk(dd)&&H[hIso(hAdd(dd,-1).getUTCFullYear(),hAdd(dd,-1).getUTCMonth()+1,hAdd(dd,-1).getUTCDate())]&&H[hIso(hAdd(dd,1).getUTCFullYear(),hAdd(dd,1).getUTCMonth()+1,hAdd(dd,1).getUTCDate())]) put(dd,"Bürgerfeiertag"); }
+    putD(1,2,"Börsenruhe zum Jahreswechsel"); putD(1,3,"Börsenruhe zum Jahreswechsel"); putD(12,31,"Börsenruhe zum Jahreswechsel");
+  }
+  return H;
+}
+function holidayOf(tz,y,m,d){
+  var cal=HCAL[tz]; if(!cal) return null;
+  var key=cal+y; if(!HCACHE[key]) HCACHE[key]=hBuild(cal,y);
+  return HCACHE[key][hIso(y,m,d)]||null;
+}
+
 var HOURS = {"America/New_York":[570,960], "America/Toronto":[570,960], "Europe/Amsterdam":[540,1050], "Europe/Stockholm":[540,1050],
   "Europe/Berlin":[540,1050], "Europe/Paris":[540,1050], "Europe/Zurich":[540,1050], "Europe/Madrid":[540,1050], "Europe/Milan":[540,1050],
   "Europe/Copenhagen":[540,1020], "Europe/Oslo":[540,1020], "Europe/Helsinki":[600,1100], "Europe/London":[480,990],
@@ -289,13 +345,31 @@ function dstr(iso){ if(!iso) return "–"; var p=iso.split("-"); return p[2]+"."
 function daysUntil(iso){ var t=new Date(iso+"T12:00:00"), n=new Date(); n.setHours(12,0,0,0); return Math.round((t-n)/86400000); }
 function hhmm(d){ return d.toLocaleTimeString("de-DE",{hour:"2-digit",minute:"2-digit"}); }
 
+function lparts(tz,ts){
+  var o={}; new Intl.DateTimeFormat("en-GB",{timeZone:tz,year:"numeric",month:"numeric",day:"numeric",weekday:"short",hour:"2-digit",minute:"2-digit",hour12:false}).formatToParts(new Date(ts)).forEach(function(p){o[p.type]=p.value;});
+  return {y:+o.year,mo:+o.month,d:+o.day,wd:o.weekday,m:(+o.hour%24)*60+ +o.minute};
+}
+function holidayName(s,ts){ try{ var l=lparts(s.tz,ts||Date.now()); if(l.wd==="Sat"||l.wd==="Sun") return null; return holidayOf(s.tz,l.y,l.mo,l.d); }catch(e){ return null; } }
 function isOpen(s){ try{ return isOpen0(s); }catch(e){ return false; } }
 function isOpen0(s){
-  var parts=new Intl.DateTimeFormat("en-GB",{timeZone:s.tz,weekday:"short",hour:"2-digit",minute:"2-digit",hour12:false}).formatToParts(new Date());
-  var o={}; parts.forEach(function(p){o[p.type]=p.value;});
-  if(o.weekday==="Sat"||o.weekday==="Sun") return false;
-  var m=(+o.hour%24)*60+ +o.minute, h=HOURS[s.tz]||[540,1020];
-  return m>=h[0]&&m<h[1];
+  var l=lparts(s.tz,Date.now());
+  if(l.wd==="Sat"||l.wd==="Sun") return false;
+  if(holidayOf(s.tz,l.y,l.mo,l.d)) return false;
+  var h=HOURS[s.tz]||[540,1020];
+  return l.m>=h[0]&&l.m<h[1];
+}
+/* Minuten seit dem Ende der letzten regulären Handelssitzung (Wochenenden und Feiertage übersprungen) */
+function sinceClose(s){
+  try{
+    var h=HOURS[s.tz]||[540,1020], now=Date.now(), l0=lparts(s.tz,now);
+    for(var d=0;d<12;d++){
+      var l=d?lparts(s.tz,now-d*86400000):l0;
+      if(l.wd==="Sat"||l.wd==="Sun"||holidayOf(s.tz,l.y,l.mo,l.d)) continue;
+      if(d===0&&l0.m<h[1]) continue;
+      return l0.m+d*1440-h[1];
+    }
+  }catch(e){}
+  return 6000;
 }
 var SRCN = {Finnhub:"Finnhub", Yahoo:"Yahoo Finance"};
 function hasData(s){ return Number.isFinite(s.price); }
@@ -374,7 +448,7 @@ function isStaleM(s,open){
   if(!hasData(s)) return false;
   if(state.demo&&(s.id==="AD"||s.id==="AAK")) return true;
   var a=sage(s);
-  if(!open) return a>=6000;
+  if(!open) return a>sinceClose(s)+1440;
   if(s.live&&state.live&&state.live.gen&&(Date.now()-state.live.gen)/60000>90) return true;
   if(s.live&&s.liveOk===false) return true;
   return Math.min(a,sinceOpen(s))>=45;
@@ -442,7 +516,7 @@ function metaLine(s,m){
   if(!hasData(s)) return 'Noch keine Kursdaten<br>Datenquelle noch nicht angeschlossen';
   var a=sage(s), st=isStaleM(s,m.open), src=esc(s.live?(SRCN[s.src]||s.src):(SRC[s.src]||s.src));
   var mark=st?' <span class="stalemark" title="Letzte Aktualisierung vor '+fmtAge(a)+'" aria-label="Lange keine Aktualisierung">!</span>':'';
-  if(!m.open) return 'Schlusskurs · '+src+mark+'<br>Börse geschlossen<br>nächstes Update bei Börsenöffnung';
+  if(!m.open){ var hn=holidayName(s); return 'Schlusskurs · '+src+mark+'<br>'+(hn?'Börse geschlossen · Feiertag: '+esc(hn):'Börse geschlossen')+'<br>nächstes Update bei Börsenöffnung'; }
   var u='<span class="age '+(a<=5?'ok':a<=10?'mid':'bad')+'">Update vor '+fmtAge(a)+'</span>'+mark;
   return 'Stand '+hhmm(m.asOf)+' · '+src+'<br>'+u+'<br>nächstes Update in ca. '+m.nextIn+' Min.';
 }
