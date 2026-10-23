@@ -1,0 +1,230 @@
+{
+ "generated": "2026-10-23T19:56:55.482Z",
+ "stocks": {
+  "8001": {
+   "nextQ": "2026-11-04",
+   "lastQ": {
+    "p": "Quartal bis 30.06.2026",
+    "d": null,
+    "eps": 42.02,
+    "est": 43.06641,
+    "rev": null,
+    "revE": null
+   },
+   "ok": true
+  },
+  "O": {
+   "nextQ": "2026-11-02",
+   "lastQ": {
+    "p": "Q2 2026",
+    "d": "2026-08-05",
+    "eps": 0.37,
+    "est": 0.4157,
+    "rev": "1,43 Mrd.",
+    "revE": null
+   },
+   "ok": true
+  },
+  "AZO": {
+   "nextQ": "2026-12-07",
+   "lastQ": {
+    "p": "Q4 2026",
+    "d": "2026-06-13",
+    "eps": 56.05,
+    "est": 54.4026,
+    "rev": "4,84 Mrd.",
+    "revE": null
+   },
+   "ok": true
+  },
+  "KAI": {
+   "nextQ": "2026-11-03",
+   "lastQ": {
+    "p": "Q2 2026",
+    "d": "2026-08-12",
+    "eps": 3.42,
+    "est": 2.9666,
+    "rev": "312,9 Mio.",
+    "revE": null
+   },
+   "ok": true
+  },
+  "GIS": {
+   "nextQ": "2026-12-15",
+   "lastQ": {
+    "p": "Q3 2026",
+    "d": "2026-09-23",
+    "eps": 0.75,
+    "est": 0.7265,
+    "rev": "4,39 Mrd.",
+    "revE": "4,39 Mrd."
+   },
+   "ok": true
+  },
+  "AAON": {
+   "nextQ": "2026-11-09",
+   "lastQ": {
+    "p": "Q2 2026",
+    "d": "2026-08-10",
+    "eps": 0.69,
+    "est": 0.5182,
+    "rev": "627,0 Mio.",
+    "revE": null
+   },
+   "ok": true
+  },
+  "WM": {
+   "nextQ": "2026-10-27",
+   "lastQ": {
+    "p": "Q2 2026",
+    "d": "2026-07-29",
+    "eps": 2.02,
+    "est": 2.0434,
+    "rev": "6,68 Mrd.",
+    "revE": null
+   },
+   "ok": true
+  },
+  "SYK": {
+   "nextQ": "2026-10-29",
+   "lastQ": {
+    "p": "Q2 2026",
+    "d": "2026-07-31",
+    "eps": 3.69,
+    "est": 3.5233,
+    "rev": "6,59 Mrd.",
+    "revE": null
+   },
+   "ok": true
+  },
+  "IDXX": {
+   "nextQ": "2026-11-02",
+   "lastQ": {
+    "p": "Q2 2026",
+    "d": "2026-08-04",
+    "eps": 4.27,
+    "est": 4.0205,
+    "rev": "1,22 Mrd.",
+    "revE": null
+   },
+   "ok": true
+  },
+  "NEE": {
+   "nextQ": "2027-01-25",
+   "lastQ": {
+    "p": "Q3 2026",
+    "d": "2026-10-21",
+    "eps": 1.24,
+    "est": 1.1917,
+    "rev": "8,09 Mrd.",
+    "revE": "8,72 Mrd."
+   },
+   "ok": true
+  },
+  "DOL": {
+   "nextQ": "2026-12-10",
+   "nextEst": true,
+   "lastQ": {
+    "p": "Quartal bis 31.07.2026",
+    "d": null,
+    "eps": 1.29,
+    "est": 1.25556,
+    "rev": "2,03 Mrd.",
+    "revE": null
+   },
+   "ok": true
+  },
+  "TIH": {
+   "nextQ": "2026-11-02",
+   "lastQ": {
+    "p": "Quartal bis 30.06.2026",
+    "d": null,
+    "eps": 1.51,
+    "est": 1.67263,
+    "rev": "1,60 Mrd.",
+    "revE": null
+   },
+   "ok": true
+  },
+  "PNR": {
+   "nextQ": "2026-10-27",
+   "lastQ": {
+    "p": "Q2 2026",
+    "d": "2026-07-29",
+    "eps": 1.14,
+    "est": 1.2074,
+    "rev": "932,6 Mio.",
+    "revE": null
+   },
+   "ok": true
+  },
+  "LIN": {
+   "nextQ": "2026-10-29",
+   "lastQ": {
+    "p": "Q2 2026",
+    "d": "2026-07-31",
+    "eps": 4.5,
+    "est": 4.5288,
+    "rev": "9,29 Mrd.",
+    "revE": null
+   },
+   "ok": true
+  },
+  "AD": {
+   "nextQ": "2026-11-04",
+   "lastQ": {
+    "p": "Quartal bis 30.06.2026",
+    "d": null,
+    "eps": 0.64,
+    "est": 0.62713,
+    "rev": "23,16 Mrd.",
+    "revE": null
+   },
+   "ok": true
+  },
+  "AAK": {
+   "nextQ": "2026-10-23",
+   "lastQ": {
+    "p": "Quartal bis 30.06.2026",
+    "d": null,
+    "eps": 3.06,
+    "est": 3.47303,
+    "rev": "11,20 Mrd.",
+    "revE": null
+   },
+   "ok": true
+  },
+  "FN": {
+   "nextQ": "2026-11-02",
+   "lastQ": {
+    "p": "Q4 2026",
+    "d": "2026-08-18",
+    "eps": 4.1,
+    "est": 3.9303,
+    "rev": "1,32 Mrd.",
+    "revE": null
+   },
+   "ok": true
+  },
+  "MELI": {
+   "nextQ": "2026-11-04",
+   "lastQ": {
+    "p": "Q2 2026",
+    "d": "2026-08-05",
+    "eps": 9.19,
+    "est": 8.8292,
+    "rev": "10,17 Mrd.",
+    "revE": null
+   },
+   "ok": true
+  },
+  "MC": {
+   "ok": false,
+   "err": "keine Daten"
+  },
+  "DPLM": {
+   "nextQ": "2026-11-17",
+   "ok": true
+  }
+ }
+}
