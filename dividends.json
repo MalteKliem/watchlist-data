@@ -1,0 +1,310 @@
+{
+ "generated": "2026-11-07T00:21:42.258Z",
+ "stocks": {
+  "O": {
+   "da": 3.264,
+   "freq": "monatlich",
+   "exd": "2026-11-29",
+   "ok": true,
+   "exdEst": true
+  },
+  "AZO": {
+   "da": 0,
+   "freq": "keine Dividende",
+   "exd": null,
+   "ok": true
+  },
+  "KAI": {
+   "da": 1.44,
+   "freq": "vierteljährlich",
+   "exd": "2027-01-14",
+   "ok": true,
+   "exdEst": true
+  },
+  "GIS": {
+   "da": 2.44,
+   "freq": "vierteljährlich",
+   "exd": "2027-01-12",
+   "ok": true,
+   "exdEst": true
+  },
+  "AAON": {
+   "da": 0.4,
+   "freq": "vierteljährlich",
+   "exd": "2026-12-04",
+   "ok": true,
+   "exdEst": true
+  },
+  "WM": {
+   "da": 3.78,
+   "freq": "vierteljährlich",
+   "exd": "2026-12-11",
+   "ok": true,
+   "exdEst": true
+  },
+  "SYK": {
+   "da": 3.52,
+   "freq": "vierteljährlich",
+   "exd": "2026-12-30",
+   "ok": true,
+   "exdEst": true
+  },
+  "IDXX": {
+   "da": 0,
+   "freq": "keine Dividende",
+   "exd": null,
+   "ok": true
+  },
+  "NEE": {
+   "da": 2.492,
+   "freq": "vierteljährlich",
+   "exd": "2026-11-27",
+   "ok": true
+  },
+  "DOL": {
+   "da": 0.48,
+   "freq": "vierteljährlich",
+   "exd": "2027-01-08",
+   "ok": true,
+   "exdEst": true
+  },
+  "TIH": {
+   "da": 2.24,
+   "freq": "vierteljährlich",
+   "exd": "2026-12-07",
+   "ok": true
+  },
+  "PNR": {
+   "da": 1.08,
+   "freq": "vierteljährlich",
+   "exd": "2027-01-22",
+   "ok": true,
+   "exdEst": true
+  },
+  "LIN": {
+   "da": 6.4,
+   "freq": "vierteljährlich",
+   "exd": "2026-12-03",
+   "ok": true
+  },
+  "AD": {
+   "da": 1.24,
+   "freq": "halbjährlich",
+   "exd": "2027-02-05",
+   "ok": true,
+   "exdEst": true
+  },
+  "AAK": {
+   "da": 9.35,
+   "freq": "jährlich",
+   "exd": "2027-05-11",
+   "ok": true,
+   "exdEst": true
+  },
+  "FN": {
+   "da": 0,
+   "freq": "keine Dividende",
+   "exd": null,
+   "ok": true
+  },
+  "MELI": {
+   "da": 0,
+   "freq": "keine Dividende",
+   "exd": null,
+   "ok": true
+  },
+  "MC": {
+   "da": 13,
+   "freq": "halbjährlich",
+   "exd": "2026-12-01",
+   "ok": true
+  },
+  "DPLM": {
+   "da": 0.632,
+   "freq": "halbjährlich",
+   "exd": "2026-11-26",
+   "ok": true,
+   "exdEst": true
+  },
+  "HUBS": {
+   "da": 0,
+   "freq": "keine Dividende",
+   "exd": null,
+   "ok": true
+  },
+  "MTCH": {
+   "da": 0.8,
+   "freq": "vierteljährlich",
+   "exd": "2027-01-06",
+   "ok": true
+  },
+  "SU": {
+   "da": 4.2,
+   "freq": "jährlich",
+   "exd": "2027-05-11",
+   "ok": true,
+   "exdEst": true
+  },
+  "REA": {
+   "da": 2.97,
+   "freq": "halbjährlich",
+   "exd": "2027-02-25",
+   "ok": true,
+   "exdEst": true
+  },
+  "WSO": {
+   "da": 13.2,
+   "freq": "vierteljährlich",
+   "exd": "2027-01-15",
+   "ok": true,
+   "exdEst": true
+  },
+  "WKL": {
+   "da": 2.6,
+   "freq": "halbjährlich",
+   "exd": "2027-03-02",
+   "ok": true,
+   "exdEst": true
+  },
+  "ABBV": {
+   "da": 6.92,
+   "freq": "vierteljährlich",
+   "exd": "2027-01-15",
+   "ok": true
+  },
+  "EVD": {
+   "da": 1.44,
+   "freq": "jährlich",
+   "exd": "2027-05-28",
+   "ok": true,
+   "exdEst": true
+  },
+  "NOVO-B": {
+   "da": 11.7,
+   "freq": "halbjährlich",
+   "exd": "2027-02-12",
+   "ok": true,
+   "exdEst": true
+  },
+  "OMAB": {
+   "da": 5.438,
+   "freq": "halbjährlich",
+   "exd": "2026-11-25",
+   "ok": true,
+   "exdEst": true
+  },
+  "FICO": {
+   "da": 0,
+   "freq": "keine Dividende",
+   "exd": null,
+   "ok": true
+  },
+  "CPRT": {
+   "da": 0,
+   "freq": "keine Dividende",
+   "exd": null,
+   "ok": true
+  },
+  "SIE": {
+   "da": 5.35,
+   "freq": "jährlich",
+   "exd": "2027-02-13",
+   "ok": true,
+   "exdEst": true
+  },
+  "BN": {
+   "da": 0.388,
+   "freq": "vierteljährlich",
+   "exd": "2026-12-14",
+   "ok": true,
+   "exdEst": true
+  },
+  "MKC": {
+   "da": 1.92,
+   "freq": "vierteljährlich",
+   "exd": "2027-01-12",
+   "ok": true,
+   "exdEst": true
+  },
+  "APH": {
+   "da": 0.5,
+   "freq": "vierteljährlich",
+   "exd": "2026-12-22",
+   "ok": true
+  },
+  "MFT": {
+   "da": 1.72,
+   "freq": "halbjährlich",
+   "exd": "2027-01-06",
+   "ok": true,
+   "exdEst": true
+  },
+  "CMG": {
+   "da": 0,
+   "freq": "keine Dividende",
+   "exd": null,
+   "ok": true
+  },
+  "ADP": {
+   "da": 6.8,
+   "freq": "vierteljährlich",
+   "exd": "2026-12-11",
+   "ok": true,
+   "exdEst": true
+  },
+  "SHW": {
+   "da": 3.2,
+   "freq": "vierteljährlich",
+   "exd": "2026-11-13",
+   "ok": true
+  },
+  "INVE-B": {
+   "da": 6.4,
+   "freq": "vierteljährlich",
+   "exd": "2027-02-05",
+   "ok": true,
+   "exdEst": true
+  },
+  "AJG": {
+   "da": 2.8,
+   "freq": "vierteljährlich",
+   "exd": "2026-12-07",
+   "ok": true
+  },
+  "VETO": {
+   "da": 0.93,
+   "freq": "jährlich",
+   "exd": "2027-06-03",
+   "ok": true,
+   "exdEst": true
+  },
+  "PFE": {
+   "da": 1.72,
+   "freq": "vierteljährlich",
+   "exd": "2027-01-23",
+   "ok": true,
+   "exdEst": true
+  },
+  "FAST": {
+   "da": 1.04,
+   "freq": "vierteljährlich",
+   "exd": "2027-01-27",
+   "ok": true,
+   "exdEst": true
+  },
+  "LOW": {
+   "da": 5,
+   "freq": "vierteljährlich",
+   "exd": "2027-01-20",
+   "ok": true,
+   "exdEst": true
+  },
+  "NEM": {
+   "da": 0.68,
+   "freq": "jährlich",
+   "exd": "2027-05-22",
+   "ok": true,
+   "exdEst": true
+  }
+ }
+}
