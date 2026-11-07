@@ -66,7 +66,8 @@ var STOCKS = [
  {id:"PFE",ipo:1968,land:"USA",grp:"Gesundheit",name:"Pfizer",ex:"NYSE",tz:"America/New_York",region:"Nordamerika",sector:"Pharma",cur:"USD",price:null,chg:null,src:"Finnhub",age:0,dy:0,da:0,freq:"–",exd:null,lastQ:{},nextQ:null},
  {id:"FAST",ipo:1987,land:"USA",grp:"Industrie",name:"Fastenal",ex:"Nasdaq",tz:"America/New_York",region:"Nordamerika",sector:"Industriebedarf (Großhandel)",cur:"USD",price:null,chg:null,src:"Finnhub",age:0,dy:0,da:0,freq:"–",exd:null,lastQ:{},nextQ:null},
  {id:"LOW",ipo:1972,land:"USA",grp:"Zyklische Konsumgüter",name:"Lowe's",ex:"NYSE",tz:"America/New_York",region:"Nordamerika",sector:"Baumarktkette",cur:"USD",price:null,chg:null,src:"Finnhub",age:0,dy:0,da:0,freq:"–",exd:null,lastQ:{},nextQ:null},
- {id:"NEM",ipo:2001,land:"Deutschland",grp:"Technologie",name:"Nemetschek",ex:"Xetra",tz:"Europe/Berlin",region:"Europa",sector:"Software (Bau und Architektur)",cur:"EUR",price:null,chg:null,src:"Yahoo",age:0,dy:0,da:0,freq:"–",exd:null,lastQ:{},nextQ:null}
+ {id:"NEM",ipo:2001,land:"Deutschland",grp:"Technologie",name:"Nemetschek",ex:"Xetra",tz:"Europe/Berlin",region:"Europa",sector:"Software (Bau und Architektur)",cur:"EUR",price:null,chg:null,src:"Yahoo",age:0,dy:0,da:0,freq:"–",exd:null,lastQ:{},nextQ:null},
+ {id:"MUV2",land:"Deutschland",grp:"Finanzen",name:"Münchener Rück",ex:"Xetra",tz:"Europe/Berlin",region:"Europa",sector:"Rückversicherung",cur:"EUR",price:null,chg:null,src:"Yahoo",age:0,dy:0,da:0,freq:"–",exd:null,lastQ:{},nextQ:null}
 ];
 var SRC = {Finnhub:"Finnhub (Beispiel)", Yahoo:"Yahoo Finance (Beispiel)"};
 
