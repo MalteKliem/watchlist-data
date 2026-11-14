@@ -120,15 +120,16 @@ html.modal-open,html.modal-open body{overflow:hidden}
 .pfbody{overflow-y:auto;min-height:0;flex:1}
 .pfsec{margin-top:12px}
 .pft{width:100%;border-collapse:collapse;font-size:.84rem;min-width:560px}
-.pft th{text-align:left;color:var(--muted);font-weight:400;font-size:.74rem;padding:4px 8px 6px;white-space:nowrap}
+.pft th{border-top:0;width:auto;text-align:left;color:var(--muted);font-weight:400;font-size:.74rem;padding:4px 8px 6px;white-space:nowrap}
 .pft td{padding:7px 8px;border-top:1px solid var(--line);vertical-align:middle}
 .pft .r{text-align:right;white-space:nowrap}
+@media (min-width:601px){.pft{display:grid;grid-template-columns:repeat(7,auto);min-width:0}.pft thead,.pft tbody,.pft tr{display:contents}.pft th,.pft td{white-space:nowrap}.pft th:first-child,.pft td:first-child{padding-left:8px}.pft th,.pft td{padding-left:6px;padding-right:6px}}
 .pft tbody tr:last-child td{border-bottom:1px solid var(--line)}
 .pft .msub{display:none;color:var(--muted);font-size:.74rem;margin-top:2px}
 @media (max-width:600px){.pft{min-width:0;font-size:.78rem}.pft .dc{display:none}.pft .msub{display:block}.pft th,.pft td{padding-left:5px;padding-right:5px}.pft th:first-child,.pft td:first-child{width:44%;padding-left:8px}.pft .tag{font-size:.68rem;padding:1px 4px}}
-.pfgrid{display:grid;grid-template-columns:200px minmax(0,1fr);grid-template-areas:"b b" "p l";gap:8px 20px;align-items:center;position:relative}
+.pfgrid{display:grid;grid-template-columns:200px minmax(0,1fr);grid-template-areas:"b b" "p l";gap:8px 20px;align-items:start;position:relative}
 .pfbtns{grid-area:b;display:flex;justify-content:space-between;gap:8px 16px;flex-wrap:wrap}
-.pfpie{grid-area:p;width:200px;height:200px}
+.pfpie{grid-area:p;width:200px;height:200px;align-self:start}
 .pfpie path,.pfpie circle{cursor:pointer}
 .pfpie path:hover,.pfpie circle:hover{opacity:.82}
 .pflw{grid-area:l;min-width:0}
@@ -140,7 +141,7 @@ html.modal-open,html.modal-open body{overflow:hidden}
 .pfleg .la{text-align:right;min-width:4.5rem}
 .pftip b{display:block}
 .tag.bad{background:var(--down-bg);color:var(--down)}
-@media (max-width:600px){.pfgrid{grid-template-columns:auto minmax(0,1fr);grid-template-areas:"b p" "l l"}.pfbtns{flex-direction:column;justify-content:center;gap:12px}.pfpie{width:170px;height:170px;justify-self:end}.pflw{margin-top:6px}}
+@media (max-width:600px){.pfgrid{grid-template-columns:auto minmax(0,1fr);grid-template-areas:"b p" "l l"}.pfbtns{flex-direction:column;justify-content:center;gap:0}.pfpie{width:170px;height:170px;justify-self:end}.pflw{margin-top:6px}}
 .tag.grey{background:var(--tagbg);color:var(--tagfg)}
 .sp{fill:none;stroke-width:1.6;stroke-linejoin:round;stroke-linecap:round}
 .up-c{color:var(--up)} .down-c{color:var(--down)}
@@ -945,8 +946,9 @@ function pfPie(items,tot){
     svg+='<path d="M'+cx+' '+cy+' L'+x0.toFixed(2)+' '+y0.toFixed(2)+' A'+R+' '+R+' 0 '+(a1-a0>Math.PI?1:0)+' 1 '+x1.toFixed(2)+' '+y1.toFixed(2)+' Z" fill="'+pfCol(i,items.length)+'" stroke="var(--surface)" stroke-width="1.5" data-n="'+esc(it.k)+'" data-v="'+fnum(it.v,0)+' €"/>'; a0=a1; });
   return svg+'</svg>';
 }
+var RK={niedrig:0,mittel:1,hoch:2};
 function pfModal(){
-  var P=STOCKS.filter(function(s){return (inv[s.id]||0)>0;}).sort(function(a,b){return inv[b.id]-inv[a.id];}), tot=P.reduce(function(a,s){return a+inv[s.id];},0),
+  var P=STOCKS.filter(function(s){return (inv[s.id]||0)>0;}).sort(function(a,b){ return (inv[b.id]-inv[a.id])||(RK[riskOf(b)]-RK[riskOf(a)])||a.name.localeCompare(b.name); }), tot=P.reduce(function(a,s){return a+inv[s.id];},0),
       V={hold:["Holdings",function(s){return s.name;}],kont:["Kontinente",contOf],land:["Länder",function(s){return s.land||"–";}],grp:["Sektoren",function(s){return s.grp||"–";}],risk:["Risikoklassen",riskOf]}, vk=V[state.pfView]?state.pfView:"hold", body="";
   if(!P.length) body='<p class="muted" style="padding:12px;margin:0">Noch kein Betrag investiert. Trage auf der Detailseite einer Aktie bei „investiert“ einen Betrag ein.</p>';
   else {
