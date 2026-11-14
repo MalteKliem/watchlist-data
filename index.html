@@ -115,7 +115,7 @@ li.zero .spark *{color:inherit}
 html.modal-open,html.modal-open body{overflow:hidden}
 .fbov{overscroll-behavior:contain}
 .dclist,.pfbody,.fbwin textarea{overscroll-behavior:contain}
-.pfwin{max-width:940px}
+.pfwin{max-width:940px;max-height:84vh;max-height:calc(100dvh - 88px)}
 .pfbody{overflow-y:auto;min-height:0;flex:1}
 .pfsec{margin-top:12px}
 .pft{width:100%;border-collapse:collapse;font-size:.84rem;min-width:560px}
@@ -138,6 +138,7 @@ html.modal-open,html.modal-open body{overflow:hidden}
 .pfleg .lv{color:var(--muted);text-align:right}
 .pfleg .la{text-align:right;min-width:4.5rem}
 .pftip b{display:block}
+.tag.bad{background:var(--down-bg);color:var(--down)}
 @media (max-width:600px){.pfgrid{grid-template-columns:auto minmax(0,1fr);grid-template-areas:"b p" "l l"}.pfbtns{flex-direction:column;justify-content:center;gap:12px}.pfpie{width:170px;height:170px;justify-self:end}.pflw{margin-top:6px}}
 .tag.grey{background:var(--tagbg);color:var(--tagfg)}
 .sp{fill:none;stroke-width:1.6;stroke-linejoin:round;stroke-linecap:round}
@@ -1240,12 +1241,14 @@ function syncPanel(){
 function draw(){
   var ae=document.activeElement, keep=null;
   if(ae&&app.contains(ae)&&ae.id&&(ae.tagName==="INPUT"||ae.tagName==="TEXTAREA")) keep={id:ae.id,s:ae.selectionStart,e:ae.selectionEnd};
+  var pfb=document.querySelector(".pfbody"), pfTop=pfb?pfb.scrollTop:0;
   var s=STOCKS.filter(function(x){return x.id===state.id;})[0];
   app.innerHTML = ((state.view==="detail"&&s) ? renderDetail(s) : renderList())+(state.divCal&&state.view==="detail"&&s?divModal(s):'')+(state.holCal&&state.view==="detail"&&s?holModal(s):'')+(state.pf&&state.view==="list"?pfModal():'')+'<p class="disc">Keine Anlageberatung oder Handlungsempfehlung - Alle Angaben ohne Gewähr - Kurse können verzögert oder fehlerhaft sein</p>';
   state.hover=false;
   document.documentElement.classList.toggle("modal-open",!!document.querySelector(".fbov"));
   if(state.view==="detail"&&s){ initChart(s); fitName(); if(!CHH&&!chLoad&&!chErr) setTimeout(loadHist,0); }
   fitTotal();
+  if(pfTop){ var pfb2=document.querySelector(".pfbody"); if(pfb2) pfb2.scrollTop=pfTop; }
   var dl0=document.querySelector(".dclist"); if(dl0){ var nx0=dl0.querySelector(".dcnext"); dl0.scrollTop=nx0?Math.max(0,nx0.offsetTop-70):0; }
   if(keep){ var el=document.getElementById(keep.id); if(el){ try{ el.focus({preventScroll:true}); el.setSelectionRange(keep.s,keep.e); }catch(x){} } }
 }
@@ -1454,7 +1457,7 @@ window.addEventListener("hashchange",function(){
   if(ok&&state.id!==id){ if(state.view==="list") state.listY=window.scrollY; state.view="detail"; state.id=id; draw(); } else if(!id&&state.view==="detail"){ state.view="list"; state.id=null; draw(); window.scrollTo(0,state.listY||0); }
 });
 document.addEventListener("keydown",function(e){ if(e.key==="Escape"&&state.fbDoc){ state.fbDoc=false; state.fbWinMsg=null; draw(); } });
-setInterval(function(){ var a=document.activeElement; if(!state.fbDoc&&!state.divCal&&!state.holCal&&!state.menu&&!state.modeMenu&&!state.hover&&(!a||a===document.body||!app.contains(a))) draw(); },30000);
+setInterval(function(){ var a=document.activeElement; if(!state.fbDoc&&!state.divCal&&!state.holCal&&!state.pf&&!state.menu&&!state.modeMenu&&!state.hover&&(!a||a===document.body||!app.contains(a))) draw(); },30000);
 (function init(){
   var id=""; try{ id=location.hash.slice(1); }catch(e){}
   if(STOCKS.some(function(x){return x.id===id;})){ state.view="detail"; state.id=id; }
