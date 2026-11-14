@@ -125,16 +125,20 @@ html.modal-open,html.modal-open body{overflow:hidden}
 .pft tbody tr:last-child td{border-bottom:1px solid var(--line)}
 .pft .msub{display:none;color:var(--muted);font-size:.74rem;margin-top:2px}
 @media (max-width:600px){.pft{min-width:0;font-size:.78rem}.pft .dc{display:none}.pft .msub{display:block}.pft th,.pft td{padding-left:5px;padding-right:5px}.pft th:first-child,.pft td:first-child{width:44%;padding-left:8px}.pft .tag{font-size:.68rem;padding:1px 4px}}
-.pfbtns{display:flex;justify-content:space-between;gap:8px 16px;flex-wrap:wrap;margin-bottom:8px}
-.pfchart{display:flex;gap:20px;align-items:center;flex-wrap:wrap}
-.pfpie{width:200px;height:200px;flex:none}
-.pfleg{list-style:none;margin:0;padding:0;flex:1 1 240px;min-width:0;display:flex;flex-direction:column;gap:6px;font-size:.86rem}
+.pfgrid{display:grid;grid-template-columns:200px minmax(0,1fr);grid-template-areas:"b b" "p l";gap:8px 20px;align-items:center;position:relative}
+.pfbtns{grid-area:b;display:flex;justify-content:space-between;gap:8px 16px;flex-wrap:wrap}
+.pfpie{grid-area:p;width:200px;height:200px}
+.pfpie path,.pfpie circle{cursor:pointer}
+.pfpie path:hover,.pfpie circle:hover{opacity:.82}
+.pflw{grid-area:l;min-width:0}
+.pfh{font-size:.74rem;color:var(--muted);text-transform:uppercase;letter-spacing:.08em;margin-bottom:8px}
+.pfleg{list-style:none;margin:0;padding:0;min-width:0;display:flex;flex-direction:column;gap:6px;font-size:.86rem}
 .pfleg li{display:grid;grid-template-columns:12px minmax(0,1fr) auto auto;gap:8px;align-items:center}
 .pfleg .sw{width:12px;height:12px;border-radius:3px}
 .pfleg .lv{color:var(--muted);text-align:right}
 .pfleg .la{text-align:right;min-width:4.5rem}
-.tag.bad{background:var(--down-bg);color:var(--down)}
-@media (max-width:480px){.pfpie{width:170px;height:170px;margin:0 auto}}
+.pftip b{display:block}
+@media (max-width:600px){.pfgrid{grid-template-columns:auto minmax(0,1fr);grid-template-areas:"b p" "l l"}.pfbtns{flex-direction:column;justify-content:center;gap:12px}.pfpie{width:170px;height:170px;justify-self:end}.pflw{margin-top:6px}}
 .tag.grey{background:var(--tagbg);color:var(--tagfg)}
 .sp{fill:none;stroke-width:1.6;stroke-linejoin:round;stroke-linecap:round}
 .up-c{color:var(--up)} .down-c{color:var(--down)}
@@ -506,7 +510,7 @@ var RANGES=["1D","1W","1M","YTD","1J","Max"];
 var GRP_ORDER=["Technologie","Kommunikation","Finanzen","Immobilien","Industrie","Grundstoffe","Energie","Zyklische Konsumgüter","Basiskonsumgüter","Versorger","Gesundheit"];
 var GRP_ALIAS={"Grundstoffe (Material)":"Grundstoffe","Zyklischer Konsum":"Zyklische Konsumgüter","Basiskonsum":"Basiskonsumgüter"};
 function grpRank(g){ var i=GRP_ORDER.indexOf(g); return i<0?99:i; }
-var state = {range:"1D", regions:[], sector:"Alle", view:"list", id:null, stars:[], menu:false, favOnly:false, invOnly:false, eur:false, q:"", addOpen:false, statusOpen:false, form:{}, addMsg:null, demo:false, dismissed:[], delId:null, curMenu:false, bkOpen:false, bkMsg:null, bkPending:null, watch:[], wish:[], dots:null, divCal:false, holCal:false, modeMenu:false, pfMenu:false, pf:false, pfView:"kont", theme:"dark"};
+var state = {range:"1D", regions:[], sector:"Alle", view:"list", id:null, stars:[], menu:false, favOnly:false, invOnly:false, eur:false, q:"", addOpen:false, statusOpen:false, form:{}, addMsg:null, demo:false, dismissed:[], delId:null, curMenu:false, bkOpen:false, bkMsg:null, bkPending:null, watch:[], wish:[], dots:null, divCal:false, holCal:false, modeMenu:false, pfMenu:false, pf:false, pfView:"hold", theme:"dark"};
 try{ var s0=JSON.parse(localStorage.getItem("wl-stars")||"null"); if(Array.isArray(s0)) state.stars=s0; }catch(e){}
 try{ var w0=JSON.parse(localStorage.getItem("wl-watch")||"null"); if(Array.isArray(w0)) state.watch=w0; var w1=JSON.parse(localStorage.getItem("wl-wish")||"null"); if(Array.isArray(w1)) state.wish=w1; }catch(e){}
 try{ var th=localStorage.getItem("wl-theme"); if(th==="light"||th==="dark") state.theme=th; }catch(e){}
@@ -934,25 +938,26 @@ function riskOf(s){ var g=s.grp||""; return RISK_LOW.indexOf(g)>=0?"niedrig":RIS
 function pfCol(i,n){ return "hsl(0,0%,"+(n<2?70:Math.round(88-i/(n-1)*50))+"%)"; }
 function pfPie(items,tot){
   var cx=100,cy=100,R=92,a0=-Math.PI/2,svg='<svg viewBox="0 0 200 200" class="pfpie" role="img" aria-label="Tortendiagramm">';
-  if(items.length===1) svg+='<circle cx="100" cy="100" r="'+R+'" fill="'+pfCol(0,1)+'"/>';
+  if(items.length===1) svg+='<circle cx="100" cy="100" r="'+R+'" fill="'+pfCol(0,1)+'" data-n="'+esc(items[0].k)+'" data-v="'+fnum(items[0].v,0)+' €"/>';
   else items.forEach(function(it,i){ var a1=a0+2*Math.PI*it.v/tot, x0=cx+R*Math.cos(a0), y0=cy+R*Math.sin(a0), x1=cx+R*Math.cos(a1), y1=cy+R*Math.sin(a1);
-    svg+='<path d="M'+cx+' '+cy+' L'+x0.toFixed(2)+' '+y0.toFixed(2)+' A'+R+' '+R+' 0 '+(a1-a0>Math.PI?1:0)+' 1 '+x1.toFixed(2)+' '+y1.toFixed(2)+' Z" fill="'+pfCol(i,items.length)+'" stroke="var(--surface)" stroke-width="1.5"/>'; a0=a1; });
+    svg+='<path d="M'+cx+' '+cy+' L'+x0.toFixed(2)+' '+y0.toFixed(2)+' A'+R+' '+R+' 0 '+(a1-a0>Math.PI?1:0)+' 1 '+x1.toFixed(2)+' '+y1.toFixed(2)+' Z" fill="'+pfCol(i,items.length)+'" stroke="var(--surface)" stroke-width="1.5" data-n="'+esc(it.k)+'" data-v="'+fnum(it.v,0)+' €"/>'; a0=a1; });
   return svg+'</svg>';
 }
 function pfModal(){
   var P=STOCKS.filter(function(s){return (inv[s.id]||0)>0;}).sort(function(a,b){return inv[b.id]-inv[a.id];}), tot=P.reduce(function(a,s){return a+inv[s.id];},0),
-      V={kont:["Kontinente",contOf],land:["Länder",function(s){return s.land||"–";}],grp:["Sektoren",function(s){return s.grp||"–";}],risk:["Risikoklassen",riskOf]}, vk=V[state.pfView]?state.pfView:"kont", body="";
+      V={hold:["Holdings",function(s){return s.name;}],kont:["Kontinente",contOf],land:["Länder",function(s){return s.land||"–";}],grp:["Sektoren",function(s){return s.grp||"–";}],risk:["Risikoklassen",riskOf]}, vk=V[state.pfView]?state.pfView:"hold", body="";
   if(!P.length) body='<p class="muted" style="padding:12px;margin:0">Noch kein Betrag investiert. Trage auf der Detailseite einer Aktie bei „investiert“ einen Betrag ein.</p>';
   else {
     var rows=P.map(function(s){ var r=riskOf(s); return '<tr><td><b>'+esc(s.name)+'</b><small class="msub">'+esc(contOf(s))+' · '+esc(s.land||"–")+' · '+esc(s.grp||"–")+'</small></td><td class="dc">'+esc(contOf(s))+'</td><td class="dc">'+esc(s.land||"–")+'</td><td class="dc">'+esc(s.grp||"–")+'</td><td class="num r">'+fnum(inv[s.id]/tot*100,1)+' %</td><td class="num r">'+fnum(inv[s.id],0)+' €</td><td><span class="tag '+(r==="niedrig"?'ok':r==="hoch"?'bad':'warn')+'">'+r+'</span></td></tr>'; }).join("");
     var agg={}; P.forEach(function(s){ var k=V[vk][1](s); agg[k]=(agg[k]||0)+inv[s.id]; });
     var items=Object.keys(agg).map(function(k){return {k:k,v:agg[k]};}).sort(function(a,b){return b.v-a.v;});
     if(vk==="risk") items.sort(function(a,b){ return ["niedrig","mittel","hoch"].indexOf(a.k)-["niedrig","mittel","hoch"].indexOf(b.k); });
-    var leg=items.map(function(it,i){ return '<li><span class="sw" style="background:'+pfCol(i,items.length)+'"></span><span class="ln">'+esc(it.k)+'</span><span class="num lv">'+fnum(it.v/tot*100,1)+' %</span><span class="num la">'+fnum(it.v,0)+' €</span></li>'; }).join("");
+    var legItems=vk==="hold"?items.slice(0,10):items;
+    var leg=legItems.map(function(it,i){ return '<li><span class="sw" style="background:'+pfCol(i,items.length)+'"></span><span class="ln">'+esc(it.k)+'</span><span class="num lv">'+fnum(it.v/tot*100,1)+' %</span><span class="num la">'+fnum(it.v,0)+' €</span></li>'; }).join("");
     body='<div class="dcsum"><div><span>Investiert insgesamt</span><b class="num">'+fnum(tot,0)+' €</b></div><div><span>Positionen</span><b class="num">'+P.length+'</b></div></div>'+
       '<div class="pfsec"><div class="scroll"><table class="pft"><thead><tr><th>Name</th><th class="dc">Kontinent</th><th class="dc">Land</th><th class="dc">Sektor</th><th class="r">Anteil</th><th class="r">Kapital</th><th>Risiko</th></tr></thead><tbody>'+rows+'</tbody></table></div></div>'+
-      '<div class="pfsec"><div class="pfbtns" role="group" aria-label="Aufteilung nach">'+Object.keys(V).map(function(k){ return '<button type="button" class="rg" data-pfv="'+k+'" aria-pressed="'+(k===vk)+'">'+V[k][0]+'</button>'; }).join("")+'</div>'+
-      '<div class="pfchart">'+pfPie(items,tot)+'<ul class="pfleg">'+leg+'</ul></div></div>';
+      '<div class="pfsec pfgrid"><div class="pfbtns" role="group" aria-label="Aufteilung nach">'+Object.keys(V).map(function(k){ return '<button type="button" class="rg" data-pfv="'+k+'" aria-pressed="'+(k===vk)+'">'+V[k][0]+'</button>'; }).join("")+'</div>'+
+      pfPie(items,tot)+'<div class="pflw">'+(vk==="hold"?'<div class="pfh">Top 10</div>':'')+'<ul class="pfleg">'+leg+'</ul></div></div>';
 
   }
   return '<div class="fbov" data-pfclose="1"><div class="fbwin dcwin pfwin" role="dialog" aria-modal="true" aria-label="Portfolio-Auswertung">'+
@@ -1315,6 +1320,19 @@ function go(id){
 }
 document.addEventListener("click",function(e){ if(state.pfMenu&&!e.target.closest(".pfm,[data-pf]")){ state.pfMenu=false; draw(); }
   if(state.dots&&!e.target.closest(".dmenu,[data-dots]")){ state.dots=null; draw(); } });
+function pfTip(e){
+  var q=document.querySelector(".pfgrid"); if(!q) return; var tip=q.querySelector(".pftip");
+  var pth=e&&e.target.closest&&e.target.closest(".pfpie [data-n]");
+  if(!pth){ if(tip) tip.remove(); return; }
+  if(!tip){ tip=document.createElement("div"); tip.className="tip pftip"; q.appendChild(tip); }
+  tip.innerHTML="<b>"+pth.getAttribute("data-n")+"</b>"+pth.getAttribute("data-v");
+  var r=q.getBoundingClientRect(), x=e.clientX-r.left+12, y=e.clientY-r.top-8;
+  tip.style.left=Math.max(0,Math.min(x,r.width-tip.offsetWidth))+"px"; tip.style.top=Math.max(0,y-tip.offsetHeight)+"px";
+}
+document.addEventListener("mouseover",function(e){ if(e.target.closest&&e.target.closest(".pfpie")) pfTip(e); });
+document.addEventListener("mousemove",function(e){ if(e.target.closest&&e.target.closest(".pfpie")) pfTip(e); });
+document.addEventListener("mouseout",function(e){ if(e.target.closest&&e.target.closest(".pfpie")&&!(e.relatedTarget&&e.relatedTarget.closest&&e.relatedTarget.closest(".pfpie [data-n]"))){ var q=document.querySelector(".pftip"); if(q) q.remove(); } });
+document.addEventListener("click",function(e){ if(!document.querySelector(".pfgrid")) return; var ev={target:e.target,clientX:e.clientX,clientY:e.clientY}; setTimeout(function(){ pfTip(ev); },0); });
 document.addEventListener("touchmove",function(e){ if(document.querySelector(".fbov")&&!e.target.closest(".dclist,.pfbody,.fbwin textarea,.scroll")) e.preventDefault(); },{passive:false});
 document.addEventListener("keydown",function(e){ if(e.key==="Escape"&&state.pf){ state.pf=false; draw(); return; } if(e.key==="Escape"&&state.pfMenu){ state.pfMenu=false; draw(); return; } if(e.key==="Escape"&&state.holCal){ state.holCal=false; draw(); return; } if(e.key==="Escape"&&state.divCal){ state.divCal=false; draw(); return; } if(e.key==="Escape"&&state.dots){ state.dots=null; draw(); } });
 app.addEventListener("click",function(e){
