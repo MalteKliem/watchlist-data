@@ -115,7 +115,8 @@ li.zero .spark *{color:inherit}
 html.modal-open,html.modal-open body{overflow:hidden}
 .fbov{overscroll-behavior:contain}
 .dclist,.pfbody,.fbwin textarea{overscroll-behavior:contain}
-.pfwin{max-width:940px;max-height:84vh;max-height:calc(100dvh - 88px)}
+.fbov:has(.pfwin){padding:32px 16px}
+.fbwin.pfwin{max-width:940px;padding:18px;height:calc(100vh - 64px);height:calc(100dvh - 64px);max-height:860px}
 .pfbody{overflow-y:auto;min-height:0;flex:1}
 .pfsec{margin-top:12px}
 .pft{width:100%;border-collapse:collapse;font-size:.84rem;min-width:560px}
