@@ -128,7 +128,7 @@ html.modal-open,html.modal-open body{overflow:hidden}
 .pft .msub{display:none;color:var(--muted);font-size:.74rem;margin-top:2px}
 @media (max-width:600px){.pft{min-width:0;font-size:.78rem}.pft .dc{display:none}.pft .msub{display:block}.pft th,.pft td{padding-left:5px;padding-right:5px}.pft th:first-child,.pft td:first-child{width:44%;padding-left:8px}.pft .tag{font-size:.68rem;padding:1px 4px}}
 .pfgrid{display:grid;grid-template-columns:200px minmax(0,1fr);grid-template-areas:"b b" "p l";gap:8px 20px;align-items:start;position:relative}
-.pfbtns{grid-area:b;display:flex;justify-content:space-between;gap:8px 16px;flex-wrap:wrap}
+.pfbtns{grid-area:b;display:flex;justify-content:space-between;width:92%;gap:8px 16px;flex-wrap:wrap}
 .pfpie{grid-area:p;width:200px;height:200px;align-self:start}
 .pfpie path,.pfpie circle{cursor:pointer}
 .pfpie path:hover,.pfpie circle:hover{opacity:.82}
@@ -141,7 +141,7 @@ html.modal-open,html.modal-open body{overflow:hidden}
 .pfleg .la{text-align:right;min-width:4.5rem}
 .pftip b{display:block}
 .tag.bad{background:var(--down-bg);color:var(--down)}
-@media (max-width:600px){.pfgrid{grid-template-columns:auto minmax(0,1fr);grid-template-areas:"b p" "l l"}.pfbtns{flex-direction:column;justify-content:center;gap:0}.pfpie{width:170px;height:170px;justify-self:end}.pflw{margin-top:6px}}
+@media (max-width:600px){.pfbtns{width:auto}.pfgrid{grid-template-columns:auto minmax(0,1fr);grid-template-areas:"b p" "l l"}.pfbtns{flex-direction:column;justify-content:center;gap:0}.pfpie{width:170px;height:170px;justify-self:end}.pflw{margin-top:6px}}
 .tag.grey{background:var(--tagbg);color:var(--tagfg)}
 .sp{fill:none;stroke-width:1.6;stroke-linejoin:round;stroke-linecap:round}
 .up-c{color:var(--up)} .down-c{color:var(--down)}
@@ -947,8 +947,9 @@ function pfPie(items,tot){
   return svg+'</svg>';
 }
 var RK={niedrig:0,mittel:1,hoch:2};
+function lrk(s){ var i=LAND_ORDER.indexOf(s.land); return i<0?99:i; }
 function pfModal(){
-  var P=STOCKS.filter(function(s){return (inv[s.id]||0)>0;}).sort(function(a,b){ return (inv[b.id]-inv[a.id])||(RK[riskOf(b)]-RK[riskOf(a)])||a.name.localeCompare(b.name); }), tot=P.reduce(function(a,s){return a+inv[s.id];},0),
+  var P=STOCKS.filter(function(s){return (inv[s.id]||0)>0;}).sort(function(a,b){ return (inv[b.id]-inv[a.id])||(RK[riskOf(b)]-RK[riskOf(a)])||(lrk(a)-lrk(b))||(STOCKS.indexOf(a)-STOCKS.indexOf(b)); }), tot=P.reduce(function(a,s){return a+inv[s.id];},0),
       V={hold:["Holdings",function(s){return s.name;}],kont:["Kontinente",contOf],land:["Länder",function(s){return s.land||"–";}],grp:["Sektoren",function(s){return s.grp||"–";}],risk:["Risikoklassen",riskOf]}, vk=V[state.pfView]?state.pfView:"hold", body="";
   if(!P.length) body='<p class="muted" style="padding:12px;margin:0">Noch kein Betrag investiert. Trage auf der Detailseite einer Aktie bei „investiert“ einen Betrag ein.</p>';
   else {
@@ -961,7 +962,7 @@ function pfModal(){
     body='<div class="dcsum"><div><span>Investiert insgesamt</span><b class="num">'+fnum(tot,0)+' €</b></div><div><span>Positionen</span><b class="num">'+P.length+'</b></div></div>'+
       '<div class="pfsec"><div class="scroll"><table class="pft"><thead><tr><th>Name</th><th class="dc">Kontinent</th><th class="dc">Land</th><th class="dc">Sektor</th><th class="r">Anteil</th><th class="r">Kapital</th><th>Risiko</th></tr></thead><tbody>'+rows+'</tbody></table></div></div>'+
       '<div class="pfsec pfgrid"><div class="pfbtns" role="group" aria-label="Aufteilung nach">'+Object.keys(V).map(function(k){ return '<button type="button" class="rg" data-pfv="'+k+'" aria-pressed="'+(k===vk)+'">'+V[k][0]+'</button>'; }).join("")+'</div>'+
-      pfPie(items,tot)+'<div class="pflw">'+(vk==="hold"?'<div class="pfh">Top 10</div>':'')+'<ul class="pfleg">'+leg+'</ul></div></div>';
+      pfPie(items,tot)+'<div class="pflw">'+'<div class="pfh"'+(vk==="hold"?'':' style="visibility:hidden" aria-hidden="true"')+'>Top 10</div>'+'<ul class="pfleg">'+leg+'</ul></div></div>';
 
   }
   return '<div class="fbov" data-pfclose="1"><div class="fbwin dcwin pfwin" role="dialog" aria-modal="true" aria-label="Portfolio-Auswertung">'+
