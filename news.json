@@ -1,0 +1,3415 @@
+{
+ "generated": "2026-11-20T20:04:48.262Z",
+ "stocks": {
+  "O": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Realty Income stock: Wells Fargo raises target to 61 dollars",
+     "s": "Ad Hoc News",
+     "t": "2026-11-19T08:33:00.000Z",
+     "u": "https://www.ad-hoc-news.de/boerse/news/corporate-news/realty-income-stock-wells-fargo-raises-target-to-61-dollars/70536950",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "SEC-Pflichtmeldung (8-K): Führungswechsel",
+     "s": "SEC EDGAR",
+     "t": "2026-11-17T21:16:42.000Z",
+     "u": "https://www.sec.gov/Archives/edgar/data/726728/000110465926129070/tm2630077d1_8k.htm",
+     "r": true,
+     "why": "Führungswechsel"
+    },
+    {
+     "h": "Realty Income Aktie: Dividende steigt zum 137. Mal",
+     "s": "Börse Express",
+     "t": "2026-11-14T11:53:07.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUnppdEN6bzNoWXZGUEVVZWZEajdkNzhEcldLQU9VQmxabmN5dF94VV94VE5kamJRZ1lOTlNzRnhFYzkzZmo0dTBmSDVLUXFaWFN4NGhGVC1DSWI0SHVYcElJNnNGVmZsM0YyTDAxUFBjc2U3N0NxcXQ1Ty1sUENkMWxzMG8yVE5heEM0Nl9GUXd4UzBtZXVSeEU1cllwblUxZ0E?oc=5",
+     "r": true,
+     "why": "Dividende/Rückkauf"
+    },
+    {
+     "h": "Realty Income (O) Stock Could Be Trading At A Discount",
+     "s": "Simply Wall St",
+     "t": "2026-11-20T18:09:57.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeWUxN2d5dFA2bDZBLXppcnI1Q1o1VUQxXzJ3QmxBbHg0b014U3FZZS14TFRYRXVOTWZ3Yzd2N2RjaXNUSjFuUVN1NHQxelRiSWxQNFFMak5mbHJhMGduYWJIdERBdW1GV2tQaE5xOHdvNWFoOHlnNWF0YXlTc2ZNS3NJeUM0OUU4MVRMazdxb3YzcGZNZ1dhVEE1SFZXYzlPRFo1aU9rUFZMRFJoTm1YRk0tanJKazFSYnp4VG0xd9IBxAFBVV95cUxNQjMtMDRNcUp1Z0hmUHFiN2I3b2F3dnliWVprNXUzREtpT1A1T1pLcnh2TTlIdmZ4TXVFQm9kVmJaOXZ4NXI4Y2o5YXRZc2Uxa2g3ODNEX0Y0aHFzSGNLbDlRX2J2M0dZWkdJb21zaXV1UXVmN29meU5sT21oZE1ZWVNRQmtBNm1oem03OUticDNoMGZkbGQ2S3pWTzJiU3VsMThUMzk0V0REZThuZFFpRENQTGxBTjJNRjhHVjMwYW1QUzJ2?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Realty Income-Aktie unter 100-Tage-Linie",
+     "s": "boerse.de",
+     "t": "2026-11-20T07:54:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUGs0V3lKTVhJbHNHNTNMdzZqRGlveHFLblh6RTltbVpCNFhWU2RpQVludjdxM19WdzZTbnJ1WGgwQXdKWEVPYlBJMUs3TE80clNkZzAwMUdGWUJESjRzSnJ3aTVtcEh3T0pXX0g4WGJCRTlPODdDSVdaT3RCMWp3cGpzZlFackVHcHNn?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Realty Income Aktie: Abraham scheidet Ende Dezember aus",
+     "s": "Börse Express",
+     "t": "2026-11-20T05:46:11.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc3dRamZ4b3RXMlYxdFd6bmNGR2ROakN6Zl84NVN2elNIQlp5R3Q2a3IzbXRXaGJjbUVSMmgyekE1dGNZRzI4cUkwUzNveWZ1UXpFYUI1UktsRHY3Slo3b2k0eFhVQjRTMktnbHQxLThyTUJKQXA1WllGU0ZRcWlIaXVOUk5YWlRRaEFmY1FRYlBUeEh4SEc4VFp6TWxVUWtqRFU2ZWdCV1dNdw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Realty Income REIT offers a 5.6% yield amid eas...",
+     "s": "Pluang",
+     "t": "2026-11-19T19:15:35.000Z",
+     "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ2pBaGFfNlRIRDFBMzVoeUpaOHZwRjlNZkZ6c3RTdWREVFY2cFRBRGZYR1Rza2VZM0pkcnp3RVI4RldQODdsMjMxc3YtLXI0eFpyZFpad2JxOUxrVnRzREtReGlXRmxiWFY2NmRsd1FvOVJqS2UxRWgxeW1oNmk4RXhPZWM?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "General Mills and Realty Income offer high divi...",
+     "s": "Pluang",
+     "t": "2026-11-19T10:03:59.000Z",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR0tIaFBSU3QtcGtWcnVxb2x0dnNFQVhHb0RubFFrYVAzaThzTGRoY2JvNjJPd2pSZmlrUFFNSU9JMDBOZ2E0N25nS1NsVXZqc25zdENWbF91aWI3SEZnMnV4UE5Fc0p4SmtSQ3BxZnRhMU5MQU91a0ZUTGxlSllDblM1dUVpLVpOTW94ekFpZE1QVVRSaXJEaEZCT2hYeGp3b21fMko4RXNaOVJvMXc?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "AZO": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Stifel Initiates Coverage On AutoZone with Hold Rating, Announces Price Target of $3450",
+     "s": "Benzinga",
+     "t": "2026-11-17T08:28:21.000Z",
+     "u": "https://finnhub.io/api/news?id=602c56daf58b6ce9ccaff873803debb76943cce19ea3c1fbf4b6253be5a11d99",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "Longtime Customer Goes To AutoZone. Then A Worker Makes Him Walk Out And Go To O'Reilly: 'Please Wait For Cashier'",
+     "s": "Motor1.com",
+     "t": "2026-11-20T08:16:23.000Z",
+     "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tVWY1SFdwZmFzZmxfVEswVDNKbVV0WVFuWXBTV1J2X0NJNmpGM2hoUEprcVUyc09FUjFNWjlEa3NMdkFzcm9rS1I4TW9ZUDZiUkRZTW1NaWxiLTZDTkFKaW5UVDQ4WVhIT3RvTQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "AutoZone-Aktie mit neuem 6-Monats-Hoch",
+     "s": "boerse.de",
+     "t": "2026-11-20T07:01:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM08wY2hETmJZSW91SlpCQUtjM1pFYlRQV21Xd2N4UTM1NXN6V1dCY2kwZ1BQS1dhei15RmJ1RnVpX2w0R1ZJVnFKY01SYUFjU2pvS2ZZTmtMN2pSWGVDbnpoeDF2NzZhSU5FbUdlT20yR3NDbUpld2FJamFrMnc5NG1rUTUwYUYt?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Oak Grove gives updates on auto auction opening, new AutoZone, waterline project",
+     "s": "Christian County Now",
+     "t": "2026-11-18T16:49:55.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbkU5SXFjdjdlc2ExOUtSVUNoZ05KMXR5eFdaSzMtXzczbTE0ZF9FMlB6UkUyc3pBU0phdGh6WTNBbmMyNkRFMkpuOHBxNTlqaVlBODFyM0RZNk13UTV4UkFEQ1hHbGxVeklSWVN6dXFMWmxESVJtT1NUdThFS2hBUVBWcU9sTEVpTVJYR1ZrWGk4WEFaSFRkSnlTWktqS2lCREVuUThiZTRIaDZjTlA0WDdja3FaeDI5S1JKOEVSRQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "S&P 500-Titel AutoZone-Aktie: So viel Gewinn hätte eine Investition in AutoZone von vor 3 Jahren abgeworfen",
+     "s": "finanzen.ch",
+     "t": "2026-11-18T15:02:20.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaGZyR2JrSjQ1cHRqeDF4QmhZTTY2QlNSWGR4dEY3elJ3a0QxbFlXcWRHd0RDblM5R3NsdVJYWWJXRU5iZUlyX0tfNE5UelJta0JMTTZPSzJub0tFRWNGMzB0Ym9UVFNienNGZEV3VklUcFVXQ3U3MnJXTllLMjRfTkRGcjlzMlZtNDFydkF3U2ZkWnU5VXU5Y2p1MXZiSTlpeHp3akdzOE11OFRPSmhrbnVhSXNRbzRma3Jnc1JZNXh2UTJuMzhpX25ZZHNPUTAxU1VqQlFQX2Fyd21iYjNTT3BwU1VwX3hIYUxyS2ZVbEdid0U?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Woman Goes To AutoZone For A New Battery. They Said It'd Be $95. The Cheapest One Is $289. Then She Pulls An Uno Reverse",
+     "s": "Motor1.com",
+     "t": "2026-11-18T10:10:02.000Z",
+     "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXbTNmZEFFV3ZZbzhtdmk4ejl5eUdjMkRjNmZsVm8tc2NUMlBDLUNDcWZSNjhuZkZkdmJEb2did01vZWRNU3M3b2xXZWotbXo5Z0dDS0RaMGZtalROaHJXMFU3ZnEtVkFGTG5Eb0F1SldBbVFy?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "KAI": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Kadant-Aktie: Umsatz steigt um 15 Prozent, Prognose angehoben",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-17T04:50:14.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTWlmU0V6V3lDLUt3eGdDV01tM1Q0UzkxVnZkakpBMTdCSFJYUkZVRkZzR2ctWEcydHgzbEdwS3dNMExrS3FmeXNmQUpVa2I2VjRjX1NxUGdOLWp1WGlBVnN2S2ZlZS1LcnhZWHk1ZEVhZHZwWTkycjNpNFlobUMwdXJpeWFRMmVUdzZuamNMckVOTlhlMEotb0M5UHozSlI4MDM3emdOT2E3VGdjNFg3N0NHX3dYV0VkaVE?oc=5",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Kadant (KAI) Stock Looks Fully Priced On Future Cash Flow",
+     "s": "Yahoo Finance",
+     "t": "2026-11-20T06:59:00.000Z",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/kadant-kai-stock-looks-fully-061158352.html",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Kadant Declares Cash Dividend",
+     "s": "Yahoo",
+     "t": "2026-11-19T21:12:00.000Z",
+     "u": "https://finnhub.io/api/news?id=38700b7e662a870ad618d0110c93c7ecdcd20624854315b07581da6b6275702a",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Kadant Inc (KAI.Z) | Stock Price & Latest News",
+     "s": "Reuters",
+     "t": "2026-11-16T18:13:08.000Z",
+     "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IaWp2QlpXSzNjZGVpZFRZeVlCT0lmM2p2NzljSUhCbjlVRVh0MmxDcFhEbm94VU9jZFlxdlQ2d21PZDhjNFg1VG0ta2lUWVFtNUZxZ1hfX1dDWlNUbm9VcEFWeEplT0MxSV9zSg?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "All You Need to Know About Kadant (KAI) Rating Upgrade to Buy",
+     "s": "Yahoo",
+     "t": "2026-11-10T19:43:26.000Z",
+     "u": "https://finnhub.io/api/news?id=151cbd171940af698c2e4629524d370297cc44a5dcdc8ea3b08e14dc56ca1be7",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Kadant Q3 Earnings Call Highlights",
+     "s": "Yahoo",
+     "t": "2026-11-07T16:14:28.000Z",
+     "u": "https://finnhub.io/api/news?id=c9f5aba63663b106ba77214c9d06d06c12735c5379fef5d9904e1c12135bf568",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "GIS": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Forget Walmart: General Mills Has More to Gain From Its Beat. Walmart Is 22% of Sales",
+     "s": "TIKR.com",
+     "t": "2026-11-20T14:38:52.000Z",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNG1fRWhCdXhUalE5aGVta3dCbVNLeVpscl9WZXNKYVpWTV9qcDhtRW5GaWh5X2toV0JpUHhOU0RhYWdVZjFBN2l4a3kwbDBTNFR3NlBpZ2pNcVJGN3ZCRGF4cVB1SDFWa3hzV19xMUZiUjBuOUU1YnMwSTAzVFJOLVJGeF9GU3NTbHd2ZDNELURKSzdua29rU0FPeFdmaTNya29mOWNJT2RqSnJuV0xWZWV3?oc=5",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "General Mills Aktie: Häagen-Dazs-Abspaltung außerhalb Nordamerikas möglich",
+     "s": "Finanztrends",
+     "t": "2026-11-19T16:36:22.000Z",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVWY1Q2NfVjBqWnFCaGQxUUVGNlF2S3Rrb0RFd3JNQlA1ZzhoVGJZRm1mOTY4N3pwVFk2bW1WWFJvSWtrb2hmNmxuQmZ4U1RjTG1CcTBsOGJDUmd5Q2FJOXdDNHBwOC1haEpTWDZLZ2dTOHlEVjF3alEwT05iOEIzdElrSTV5RE9VOFZzRHZCeGN6Ynd3SkN3NzhmVkFZcDVDVkFpeDlIT2xhMnhOSENB?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "General Mills to Webcast Fiscal 2027 Second Quarter Earnings Results on December 17, 2026",
+     "s": "Yahoo",
+     "t": "2026-11-19T13:00:00.000Z",
+     "u": "https://finnhub.io/api/news?id=c62096df4054df9b21f9dc2edfcd81ca7bebf6680dc77df587114ac576285a8a",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "How Investors May Respond To General Mills (GIS) Dividend Cut Risk",
+     "s": "Yahoo",
+     "t": "2026-11-14T01:13:55.000Z",
+     "u": "https://finnhub.io/api/news?id=87d858295ecd178f40134fab512900d44391c1068bc5a1034f4eed089a9222a9",
+     "r": true,
+     "why": "Dividende/Rückkauf"
+    },
+    {
+     "h": "Analysts Offer Insights on Consumer Goods Companies: Target (TGT), JM Smucker (SJM) and General Mills (GIS)",
+     "s": "The Globe and Mail",
+     "t": "2026-11-20T12:22:40.000Z",
+     "u": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPd1BoYjBCb0kxNjNjUHZLcGkxcjdubDdHMFA3TDdEbHRvQTVBOXpwR2FqbmFSWTVQRDR4ajBMMFBLQ2tkOUQ3ZlpjbnczUVRVSFZhZm1FVnM5RS1jb1FTQU85N25mdDY1eHc5cmRXaFM5MzNnRzRDUHVnWnZ1OFRJaTRyU0VkeWRTMTR3Mm85d012R2hUTXNWdzhzWTUtUnB1cmVIWXJBNWpzVlJhVmxBSWF0ZmZhWHBzdWVPQnVIQTVmQWpHbFdBVHZvYmcya1hmS1o0RFU4a1hHd0Z3cno2MmFEajhFY1AxRS10ZUF6ZU1kak0yOVhHaG1uRDlxNmpNdlRmZHdtTWRXOFBkaXhoQQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "General Mills Aktie: Frühstücksflocken und Snacks rücken zusammen",
+     "s": "Börse Express",
+     "t": "2026-11-20T07:34:09.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2lIQ0RuMmJJaDJmSzh1RFNlcDh3WHZCai1GdFlnZWV6VjdFTTdxNS1pNkRLVHBGMlFoLTN2U1JkNjRCSnJmT0gxZGRJTG0zU2NRSHZRSmpnX09CMEZlUFB6aXd5RXY4alJUai0yNVQ2M1cycjdnbTZsLUp2V3BVRG56Z1hWT1FpQ3VZV3VWZFRUVXNfQUVOc1YteFhVbjJuVUt3MzZJVUJaWkwydGFadnBXcnRuNGpqTlVF?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "General Mills Faces a Reckoning on Two Fronts as Piper Sandler Cuts Its Rating",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-20T01:41:01.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeXROVl8tVzlwS1lOUFFrZWZGUXhvRl9aanpEalB6bC1UUGdzdzhYdUhSTVpZY1k1SFFWMmlsMnpnZmtvVVRhUWFvWDBHSnpXUnR1R2d1X2h4a18tMjFUZGVMaGpnckt1cTFXX3RJQkt4OVVLYzJaV2dzb3hkVjBkeUNocGFTV1dncWhqVjQ0RnNjVm94Ql9jR0Y0QnVZX2dJdDROS1FCNGw5bkJldVJXWDh3S1M5THU3aWVXWWowV0NBckdmeHZFUUE3NGFjWk53XzdDRm1LMzJ1UUJwMzFxenVnRlE?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "General Mills Aktie: Q2-Zahlen am 17. Dezember 2026",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-19T19:54:36.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaVF1Z2pVMmNLYkU3SjRXZ0huZWpQUjlLaWJvZzd2M19NVWxfMmYyNjU2NGw3WFJQOGNEUzllTzhiUGNEVENNd3hTd1pvUzk0WThieUl6UHZVQXlHdnNMN1dVc0Y4M3dOSUdqN3hVdUdiY1VwbjZSQWpxVTBKYl9RTlpEeXozdmxOYWhOcXN6WUpFOEMwektZY1FrblBtV1RrcTJiMmdwZi1TLTgyNVA2Ylpsd3VmMFBUY1pUdVF3?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "How General Mills Made Their Monster Cereals Entertaining Rather Than Frightening",
+     "s": "Laughing Squid",
+     "t": "2026-11-19T17:02:34.000Z",
+     "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QNURvYm1fM044QlN1V3JXYU5HN01lanlkbVpHUTFMQU5qMWpESmxWbW9teUQxN1VhUEtKLTVBM1FTM1ZfSTRNSms1NDFsQWxwMTl3OTl4VGZLZEN3Vm1feHlrZDh0M09yOS00VHRWQjFDUQ?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "AAON": {
+   "ok": true,
+   "items": [
+    {
+     "h": "SEC-Pflichtmeldung (8-K): Wichtige Vereinbarung",
+     "s": "SEC EDGAR",
+     "t": "2026-11-13T20:16:30.000Z",
+     "u": "https://www.sec.gov/Archives/edgar/data/824142/000162828026073758/aaon-20261110.htm",
+     "r": true,
+     "why": "Wichtige Vereinbarung"
+    },
+    {
+     "h": "Why (AAON) Price Action Is Critical for Tactical Trading",
+     "s": "Stock Traders Daily",
+     "t": "2026-11-19T16:16:02.000Z",
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTnc0R283dGtZWlh3VC1lclk0aktvMEhGTGF2Z0h2cFhaV3FVWWVLWHNYLTRoSW5NUWlrbmoyb2wxMXJMSzhJbTFwUEtVWThSQWt3YnJsUkN3Y0pLbTlsbWJKMjlBa2VneXoxbHhJLUE5OVRIMWJLc0hzZU5ueDRBeFhTTkpkc3B3OEJaY0kwQ2ZvMnExcnU1dWhlU01XMUVwdlBuSUFYb0xyX21NRmliQUZiNTQ0TnJpRXZsX2hBeXlILWlVN0JtMFp3Y3pNZw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "AAON Highlights Strategic Growth at Baird Industrial Conference",
+     "s": "The Globe and Mail",
+     "t": "2026-11-17T12:03:00.000Z",
+     "u": "https://www.theglobeandmail.com/investing/markets/stocks/AAON/pressreleases/8883044/aaon-highlights-strategic-growth-at-baird-industrial-conference/",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "AAON 8-K & SEC Filings",
+     "s": "Yahoo Finance",
+     "t": "2026-11-17T04:40:17.000Z",
+     "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8zemFHd0JoTXJtNWpnd3M1MkFKV1AyLUdsX0otRlZjZjNfX2VycUdzTkI3Zi15MzZvWTQtenNzRUNpSkNNZGUzcXkzbV9qZjVZYmVHLUNKOXpYSVRaQWZ2RkNTRlBGSDR6UXRxNWNubjZ4OWl3U0tZOQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "AAON, Inc. (AAON.ZY) | Stock Price & Latest News",
+     "s": "Reuters",
+     "t": "2026-11-16T08:19:43.000Z",
+     "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OX2NRSzhicWJ3R3hHLWRvSUs5WVZkZmFreE40WEFYWExyeFNVNkxfUmlZY0xuS3ROOGp0d2IwYm54Nm53NEVqQXgzRHdfMGo5Q2dkbXVfVmNQUDhMOGM5WHNXVi1WVXhqVkYzTA?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "AAON: AAON Inc. filed SEC Form 8-K: Regulation FD Disclosure, Financial Statements and Exhibits",
+     "s": "Quantisnow",
+     "t": "2026-11-16T19:31:54.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUVGbmJPaEZ5U1ZSVmZBUGZKUmVsWFBpd25KcGFuaEpnTVVMWFBoNUptRm9tdWg5UGJUN0IzSlRPUlI2eUtIZTAwYVpIMHByUk9qVWthakZXSHdsSVR2d2RXNVY4ZVF5NEo3WlZkN1ZJNVVIUGhUNkdhWUFWdWVWS2ZMNW9XRTVEV2x5RWdGTHpIc21LVXNYcDhyallSOEY2d0JRMHZLMkU?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "WM": {
+   "ok": false,
+   "err": "fetch failed"
+  },
+  "SYK": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Stryker Sticks to Growth Goals Despite Cyberattack and Slower Orthopedic Market",
+     "s": "MarketBeat",
+     "t": "2026-11-20T00:16:24.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNamdYOUVTb054NVV4anJJLUZzMEx6a3lCMUFVRjFFVDdZdmpxbXdJVlltVUpxVzMzandpNVhPZDdpUGpyRGJNQVdLajFUU0RHRUNoVWQ4MEhnUVZ5LWxhTGZIRmRaQnByWnJMWG1yak5zdkJKNFFvT2tpdGZ6RjNZOUZpbnpRREVxN2dfb252eW5qTG91SEt4LVhkSzA3MjQ5eVF1Rm1XaE5JWGVMVWRqSHpnMWZjUDJ4dUljNzBCY1lsc200S3JJOVY0Y0lrRnROdGVad1pn?oc=5",
+     "r": true,
+     "why": "Risiko"
+    },
+    {
+     "h": "Earnings Beat Might Change The Case For Investing In Stryker Stock (SYK)",
+     "s": "Yahoo",
+     "t": "2026-11-19T07:12:38.000Z",
+     "u": "https://finnhub.io/api/news?id=9025b6654b743eb78cacb3524b7b357fe1bb636f26a7bdce71113ddc80ee277c",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Global Gynecological Examination Chairs Market Report 2026: Size, 7% CAGR and Forecast to 2030 | Capitalize on Smart Chairs with Stryker, Baxter, STERIS and Midmark",
+     "s": "Yahoo",
+     "t": "2026-11-18T14:45:00.000Z",
+     "u": "https://finnhub.io/api/news?id=5d2a9c86bac425de3ae3a6e2e4326a9657b3b808755165f9e0d95b886499d16c",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Stryker’s next CEO has an AI agent named Ray (but had to fire another named Bob)",
+     "s": "Medical Design & Outsourcing",
+     "t": "2026-11-16T22:23:57.000Z",
+     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbEQ1UzhuQnNuSEZ5NFhIVkZoUnhUdDF6TnAwZVlDQS13cUQ4c3VSSU1LVzRBamwwMGVuRUc1ay1UN2JXMFQ5X1NnSWRkUnRtcUh3VldBU3k3VHNCVldFMGtXSUVlaTZvOHVCWG1uOGdBbTh3OU9LZjc3S25ua2xXNzNJdUhkYkFIQWlWSA?oc=5",
+     "r": true,
+     "why": "Management"
+    },
+    {
+     "h": "Stryker-Aktie: Piper Sandler hebt Kursziel auf 350 US-Dollar",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-16T17:48:13.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmpHUUJiangxM0FIbERwN1lyMGVJZjBFSHdJdVFfYU02TVdUMlc1a1o5QWhKLXFROHdNMFV4cWtnSmU4RUtmUmtOM1BMZnJMYUY4YzU3N0pUcmxIOHhGZWdMdFVnam9SWVZvUzNRbGVLVU1CbmNlSFRVUXlNYTJZU01qSlhiOWpZQnZBTENYLTh5Tl9IRmtXQ1F4bVpWWks1Q05rVm9LRUplRVNpbE5VWUVYMVY0M1dieW9qUHhsZw?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "Stryker stock holds growth targets despite cyber and market pressures",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-20T13:28:22.000Z",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdm5NSWFCVHpoNFVUYng1NVk3UzJTQjZ6UjlVNlJvNEtOdi0xR2lRS2RuRm1GOU8wUDBqcWFYYkkzUjRCVFZyT3lhTzZINTRXZ2lDblpOQkg4YWJaM1R4MnZZTkc0YnhjbkI4WS1KcjQ4WmpiaFI2V0lNd3dsSWJRSGlFSEhDZS1TQ2JvQkFnWHV1Rmp0TFRabDdFUThkc0tFWEc2WDhBMVhETGNUTTI2ZTFxNWNrSUU3SkNaSVRqdUVWazIwT000aEZmWEU?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "An Army Stryker fired drone-killing drones on the Baltic coast of Poland",
+     "s": "Morning Overview on MSN",
+     "t": "2026-11-20T11:35:00.000Z",
+     "u": "https://www.msn.com/en-us/news/other/an-army-stryker-fired-drone-killing-drones-on-the-baltic-coast-of-poland/ar-AA2hSvBj",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Rep. Thomas H. Kean, Jr. Unloads Shares of Stryker Corporation (NYSE:SYK)",
+     "s": "MarketBeat",
+     "t": "2026-11-20T07:03:24.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNElPS0paNkkzUi1fZ0l1MXloV2ZCR3NXaTM2NXozVy1yY2EzbmxiOTVqNVlvMFZWQVo2ZmViaEFWZ3JNUzF5M2Y3dVhiaGhpUlRCVDZFZXIyVExfUWJieG9jaU9RU3ZkUnVGMklPRC13VnRjbDEzcW4xbDBLTHIwMl9IU3EzalNDUlcwLW81Z3lyQ3pjNXY3anZacmpCNWFOeWFxazhTMXo5LUp3bU5HcUZfMC1yV0w5OGp0V1RkOGpjNEFOS3lXUkd3?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Timothy Cole \"Tim\" Smith Obituary (2026) - Laramie, WY - Montgomery-Stryker Funeral Home",
+     "s": "Legacy | Obituary",
+     "t": "2026-11-19T23:50:09.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOTkxX25uZzllWDZsTmZZM3VfaDlOdlhhMDVrdWVDam5qWnpzLXA1dnltNUE4djJ1bm94aTNWbmlLVS1MWUJXT2xxZFBvSDNZaFY5SzRiSFYybVpuQ1lXb1FGTGxadnpMLUZkUXl2RWdOU2VEYUY0cFFtZm01X1QzUVl3?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "General Dynamics Is Fixing the Army’s Fleet of Stryker Vehicles—for $332 Million",
+     "s": "The National Interest",
+     "t": "2026-11-19T19:02:49.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPczBfdE1RbFIxMzQ3bGRwOHFGZUxXQUQxeDJHWTBQQ3JnLVlmYzBJYmk0TndORU82bGQtRDZ6cDJTNG00SW1ucDUxcUdmM19oeDhUc1o0TWEwc1JaZ05qT0VvbG1fOGhhUEZhNHVmYS1SMTJLa3VLQ0tqMEFLYWlZYnBEdXJ4RnhGZmptQ1drSjhzM3J2QWV3WERob3pwMEI2NTFLdjZWUS1lYWc?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "IDXX": {
+   "ok": true,
+   "items": [
+    {
+     "h": "IDEXX Laboratories Inc. stock outperforms competitors on strong trading day",
+     "s": "MarketWatch",
+     "t": "2026-11-18T21:49:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLWlFa0NzQ3AxTXpzcGgzeDJQcl9iOWc4Njd3MFdzNUVtSGxHQzM2b1hWUHBwMkdvSXU4dmRod2VJNTJMdXJRdTJ2WkdKMEZ4NVQ2QWdQVFB5Z3VOMThSWkdtZWtMOXFqbzh2US1RNHNvMmVZd0ZYVmJoMG9lQ0tVUlJqQklvUldITWIwMXZkcXZYS2VpNDZKNXJyMU5GdG9qRDlHU2dBSGRoOHJPM2hWeHRXbjVOVkY3eWx3eEJ5c1J3WEhXeElCaXJadXhyM3N3QmlJd09wWUNJd1d4aVlqM1FtSDZ2cXM?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "NASDAQ Composite Index-Papier IDEXX Laboratories-Aktie: So viel Gewinn hätte ein IDEXX Laboratories-Investment von vor 3 Jahren abgeworfen",
+     "s": "finanzen.ch",
+     "t": "2026-11-16T15:02:16.000Z",
+     "u": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQOENqT2drRkpIYXVZX3JNSUJRRmpzRDkxSXdrMEhXc09DNFk2eDZRVVEyLVRFVjNEZjRTajhwcTNXTExqQy1YVUxVYVNBSGRDdGZ6V01seEdCRUxnTVFabklKNlRuNFI3d2JnSC1kVXlIbFBXcDMtT19JeTY0ZVcwZjlwYks1QlNiUlpMOGh2WEFjWWx1VnRtOUdXbnpydlRPTThUOGFsX3VGelQ2UVNFV1JKWE9ZUzlqa3lJUUgtZUlnVWJPcnVUUUtzNDdmb05JaUQ4b0xhVkk5eTVBeUVqZXk1ckZNT0JVU05sVVd0RnU4Q1VFTEdrVjg5M0RsQXZIWmduZ01Bai16LVFRaldNWXRiQ2Zuam15X2NWRQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "IDEXX Laboratories-Aktie: Champions-Check im Monat November - boerse.de",
+     "s": "boerse.de",
+     "t": "2026-11-13T09:29:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY21QVVFiTE1yeWpYTjlYX1BDUDUxRmxzRGxxU1JGQVNtakl2bFJYQlNwMHZabWZjLS0yRDhFZS1TM0M1R1I2QXhOaVg2TXdqRGF2dkpWRmp0NXpTRUxiQlNsRWNzMHpQRlN4R0NEbFJDM0Y1Zm9JRmNVNktIWjNwLWtrWWdWUE9kRHVKVF9SNktuS3ZZd0pqcTFfdkRvVUdHV1I40gGoAUFVX3lxTE1DdTFQd2pWazJiaWtsbzQwd09oNUhJR19MNHBYV2dCRU5NUnBIOWhja09zLXdQdXc1YXBWX1dYVWk2ZE1RVEswUjhkM3FjeC05eFd2enFjbms4RjVYQ2ZDMzc5bXVUNFlIdkRNVDJ6bUkzZThMTER4eEtJemFBQlozaXZWS05ydEhvbXM3aUJKaE5uSjJjU2FPTTBLY3BlaGRhWFpwTkJoYw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "IDXX - IDEXX Laboratories, Inc. | News",
+     "s": "OTC Markets",
+     "t": "2026-11-13T08:00:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORkp4QWpwVXdyTnlaaV9VWno5SUExU2RhNWpzeWxMN3M1bUM3S3Q2ZUVyUzVXOEZrdjRRSjFnS3VWc3dWbVNjbW1MN0Vfb2twNFZXQXhUNTFfMmdrWXExcEVLalRjdk5SbzRueWxHcEpLU1dtdVBxR04zWkRnWXRQajJOTnNPZWxha1djOV8wNXltTkMyX3dyMG1aX3I3X3ZfdWM0WWFKcnhVRVE1c1hWd3FFTXpyMFVrWGpBNUo5Z3dKeGRnUkxDY3QwMVZlZFIxOTJib296aFQ1MERycFpPZC1ZRTMtQXFFVU5ZTml2WQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "IDEXX Laboratories Aktie: Aktienkurs, News & Analyse",
+     "s": "AktienCheck.de",
+     "t": "2026-11-09T03:22:36.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yMjFIWmtPT2d3ZUphSTBaYmZKVERsRTllRE9say1MYUNjNUZyeTMtZzY0c2I4MEpxY0J0Ni1HbDA2Ty1vWXJqdlo1ZEw3cHVjUWJoeXAyNGtLRm1JX08xZllyX1Y?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "NEE": {
+   "ok": true,
+   "items": [
+    {
+     "h": "NextEra Energy-Aktie: Dominion-Fusion bleibt in Virginia umkämpft",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-20T16:55:34.000Z",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX2VoMzNmdTFkak5LZEpLVTFiaHpobE5kU3FVdzlwSzlIZXVSLTU4RnF2Z0pWT2Y1cFNKNHlYTkc2OWprS3UyWEg1UnB2N09CcFhCZ25sdy1zNVFTUnJIZkdfLVVXV3JzM0M2aUtTSWpLTERUWXNRb296RHJqWERRUkpzLXF2azVJbmJsMkRyekVlZlRXeG5CeTJDcjdWVVhZTjl6Wmo2VFB3N1dSNHFXV01KakNmOVBBNGJxZ2tkMGMxb2xLM1U0?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "US DOJ antitrust division closes probe of NextEra Energy's acquisition of Dominion Energy",
+     "s": "Reuters",
+     "t": "2026-11-20T01:20:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNjRNSGtBUmZzOEREQ3RfT2FxNXZ6Nk45VV8tUDEwRjg1RkxuY19qZW55R0xNVW1tcERwT3V1V09ySDdkVm4zS3lxZmQwZGZqZHVzSnpicHdqWmVVaVpHeTZKcV9IYkFXWEY3RndiTE1FM096RjFKZ3RxNF92M0pxaGFPSHM0NmJRVS1rYW1YM1BIUGN3Y0dmbTlOYnFNaVdDSl9TRmNTUDBtdnUxcGg1VUFRdW10THpP?oc=5",
+     "r": true,
+     "why": "Risiko"
+    },
+    {
+     "h": "NextEra Energy stock faces fresh scrutiny as merger hearings continue",
+     "s": "Ad Hoc News",
+     "t": "2026-11-20T05:32:00.000Z",
+     "u": "https://www.ad-hoc-news.de/boerse/news/corporate-news/nextera-energy-stock-faces-fresh-scrutiny-as-merger-hearings-continue/70539985",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "NextEra Energy Aktie: Justizministerium beendet Kartellprüfung",
+     "s": "Börse Express",
+     "t": "2026-11-20T06:13:10.000Z",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRmhuNHp5Y3A1LVdvUzY4aEIwdHBEZlNFczl3cUFqelkwY3R3ZUdFM1gtQjk3NFI0S2x1M015QWxKODF5RlpwaVJKUVBFYzZ2UnFmbVhUbkVHN3h2T2FtNHVSN1FvRTY2MFQtRERZdFZMMlhXS1RrdnZibEx0eXBXXzBNUTVTTXNSMnplT21IdVlhc1lROVJlMktMT0IxeWwxZTA1WVdWb3VKRnozbG5xcElyTGc?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "NextEra Energy-Aktie: Champions-Check im Monat November",
+     "s": "boerse.de",
+     "t": "2026-11-19T09:27:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWXU0dXRNVzhWbWFGeTFpR2dBSDExSDVpRVo2MVk4dFlCekdxd2dkaVhzcXFLSFczVlhUbHRkMnJ1a3JMLUR2SGVfMTZYVWtCb2toTEZCYmYxMXJiR1dkWUNxZFpMQkhTQUtoT2Zwa3BuN3N0c01iU1lfWDFheDdjRWtUSFBJdHdwUEx3NFRzRUVUZXJvZVJjMlo5UzN5Z9IBowFBVV95cUxOVmhTblVlYmFaal9sX2VDSEhqZUp1OGN6OUVhYTB5aElBTWF3WUNiamdyeXk0MDlYcHFmU2QtTjBEV19fTVljdjFhTjZnMVY1U1FOVWhiVlBmbnZuSGxlRHhkdUpDQWhBbnJPMnpHRFB6OHU5bjNvU0N1Z0NnZkRxYjAyTnljR2YwY2RGRWtZNGtodldyeW1sR2tOekMzUmc1bGhR?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "NextEra hosts Battery Energy Storage System open house",
+     "s": "Yahoo",
+     "t": "2026-11-17T20:59:00.000Z",
+     "u": "https://www.yahoo.com/news/articles/nextera-hosts-battery-energy-storage-045900913.html",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Ratepayers, Community Leaders and Legislators Rally to Stop NextEra",
+     "s": "Yahoo",
+     "t": "2026-11-17T19:24:00.000Z",
+     "u": "https://finnhub.io/api/news?id=5afbed2af5ed091a7715b1b0756b029cafbd7ecdc1844a972ef5daf801924a82",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "NextEra Energy Aktie: Preisstopp und Jobgarantie abgelehnt",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-17T14:33:22.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN1VGOFdKU0xCTDJ1TGFIQzc4bVg0M3pUOUtiS3JlMU5jZjE3YmhOLUs3d1VGUkFXdjhYVzhOZHFHdFd4N05TV1JpNF9DSkU1UERNdGotc0VOV0RDTzI5cHJvbmtyTEVBTXVxcEdnWW9DOVNWSGNYaV85SmVtWTdONUlvWThIUEk3bVlYckJEa1ctR3pGWk1jOXMzZENiNnRaY3JrN3FKZFQya2tXVnV5RVVxNjVFZ29MNUhncHNfeklGa1VRT3MwTg?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "DOL": {
+   "ok": true,
+   "items": [
+    {
+     "h": "I tested 6 Dollarama cleaning dupes against the real thing — Some actually beat the brands",
+     "s": "Narcity",
+     "t": "2026-11-19T18:52:44.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vMXJtUHdaZjd0SVFNaDBSakRSbXg0eTNzbzdnSE1peVRjMmtLU1NCTVlSTUVmRVQzRkJaSnZ4V1gtWWNuRlZaeFota2tid1hpM0lQektGTVQzenpza0FGNGdwT25YZw?oc=5",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Dollarama Stock Outlook: Pricing Power, Retail Margins and Long-Term Growth Opportunities",
+     "s": "kalkine.ca",
+     "t": "2026-11-19T12:11:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFpZa3FWWWM3bkEzM2pMNXFWejdqSmkxZkl5NDNRUmQyR1JMZ0hKVm05ekoxVFFSbm4waFBhSmpRMkxlZmNQWV9EUXQ0UjNJeHI3RHBlS093bmVia21RdUpzTGp1NFhfZUJaRW9DUjNfMlp6VGdJZ1BtUmxrbnZXLUxoTi14TFR5bndCVnRYLUhzUHNUWHRqdFJySGROYWtfSFpEVWRTX2hHdGVfcmVkYXhtbkhjT3NHX3c?oc=5",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Dollarama Price Target Raised to CA$250 at TD",
+     "s": "marketscreener.com",
+     "t": "2026-11-18T12:35:30.000Z",
+     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR1VCVUI0dW5DbDRPbFAxOFducFFBbkJ6dmI1UzZaa05wSklzcFZtWjBnSWwxLWZKTi1uWDlkVTFycDZwYU14SEc1MWVoTWJpZ1FKMUNfZXU0UXJsVXBZWlRFekJ4QXV5SVMwWXpiS2s5ZFd2bXZ3UV9fUWNEMkVWU2FKaFYtWVRadVhKdXhDTUktT3JYVGVLVWlsRzktc00?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "Dollarama: Premium Growth Story Keeps TSX:DOL Near Record Territory",
+     "s": "kalkine.ca",
+     "t": "2026-11-20T15:17:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbFdBbVN2R0dyeG42NWQ3TUdlVTR5ZF9VT2x3RlhTNE9LdExSdWFRbERyZTktdnY0cjRCMlJLdHphQTVaaHN2OGMyR0h1RFA3SmU1SHgyYWptTmtJS2ctcUdaWGJuUGtza0swQUpYT2xJeFhQcWo1dVZYZ2dRRGNqUXdwWWtlcXBqYVVDcU1wQTRZdjZGNFdaWnBDYUI?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "TD Cowen kürt Dollarama zur Top-Idee und hebt das Kursziel an",
+     "s": "aktien.news",
+     "t": "2026-11-20T08:06:17.000Z",
+     "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVHJaY3lZUjVWTWRZUzVkUy1nM2FWMFEyTHN5LTJBRmI2eHc1WnllQmozQjNDcERLS0Jtb2JfcGgtWVA1RmR1STJlX05rVVR2WW04UkpORW5VVnFVNW9HMFNBTnRnZ1lwTHBjSXNDOV9WZGI0MF9tcTBteW9maW1KTHBSTlZhdk10YXc3VXl3?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Consumer Resilience Puts Dollarama Inc. in the TSX Spotlight",
+     "s": "kalkine.ca",
+     "t": "2026-11-19T17:32:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdmxIOWNwdjNEQ1phSkxXQkRTa0ZWa2lYbGR6dVF0UWFmcGRRSEF4QXpZNjh6WWd3NkRxeEZlT2pLYWZtX0w4a0FFSHRGS3ZBNUhmRWtpTi1OZkl4V0N4MmoyOHQ1UkpWeTRkLWlpUGY2dGkyMjFFNThvU1p2VmNXbnB6ZHRYdC1YMjhEc25CNVB0c245?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "DOL: Store Growth And Buybacks Support The Case, Margin Risks Keep It Balanced",
+     "s": "Simply Wall St",
+     "t": "2026-11-19T10:20:11.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPTUxHMUt6YUVHVWpNSGpjVWRlNGFxSk5feURoQjNLU254TjFralh6RzZhSDh4VE5nNWU4aUczU0xSUzEwVE00WDRfM0VDdDdOSWpUVk9pZVpQRHdjWG1rRlJSZmVwbTlucEREckU3cHJXRUJIVDRCblhQT0RacWpLVzMxLUVCU1BwSVJvSUJiaGcxODF2R0oyX0tVeHo4eHpaZVZyRGFselJfLUl2OFR0aEhfbFQ0TS1fTFVXS2UwdzRrYzBlQjhUc3Q0MEJwQWE2MDBEZjlsSk9OdmVDcWdxc2RoMElGWHpQVndsUG1kNTNBZFBYd3V4aGR6ekRMb3JnZDZKTFVlNlBOb0RXVkFjMi0wVWVMQW5wdmhnaV9aVkIydjR6a0lxaklXbXE2Szh0dVF2eDdkajRGbHhGSjRiUmpINlFaVHNsYmY1OTZQejZ6dw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Dollarama Inc. stock rises Wednesday, outperforms market",
+     "s": "MarketWatch",
+     "t": "2026-11-18T21:31:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTTdqMzBZNTktQkJEREFKUm9TWTdRQ21LRmUzYnlROG9aeWpvQWY2T0doU1lEbWFxTUpzTF9mdFVQRkV1aXVJYk5vQ2IzMWp6TnpsTkJmMlJXcUZpSkY0aVF3RFBKNE10UG5XNGxTU2VtM1N4M1QzV1N6dVNYOG80ZGRCLURLNlBOSUZCXy1RMFJiZEptYVozMzhpT25seTlIcENtcHFTSHJyZi1FN3FCdEtxQzdyTHM2NXh4Q3VLd3BMcXFRR19ZbXhIbzc?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "TIH": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Toromont Industries Earnings Call Highlights Growth and Backlog",
+     "s": "TipRanks",
+     "t": "2026-11-14T08:00:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNC1uaVUxdEdYWWZCUlhFSkVSLU02c2hyVzZ4MHJMUnd4aEh5VGxVTlVMbUdNZERKa1hQemltSlk4WHNpeGx0ZnUxdFBYc1pyeFJ6UjFXakZYMGREazFhRGJYaHlzRVlVMTQ5MHRyTEdZZTZwbmxyS3NFWGU4WFNYODBtaHZuNTRMTVNVRS14VFdyZ2lUM2JwNkg0MTZuWWR4am10eDVEaGRoSVhBcGdxRGs3VEh4UQ?oc=5",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Why Toromont Industries Ltd. (TSX:TIH) Is Trending Today: Q3 results and heavy-equipment demand Puts This Large Cap Value Stock in Focus",
+     "s": "kalkine.ca",
+     "t": "2026-11-18T15:56:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNd0xCMmZPVXJzaVBiUkI1aW5ndFdZWWdmc1pGLURtMGxjMnFTd242bDRFU3FzX3d4Vkh5cVVSeGZ3N0Y4LTJhY1VEb1h1T0hHd28tcjMyUGtpUkVYdnRsZjBUeGRCRHdBX2Z3eTQ4TUlWblZYY2hVSjFFZmdTZnppb0ZfVDk2RHNTWFR6ajlYQVZneF9yV1lDY1hTYjIxb1g1enVOd2MxZjVSQ01fbWFoN2FLbHc3SFduU3lyXzliLS1PYloxREZ6NGp5QTF4cW1nTHZGU2Q4cHNnSkpVOG1yM21WSHVpcE9PMnd1RWF6YlVkYUZLSXdsWlZ5UQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Toromont Industries Ltd. (TSX:TIH): S&P/TSX Composite Index Large-value Stock in Focus as Investors Track the Next Catalyst",
+     "s": "kalkine.ca",
+     "t": "2026-11-17T16:03:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOd3AwOXd4LW1hSXRrRzFOcmJiV1NXbE9EOWs4VmxULXc1QmlVRHFvU1FENzQ4bjZPay1qVjA3U0xmM2NCYTVKZVVpdUMzaEFod1E0YWc1VnFwUWU5S1NwekJpanNLRTZHNzlzRHlFai1IelpENmhUcWFLUTdvUktxc3N2Y09CR2YwNmJjX2tHdzlCSTREcWUyZVVyR2dtc21WZllRUU85WlZ3ZEZtSmtFVXdERXJvQzhGR0pxVlRuNTQ3WHAyLTMwUXF5RGxKNTdVRmpfOEFjWjFGT0RmeVplR0VDUDhNRTg?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Toromont Industries Ltd. (14T.F) Seasonal returns chart",
+     "s": "Yahoo Finance UK",
+     "t": "2026-11-17T13:01:23.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xdVF5bnFvLVFRcV9SeDNfYlNGbXp6YkFBRUdSOTNlME5EeVlfdkk4LUNDQk1xbkNSM2JZeTNIUVNxTVU1N1k1cTlWeHVuX2dndmlVSERZanZqeENiQXhjSmJRZw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Scotiabank Boosts Earnings Estimates for Toromont Industries",
+     "s": "MarketBeat",
+     "t": "2026-11-13T11:48:23.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS1RMWjZnYkl0MkZWSmtad0xpdy1rdF9mS3IydThSdjlLSnIzcWZvUjRnQ3hCQm9EVnZIbGk4Zmt0NXFnQVMyc3NVcG9neXhSRnBHQUlwZmJtR0JvMDhyOUllOW80NTMyWlVuNURsNFhVMTVFOFVuRFpPa0s5V0JkcDdjSUI2RWtoYW93eEk4NWFHNzdwNnpOVldTSERpbXRVNzhjOHRyRl82SS1tYzFRdUVlZlVNeXRaMUxfQjJzZXVUdw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Toromont Industries Ltd. (TSE:TIH) Stock Has Consensus Price Target of C$246.60 According to Analysts",
+     "s": "MarketBeat",
+     "t": "2026-11-07T08:00:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTmtVSlFDb0NkRnZsbnNfMFdqcUVJYWdmTWYxTmhzU29qMEhObktFYzlMMFF5SUZoSDVzdC1DUnZuYXVjT1FOU1hoaTlEV2hWZVRBN1JST19KV1hHZXRvbnRFeHJYUDRsRU9uNEx1TWttWWhadURSZXhuUUNaUFA0QnNOaTBPRWdQeTk2STlDUzc5RTZfY0I3TkYwbWstSzNlQlh1bTJaY3lwSlYyRXJTNTBZbXJObi1adU5VNm1UTTMyeDByQ29tR3c1TUJ3bW9GcTR5WUFIN2ZiM3Y0cmlva1FmOWFib3Qta25Qb1NSNUJmQQ?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "PNR": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Pentair plc Tokenized Stock (Reality)-Prognose 2026 - 2030: RPNR Kursausblick & langfristige Vorhersage",
+     "s": "BeInCrypto",
+     "t": "2026-11-20T17:47:34.000Z",
+     "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mTmZyMGlMeURKT3lwdFUwNEUzQ0V3amFDcWVqYk1VakdYdUxQRWdaR3J3cmhvX1QxWGZyeUdrRjQxS01uS0laQnhuYVVNNzBvdnFNSmZJQlA1UmlyZXZjdUF3NEZOWXhrMGpYb2xuMlBqMjQyeWc?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Pentair PLC stock outperforms competitors on strong trading day",
+     "s": "MarketWatch",
+     "t": "2026-11-18T22:16:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRk9lVGpHaUg3R2h6R1BWSmdLMnhfM01JdnBBYlZpeS1zQ0cyaDlhOGphckdCWjljd2R2OXUxbF9KRTZGeWJfSVZjSVhYcGpURWtEYUVxeWh2VVBhYU9Ud1lvQTg5cFlidUZqR09jenFYOWdxWDFfYnlTVl9xTVE3V0E5V1hiaTZ3WjdvaFZ3Z1F3dm5XNXJ5cDB1UnFfNEV6Y0VMaGFWUjlmSlp2bkh2VXZ4VHYtYzNRNkloaE8wZHBQY1AwLWttcExCMFpKVW5MM19QeGlid2Y?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Pentair Stock: Analyst Estimates & Ratings",
+     "s": "Yahoo",
+     "t": "2026-11-18T14:25:32.000Z",
+     "u": "https://finnhub.io/api/news?id=fcd3f55524a7ef53da5390a7012b0ccac61ad8b5a6fbc88d164545f43205504d",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Pentair steigert Gewinn im Wassergeschäft um 16 Prozent - De.mem bereitet Einstieg in australischen Trinkwassermarkt vor",
+     "s": "FinanzNachrichten.de",
+     "t": "2026-11-18T06:06:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQUXFub2F4REp6OEpoa3JIWjdWRWJuTEkwMnFZbHAyWFhSaHpOMHU4T3RtNm5oYjRyRHdXOGNVUzhDREkzUDRxaXB0ejd2ME1mWmxLdktpRjRqcmhiWnNuODMwbGpRTjVGTlJXVm5KSTlIamFXRmNnSlFEckwyMnhqbDJfbWI3S2J6SzlOR0ViZ3I1N0FDaFR5QkxfNlRLb0RScE1IRlRhMERMaEU4bUxfbGZGZGcwWDVSVE1GdUdoSnJGY3RVTGNUNkljTDZud2FDUENEUHMtaThYTXE1Z2VNTHhnZWlfRGhFLUg1VTZoYWFRMHJJdkp2dVZmdXVES2dsQy1QUkl5dloxc2dlbTNhUGtNSVpveFNi?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "S&P 500-Papier Pentair-Aktie: So viel hätten Anleger mit einem Investment in Pentair von vor 10 Jahren verdient",
+     "s": "finanzen.ch",
+     "t": "2026-11-17T09:02:05.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbFZ4ZTNROWNPY3poN2ZNVHkxUzlvYW1Kd1BFWnhsTnY2X19iTkJ6XzhGdEtZTTBYVDZpcjIxN2FGRWNWSUtxUXZ1LTF4VDdnSUZ5TlZKNFJ1UHJSLXlIYmh4aTVHWFhWNnRvNjh4cU9mQ3g1b1ZhTDQzbVVOQUNfR0d0RzRxRUZ0NjFnc29TRWlqTTVBZE1OMnFFQklpTXkyX3ZwMG1NcEFNM0VlVm0zem1vbFdQMUJJZk1Ca1A0eGdZOGtpVWo5SjdEMzlDZFpxVlVmZEFGQkt6TVVFTy04UjBpcElPN2Rvb1VScUlhR3F2WnduSjg0SQ?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "LIN": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Linde-Aktie: Kepler hebt Empfehlung auf Kaufen an",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-19T15:50:49.000Z",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVmV0N25DTFFhUlZ6ZWJXVGpaVnJFTWZOX0pQbXFZRVRxQU5qZms3ZGFfZ21MQXUwN3Izd21nZl9HOWVaaHByTm9tcG9UbGNFUjJER1pHWFMwN2tPX0JsSERzZzdIdnlpcXFlLVE3Rm5xajhWTXlFcDZ6czFtUEhJZjBDbENzazJKNFdjQnpxS1lrX3NJMXpMNUwyWF9NeE1ZdjdxNW1LT3ZXQnZXX3NkRg?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Linde plc : Von Kepler Cheuvreux zum Kauf angehoben",
+     "s": "MarketScreener Deutschland",
+     "t": "2026-11-19T11:04:54.000Z",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR2VyMFNvU0JGa3R0ZVNKMXNNV1pYZTF3enVXdUtoUEN5ZXpQTnZlN3ZGb09aaUN4Q0JTRllsMGJvdjRIZFNyN1pzOUs2SFdTOHJfdjFuZFBfS21zdzBPSHZaSVB2Z1hSV2NNT0lIVGFoamFVbElLSGZnN0ttbVM4SjU4VUxCTm5sclVnM3Q5YjVKc1FuV0ZFTjl1NFpwNDNiekJhUHNRaGhtbUhtTzY4ajNBNzZkUQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Linde PLC-Aktie unter 20-Tage-Linie",
+     "s": "boerse.de",
+     "t": "2026-11-19T07:33:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQjRJd202M0dMT3RTTzRDVUtfWUFDWG5uNTY1c0pvZUg5akU1S21jRERZcG9DQ0dqVkprSzhEdmJrRzVOb09KSUFWYjRTQ2RVT3g4MFpTZ1BWSjdpTThzeUx1WDJjc2FaMFNkN3puemdsUXJZYVZBbkpKWlJFUVVfa3l4ZUU?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Linde-Aktie: Barclays startet mit Overweight und sieht mehr Volumen",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-18T15:33:18.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU2lNTWpKUF9vNVRhVERoY0lfV1NuaEFteU9HcDVvVjR5SFZteGVkM2thMXV2cTdfSkpuVkRpaTB1Sld0WEtKSzBMUTJLYS1lVTRNaWRkNW5qay0wWkkyQjJzX1RIMkZKNzhMcUl5S0R5WWJGYWw0aFlIMUFHb0ctSlNUWjNlR2ItSDF0MEo1VG94eDFZalVoel9mOTFNa0FjWEVMbVdJaWxodXBMWWxYZkpfazVFYmRHWDZydFYybS1nWm02N19vOA?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Linde plc (LIN) latest stock news and headlines",
+     "s": "Yahoo Finance UK",
+     "t": "2026-11-18T11:50:38.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TQXFOaTZXT2dJdzlDeC1tenJaY1NOUkI2R042b2RrLXV0X1BzS0ppZ3dMendTR1laUnE2XzRTM2JFcG5FWm5XSTExdkphRDI0aUM1eVVPcw?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "AD": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Ahold Delhaize stock: Food Lion agrees to acquire five Georgia stores",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-20T16:27:41.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT1FFZWc0NmdQUldDM3ZDSnczZDNCTktHVEp2YWJIVFZVNEhJelNyLVlzRDdGcXFTVTN1Ny0tU1Y3SG1faXFnaWZhOG5MQVBVY29JaUUzTnlPdVBmb2xrel81TmRISWZfOXQta3NGa09ac3JTQTc1M1lkc3lNWGQwWXlnbTY5QmJ1eThBZ19hRFF0MnIxa2xhM3BLNk9HTjJZaDVMUU9MSWxSVXE3UHdYY2pNQzdycVlXYV9BenlobVR2dktIZER0QkVEVQ?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "Ahold Delhaize-Aktie: Notierung nach Cyber-Ausblick im Fokus",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-16T14:33:05.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObURuZk1QbzRqdmJnbTFUWWFCUkF4Z0RqQzBtVGF0UThOYnM4S25ZajFKR3VGT3Z1UFJvRGEwNzZLaDAzTUNKOGJoelpGamppdHdLUDhXTHFncnkzZTZ0Y213TkU0VDZsRXlhckxDaUxkZUdtbDRNN19leFlScy10TG9lMWpTaDJmTnM1SlFaNDF1NUhTZ2FlYkZDX0x3eUV1THp5WUdvQWxrZFRvZGFkVlJwWTRRSEFleW1oNk5OQQ?oc=5",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Sprouts, Ahold Delhaize USA execs to join 7-Eleven C-suite",
+     "s": "Chain Store Age",
+     "t": "2026-11-20T18:14:03.000Z",
+     "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMWtvX09wTmlUaFRiNzJhNTVnT3R2VG9IREl0bURRT2had1l4SzRfUExILXFac1J0LVl4RjJUOXVuS0JybXY4aVktYkg5ckRPRmU4TmttQVB4Q3VWLTZ1dGc4M19fdU45YTl3dnUwdlpLMGU4d1BNMlJYTlZaMGZJMEl5NkZxVGM?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Ahold Delhaize-Aktie: JPMorgan bleibt bei Underweight",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-20T14:53:42.000Z",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLXo4cFBEY0VEYTBMUzFpTW1uNXhKQ0JNQkpNcFZRSGhlRkRnZzNoYkRwTnNWUkRyeUxlTUlTaUxNZS1Mb29IVWpLWlN3VEFmemNBSnAyRXdnUldMTjU0dVVzLXB5ODFZQmxtSUVMUDRhRy13TkZQWWw3ME5HMGRXaUlTRGpTS240a0hvX3kwTEVvMXFPYklrblhUd081WWRFdUZVVGZPdGM1aERhZ3ZmazhUcDBRdw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Ahold Delhaize (Ahold) Underweight (JP Morgan Chase & Co.) 20.11.2026 | Analyse",
+     "s": "Finanzen.net",
+     "t": "2026-11-20T10:17:51.000Z",
+     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUVdiWmkyeDB6bl9keHhZc0Z3NVZmLUJwLVFHRzZtbG9TQkZQVklyQU1EVDJ2Y2F1Y2sycko3OEYyNmZLcl9GYXprdlhEZXhoQXp1bVplaV9KbVU1YmVtSGZjblI5eUl5SnhQd2JNeGZ0cHFkdjFMbktOemxFS2pFWUo0WjUzRTJvZkdSLUJLazBUeDl2N2ZyU3Zn?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "JPMORGAN: Ahold Delhaize \"sell\"",
+     "s": "boerse.de",
+     "t": "2026-11-20T09:09:55.000Z",
+     "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rRHIwZG0xNWc4Nld3ZVVDRGNKc29zWUV5SlpuU0tCeXUzakU3MzZJYnB4Q0tHUmJocC1xMURHdFZ5OTVMNjdsb293d0Z1UUR4T1prNUQwODhFZ0owQ2o0aVZlOUpwMTNRelVPMkJvRFFFdm8zNTVtdGhYVdIBgAFBVV95cUxPRVFFQXFKdWNfZVY4UHV3UWlZUVV5QjlGaEhYUWJURGhpZE1oVUFKUmNJZjF4bGo0QlFPS0RWckhqT0NxaVhLRGVxYm1UMTNXeXNRVWt3ajBIcDdsTllRQVpzT1hEeWZuUmZOOXltc0lpZkJSMnN5THkwc1Q4WklVcA?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Ahold Delhaize stock slips below the previous Xetra close",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-19T16:11:29.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWEU3emJtQW5LVzhqeWx6YzM0ZVRlTXExLVRyQldVSVB3TVNKYkUyOVFleExxS3U1bTJoVHJyYl84TzVPZHFkT3VwcjFZM1BhMXFSejMtZ0VHOXM5WXZrcXpfdmtWMzU2aFBiRldFTU4tTXhmQmVVVGdaUHk5LTc3QXkxTGViVVlLZmZtSi1MSGpVTVpiTlUxQmx6cng3QWItQ3FMci00alp5QjROWG1wME90eENEYjhrWFhidQ?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "AAK": {
+   "ok": true,
+   "items": [
+    {
+     "h": "AAK AB-Aktie mit neuem 3-Jahres-Tief",
+     "s": "boerse.de",
+     "t": "2026-11-20T07:00:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUlhkUVYxVDZmOXBrS1F2ajVvQUxxU2kyWlZLS0ROTnc2b1k0ODJraGxkalFtVm1JaEt3WGYzcXVBRWVOajJEbG9RTVpvT05Ea1pKTnlaeTZhdERGRHlnamNYNE91MzhGYUpGeDdMbGFtZThrZHROMEl5R2MtQ0J5VjFfRFQzUQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "AAK AB (publ) falls 2.18% in Thursday's session",
+     "s": "Global Banking & Finance Review",
+     "t": "2026-11-19T17:34:48.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdlJuTEhndEkzdzJLeS1jLTF5WEM1S0EtOFdFcmtuNjdfUmZRSlVTTFdLclMtd0pCMURIUHVFTmprUGV3cG1IeTRCTW1wdl9PY0Y1NDhwSXB1QkhzUzlsVDJiYm9QMDVyOU5RdDRzMnhfSmtVMWIzX2VWbWRJTVZmYnRR?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Repurchase of shares in AAK AB (publ) during the period 9-13 November 2026 (week 46)",
+     "s": "TradingView",
+     "t": "2026-11-16T14:00:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdmVSaDlUb3pIM1JfUnRNZ1Nqdm96aTNqTWdDMjIzNzYwZFhIWEYxSENyc2hxckFmNHl5Mk9KVjVPc2piTnFKV3hWMVlWbU5NZzU4cHNkNnNhWHBnTUduNmRob2lBYmFYRFBjTU9iVlFiTS0wWUM1Z1M0T1hfandJTVg0VnBGY21GVFFXb3doUC1Nd0RiZ2JBZGVUQWlCa1REeVFxYzhFY2JNTWxaNVN0S3h1Y2lrbWhwV193dzN3MzUtTG9HNm1NU2RwVGNWUmRDSW5jNndIaVlqbVlxOW5n?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "AAK AB (publ.) (6AA0.F) Seasonal returns chart",
+     "s": "Yahoo Finance UK",
+     "t": "2026-11-11T17:39:48.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QbnI5SVZRUU04aWl4WmU5ZS02Wklkekk3MFNpMmZvX1EwcVF1LUpBRXNGV0dfN0twMmxYNUtYdGJYcU10TFlMZUxKNXVsVFhsSURkTTJYdzQ0VzZMakprNHQzZXc?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Jefferies nimmt AAK mit Halteempfehlung unter Beobachtung - sieht weiterhin Ergebnisdruck im Jahr 2027",
+     "s": "MarketScreener Deutschland",
+     "t": "2026-11-11T07:25:18.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV2p6VFpqS2Jwcjd3ajZUemwxazc1clYzT0RvYTZUM0ZqZUdIM0NNMzdkY200enFYenIwbXBaQVVfVC1hVWJXQXJNVlZIUWlwbG5hRURlclRJMFFWYTlLcmlkbkxXOUVGVXZNLTJtVy1Pb01MYjZyVE1GUXpEV0lSMTYwZGRxM19WdHZRaW1YNHFVTnRKY0ZOWTF5QmxrVXd1QWc1QWZJT2lIWWJBaWRxc3BHNDY2cGF5ZnhzVk9VRFI3dVZMMmJGbDUxQVRIUWd2akpsZjFDc1ZsTG5DdG5wa3dtNnNpQjg2UHZKenJ0ZnBiZ2hhb0tB?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "FN": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Fabrinet Slides as AI Infrastructure Selloff Overshadows Strong Recent Results",
+     "s": "Quiver Quantitative",
+     "t": "2026-11-20T17:36:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVmJRZWJOOG1icXQ0VTRGRHV2U1laLW9YVVZIZVdHLVRzNllGLTR2OTd1Umptb1dsV0dpZV9IRlh1QkQ5RjJCSFhwbFIzTkVNNTVqcV9Ib0xlZDRDQ0FKVWN5VWlwanFQb2RqOTJ2VmhIa3VjcnJucjhtZ1ZWRTRkWkw5NnRDaUdnaktvNzcycE05eTVqak9iUXR3S3JNamZyWll5M1k1TktTSm1LUGIySA?oc=5",
+     "r": true,
+     "why": "Kursbewegung heute"
+    },
+    {
+     "h": "Jabil, Coherent, Fabrinet, TTM Technologies, and Lumentum shares plummet, what you need to know",
+     "s": "StockStory",
+     "t": "2026-11-16T17:38:51.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWFd1THlPdm9UM0cxN0pGTm9XQjF0d0c2S3lGRHNza0NrNDg2Q09QejJZY2FkMlBQNi1pNVViMlFOZUtCTTdUQURhaDhPb1JvcWtIVmQtbmNEUkV3TGw4UzBZNGtiOUs1bmFHU2VucEt1NnlHV0h0YkxUd093TFFLcnNlZzRsSUdyNC1OcHI2Z0lZY2VOLWlhblBjcnFGMWtaMkZ5b3k3LU5fUGxKLXYyejhLNHI1S3AtaDlCc2pyMnNZQUEtVXEtU0c4eWY5TUlsLUlsVGoxNFViOXMtNlBSVmd3aw?oc=5",
+     "r": true,
+     "why": "Kursbewegung"
+    },
+    {
+     "h": "Fabrinet Earnings Call Signals Data Center Growth Surge",
+     "s": "The Globe and Mail",
+     "t": "2026-11-15T17:06:00.000Z",
+     "u": "https://www.theglobeandmail.com/investing/markets/stocks/FN/pressreleases/8846797/fabrinet-earnings-call-signals-data-center-growth-surge/",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Fabrinet Aktie: Ausverkauf drückt Kurs ans Jahrestief",
+     "s": "Börse Express",
+     "t": "2026-11-20T16:25:08.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNGF5NFdraXNZYTV1RUlYQ1dzS2tUM1k0TEdfUE51cE5UeFJYU3VrTjI0R3huZjNzZFl0SmI3bHpfLVA0Ny10TzdMX1N3NTBMM1U5em9ReWU3Uk05bmZZNXZhbEFleEkzaWo3NzAyRlVoUFZtZkU1OG9WdXZiSEw0MXNnS3FEeWxlckE0aFdwemc5cEhSTERfdGRpV1ctZG1IbTBRSmZSQnA?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Fabrinet-Aktie markiert 52-Wochen-Tief bei 286,02 USD",
+     "s": "Investing.com Deutsch",
+     "t": "2026-11-20T15:48:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZEVRcU14ZkczWVNaVEFfejM2elF4ZjlWODU1Njk0WURreXlkUmNhWlNUWEtoVzdPYWpwdFNyQ1F0eWtqdzJDb0hDSkVRNGlLX2c0Y25PLW44bjNNWXF6cnhzZlRRYU16MFR3NDRGeG1UUURMQkdvSG9OOUI3ZHU5UVlhM016SmdveFFhdXM5cGNYNGVIM0R3VDB6WWNxN2QteEVZUXc4ZEI?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Fabrinet-Aktie über 20-Tage-Linie",
+     "s": "boerse.de",
+     "t": "2026-11-20T07:05:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYTRDVWlTVVhmT2JPQVh4V1plb0gxejg4cGR4dWRCc2tJMVJFMXp1OTNIUzRCemZPOGlZU3ZWSHFKR1VGNE1iR0l3eXM4aGJGdHYzUEJhaHNERlhDei0tbTdzcWZmaV9hcFZ1Q3Iyd0xZY1hPVXE3WVJ4M0kwU0JXNnV1NA?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Fabrinet (NYSE:FN) Shares Down 9.2% - Here's What Happened",
+     "s": "MarketBeat",
+     "t": "2026-11-13T18:03:07.000Z",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdFF2VV9zYzhFSjE5Zlk0bERzczRSa3JfQjZRdlBpbi00M3VTVnprUjFZMW5UaDFaVjFLSk1aeGhKd0VYZkQ2eklKU082VzFpcVJld01IWGE4Tk8wdDZoVzB5Z1E2SDhTZmtFNGxkOTBaMVowTFR0UnNhZjIyWll4ZGRYTkh2c2dDanFUZHVVbllYR3liOGpZd0MtcU1ZUlphN2dZSXY3QmtUamtCZzE3WA?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Why Fabrinet Stock Is Up 5.9% And What's Next After Strong Guidance",
+     "s": "Simply Wall St",
+     "t": "2026-11-12T09:31:31.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQemY1QmxkM1NzS3daaHBCb09XRkxoVGQwYXB0MDJtbGUzeDBkZi1RLUlqSnRtX3UtZWpuekZOWTFycE9lOTVhYThEblB0ZkNfai0wNEtIcWoxYlNWTmRiZk1rZjNYUUNFQVp3NDlleFU2RjI4VnNmdzVkcllJRGNoUEtibUMtVHVJWVlnWFA1MWM5d3E5S3RFNjJ0bjBTbWowcWdhX05hMExUS1BRZTNDS3ozZl9qWm5JS3RJ0gHAAUFVX3lxTFBhRjRzMlRDeUl4LVJzXzQ3SVhqQ2pyZlNTM0xVOFhKb1F3UXA1RTZCWldXdllpX1kyU1Y1bE01UUFWQ1ZnckxHbUxSUjhMU3U1YmdXR181Zm9YSVZtNnpEYjhDSmFUcUxXMnhNQ1pIZExxWGVCbWZxeEpkaFZmYmVaWEl6NUdYLTBFcWVrYjFvdmpjZm5uQ0laTVNjSExXVjY3R0RjRUpaNE5vUndmZ1NLMkZpT0JIamMydjFRRjFCXw?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "MELI": {
+   "ok": true,
+   "items": [
+    {
+     "h": "MercadoLibre stock: BofA cuts price target to USD 2,000",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-20T15:44:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeThYLVB5WGsyUFY4cjIwT2k0YXpIZ1NSeTQ2b2E5bjQ3QVBfNjd2V05pQWlqVjhDMGprY0ZSMUlPM2VZSUlIVDVEcUxJR2JSUVV3QUx1UkpZSWI1aF9vbmVoVkMzZFg2bE9RN2hjMmQ2QlVYZE05NkhSTzZzZDV2RTNoR1ZGNzVINk13QTB2T1lOX1hJMnVVaThBZjhaM2drWUpfVmZKZy11bFl5NEhOc2FpZVNsSVBu?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "MercadoLibre-Aktie: Bank of America senkt Kursziel auf 2.000 US-Dollar",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-19T17:54:25.000Z",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQanZrWDRZS01FamxpT3N3NTBRVmNpTmY3VGFQNXdBdE56NE11ZGw4VnZhUVlJT1RRWEFCd2V1WXBVeHN0eXRvQ2d2Mm9oM1J2c1o0c0Y5THM3N2drOU4xM1BNQUhWTkdOTVFfYjJFdjludUZoZURzMXNSYXkzRWR1SXBsSG5JMzh2bEEwSVZIVWRoTjI0TXg4Z3VVTUc1YXRxMkJrcVlMTnVDSkUwbFNhODQ0bG91djRVSS1adThRU0hkbHUtb1hfMXM3TnI?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "MercadoLibre-Aktie nahe 52-Wochen-Tief: Was Anleger jetzt wissen sollten",
+     "s": "aktien.news",
+     "t": "2026-11-20T08:38:06.000Z",
+     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTTdXMWpfM2ZiOE9sc1RkVWNqa2lJTlJqemdTbzh3NzR2bHh2dDk3dy1iSmJsZERjdWs0Umg0RnVfWjc3aTB5TElBQW5uSFpNX1BaVzBxejFfQnY2RGYyTnZoMWxjWVpCMGRwd1g5a2p1WjBvY21HWlRMaENwRXpaVXdxWklLaEdLOUdGdEpPSkkzaEZKV0g5XzRzVQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "MercadoLibre shares drop 30% amid competition a...",
+     "s": "Pluang",
+     "t": "2026-11-20T02:22:11.000Z",
+     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVE9Za3BKbFprZ29Jd3AwZjJxNmF1ME1MbG83WTZTNkp0OWptcTQ5NmlLYnk1RU51c0xYYWhIT19FRlhKaUVfTUI5dzJOODZZWGpXTEVhRzNmMHdPc0pfUWZQQ1FzUVpqVnNMZEhrZ3FKTHBtYlVuX2ZqcmszUno1QkF5eXQ0WENhLUYzT0dPM3VUbmRMTjdUS1pKMA?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Why MercadoLibre (MELI) Stock Is Down Today",
+     "s": "Quiver Quantitative",
+     "t": "2026-11-19T18:32:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZXZuQVR0dnF0VE00cVRkSklzZlI5WHFrXzhkWG83TVFyTUFDVmlyZTE5NkFpWl9ZY2NLOGJ6T0Q3OWVjWXg0MmVOd1FPeUVNZEozZGVxZTdQTGhQVHM0d2EzeVM5SG1vYlBSS1BTeC1yUy0wb2NCa1huc21VcDFqSWs5Y1FpVlU?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "MercadoLibre Tokenized bStocks Exchanges MELIB Markets | Buy & Sell & Trade",
+     "s": "CryptoRank",
+     "t": "2026-11-19T15:22:32.000Z",
+     "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlRVJSYUtpN2hnYWdfTGN4eXVheHVzZ3NxQzAzS25OQ2tYUmVGbjl4U3c0UnAwaENXaWFqclNlcGxRZjNRM3AzTVZLaTViel9pVGNxSUdaSlN6WmNmVDZMcjRpZWFzZEdNSnczaUZvQ3JfcHJHY0pJ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "2 Monster Stocks to Hold for the Next 10 Years: MercadoLibre and Amazon",
+     "s": "SSBCrack",
+     "t": "2026-11-19T13:14:20.000Z",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLTVNb1J1ODM4R0xXa2NMMXJVcGdrWjd4RGJBMkxDN3ctMEp1OVhaWGJ2NWdQRFMwbGVfTlloTUU5eFpGS3dMR2J6dU10UGhtanVlbTFEUjJPR1F5MmZLYk5QVWFnSHNCazZJdFNHZ0gwQTdSOExrbEhXNG9LZ25HWTh2Z3NwX3ljNUFZNmlKbFVvZ2pGM19nWE1ObDE3QQ?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "MC": {
+   "ok": true,
+   "items": [
+    {
+     "h": "LVMH stock: Media division signs strategic OpenAI deal",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-20T16:15:45.000Z",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbzdWMFFPSFFBVzVYWFVZMXIwMWFpalVxTFpiZ3Fjd3pKaFV5My15dldMVnBuVDFWMUJHcENrSVBLdlBrNV9EOUVWaWpvTTh0eGcwM0x0ZnVhei1tZF9nVmhVTk5VVGlsYVExM2I0RV80SG1yRE82WTVaMzVHWGI1a1NsTV9JbUFOXzFyd1M0NmlGVlVfZFYtRTFLbE9wSUc3cEtUQXJ4ZS1tMGZudUR5Z1hnT0JtVjQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "LVMH Moët Hennessy Louis Vuitton-Aktie: Champions-Check im Monat November",
+     "s": "boerse.de",
+     "t": "2026-11-19T09:26:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbVRZdU5MbEtWcEhjMEtOWHE4UUdEX3VmRHBPb0N1MVpBYWRVS0QzTXBhTjh0NmJzaUhRZHA5cFpVNUxKaXpJSEFRc2JJUjZvdGVJVVBKQzhnLU1NYlpEMWJlWkhDeFVTOExCUmtyX0ZUYzF3YXBkdTdKOEFmSHl6OXdCZGtzSmxBMVpqZkhPRU9XcklsU2l1TjY3SHlOdzVybTAwSl91X3E2QkNUZGk0ZFB0VG5fZ9IBuwFBVV95cUxPeEpMSWd0Q015bDZ1UEVmNDJ4Wm15VHBELW5IRW50TC0zanU2NUZGVHFMbzNhWkM0TVJCWF8xQjZOSnJBNTQ2MkpscUZzUDVtQ3daeTZKR2FLelBGWmpMNFFIU2JQeHFqOXkwY3h2cUNzUzhiVU50WXJ6d3ZFX0htczNweTMxYXAzallYS3NCMTFTRlVmNXJHbU8teTNSb2I5aGRWUW1HZk4za3RPdnAwS2xKeVU3R1hrUExj?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "JEFFERIES: LVMH Moët Hennessy Louis Vuitton \"hold\"",
+     "s": "boerse.de",
+     "t": "2026-11-19T08:11:39.000Z",
+     "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQzl6LUhWajRYTlI4QTZseng0TXc3VWtPU0Z3ZkR4UWxRb05BOUEtSjdmSmJNdHU2MkdTb3dwUzVLSVd4QlVmX2RaUGtIckF4OXlpOHVfVzU1cmZXOXVfZWduSXpxdFpnTElhdUlmMmI2SHIzZkFiWmctdjBETUNnSTRXMlhiSk9EUzZJc0ZUXzdzWnNu0gGaAUFVX3lxTE1XNEJaaUctWGZZMm1LNGQtaHoteDBSY1l6a0lHNjB1YlhqSDJJQ0Q5Yms4RWpvODRHSnRJcHhrS25jQlNFWlVZYlM4VjlfdFpoeDlNa3dEelROQ0ZkZ19tVmI5ZlA2c3FYcURjWjFZWGRzRDFseGt6Zk1JTHFFeXNaY3FOc0FSSVFFX0NSdkxqaWM3ZEo3dFRVMFE?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "LVMH-Aktie vorbörslich 389,40 Euro: 0,35 Prozent höher",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-19T07:30:30.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdnloZHpvNnFrY3VhMFFKWnZNT1YzdVR6NE05VVpJLXRRQzdGYkd4OFdkYVRUSldBb3BKS2lOYUc0eWRkNTY0T0tjbDhmQzRZVkFMUjhnWFhUZW1OQlRYVXVyUzB2ME54Tk16emtWdy14cE5uU0lTWURHTXlKT185bTZaZXhsVVlEaVJkZFNQcnR0T1FLNUswSUE1U1FwTTh4Ykpta201WlhkOUxkcURTZUtxZw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "LVMH Moët Hennessy - Louis Vuitton, Société Européenne (MOH0.F) Interactive Stock Chart - Yahoo Finance",
+     "s": "Yahoo! Finance Canada",
+     "t": "2026-11-18T16:19:33.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tRkg2QVp0YTJiNndaZEhmdHhTNldQbXlCdXFob01jVzBWX2pHRjJaV2JXNnBlZkRPMFR3a2FRRjZudnBqckRrNE01SVUwYm9iNlozZDRHMXFQLU05?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "DPLM": {
+   "ok": true,
+   "items": [
+    {
+     "h": "The State Bureau of Investigation has opened three investigations into the diploma of NBU Governor Pyshnyy",
+     "s": "UA.NEWS",
+     "t": "2026-11-20T17:29:16.000Z",
+     "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU1V3Z0w0bEktVFNXWjE3M183eG1faG1SUURoY3pnaUtWenhZWXQ3OEc5T3h1YTFMdUVPT2k4SVNtQXlHNThaQ09zUUp6MWhNdExySDBtblFwSXB1elo0ZUdQWUdKckQ1SzhmYWREWGJQOGN1dE1hU2RfT0syT3NUQkNsNEdQcEVGakF6T3ZXQnNTWUNaMHJ1UA?oc=5",
+     "r": true,
+     "why": "Risiko"
+    },
+    {
+     "h": "FTSE 100 Diploma (LSE:DPLM) Delivers Earnings Ahead of Forecasts and Wider Margins",
+     "s": "Kalkine Media",
+     "t": "2026-11-19T11:42:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZnFuenhESTFYanFXR2xlY3M3WVJkN0tGeE1hcHdQUE9tbjVVeXBfSk5ha0tYN3RnTl8wTFNFSkMxMEV0TXpfWVF0RU0wdFUtR3FIcVQ4eVplaGp1SlRPQUM0UHhYSlFVMGdiLUR6ODY2WjE4ZFU5T2Y3WXVZZUF6cUd3VGtLUTFQTmxlaXIxR2pjMGFGaThFeGt3b0VOSWNKMVk5Qjd0aEJtd0thVFFsOHJCVXlOT0l3YVM1S2V3?oc=5",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Berenberg Lifted Diploma Forecasts After A Strong FY26 Print",
+     "s": "Finimize",
+     "t": "2026-11-19T10:39:33.000Z",
+     "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVI4d1BJaGE0TWQzX1UzcXh3N01JNzRFSXM5OTdmYVZ6ajlwN2l1dzNQTGdaaEZQbE1UeUYxN3dRWWtRc0U3bFFOYU5YeDZmYTRiQ0ZsU0IyZTEwZDlIeGhvc3RlX05vaDZwSXZSSl9UY3dBby1QRURDMFZHRmtNOEQ3c1ZmNC1LRlhxN0hLVzlDUDA?oc=5",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Diploma increases dividend as improved margin supports higher profit",
+     "s": "London South East",
+     "t": "2026-11-17T09:50:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV2Y1Ry1HempmeEJvRnVlN0U0cHpiVUh4ak5SdW1Kakc4RXY5YWdKUnhveDZndWJhd2MzUl91akVnMGM2ZHpsMzRFQVBXeUJJeXI5NHNITHpZWTRfNUt4X0M2WWdpdWlTZWpJMVRYcjYza2h3dkxWMmQxdzdtSkF1RXAtXzJlbzBnOWp2QjJPTzRjQzJQOENwaDJkMy1IVkFIRVJiTkExZWlSNlI1dWpwTHAtaXl5b28?oc=5",
+     "r": true,
+     "why": "Dividende/Rückkauf"
+    },
+    {
+     "h": "Turkish court confirms revocation of Istanbul Mayor Imamoglu’s diploma — Tagesschau",
+     "s": "UA.NEWS",
+     "t": "2026-11-20T11:24:54.000Z",
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUzh4U0xvOWVPZ2hhQnFnR2Qwd2djcVVKR1FBTDh1TVVyS0NsTVo1TGgyNlRnMVFSZGdOblFTNGhBa3hFN0I1aGRKekh3MkVhRWxVS0lKZ3B2SHVuUFdsWl9lVEJfTXJoWGRZU3lHaHM2REVVRVZqNHQzT3l2WXBvU2FMNEJ4cVAtdEZBVXdkQkVuYXV5dmtiU1VCam1nWXZrdUl3Z3BRV2FOelI5?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Kolej Poly-Tech MARA Identifies Three Diploma Programmes For Sarawak Campus",
+     "s": "Sarawak Tribune",
+     "t": "2026-11-20T10:45:48.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQjBCenBBNXptUFJwaWtwT1ZtY0ljUFVyWEpCZ2s0aXZadnFvVWJGaUxLbmpCM0ZFUnV1b3BqaGZOajEtLVgyLUNUcHBMQTA3VzVmOVQ1VElKVWpiOUVzcXpMdmR1OEdhZDdFTE9QTXpqYVVTVHZHNTZWZjItczk0NVdtNVQ1X3MtZFYyVEpqNHBNcThsNnBoNEFqeVpnQ255QmZ6Z0RMb3pGU1E?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Sierra Leone FA concludes CAF ‘C’ Diploma Coaching Course for over 30 coaches",
+     "s": "Africa Top Sports",
+     "t": "2026-11-20T06:32:45.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQVdqOVNuenF0ZlV2X0FTMTJEQ2FDcW1EblVkWDZuOHhqN1Z1Z2xkZTBIZ1dhMi1iMTVpN0NjYnVLUXdobmF2NkE0T1E0TndvMndzZHVBMWZ2ZnBoZ0tVSjJWR0swWFdvZkU5SVJaTGlwdnJ2V2Znd3VSdjRCa1gwRTRmVkdOYjlwelhXemdvX2ROdHcyZEJDdDhueFJnLUMteWhuVWpDMzlpTzQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Before the diploma, there is the journey",
+     "s": "Far Eastern University",
+     "t": "2026-11-20T02:56:13.000Z",
+     "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGM0pTdzFBYjZ2ZmJScm1OSTlJR3ZQeDVpU1N0YVNKM19fRHVzbmt1WDUyUFFwWi1RZFNKRGhaM0dfVF9FX0c0c2pjLS1STWNEYTdBZXp5RU4xNzk0Y2hUc3kwOFlBVndxMlhHbGIzVGY?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "NBEMS Diploma Final Theory Examination October 2026 Session Result Declared, Download PDF at natboard.edu.in",
+     "s": "Jagran Josh",
+     "t": "2026-11-20T00:48:29.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbW9BSlFHU1plVWtpR0pFd3JVaGtTa3NaRm9oclRES0djWTRvdzFhekpBY1BybjM2dkZaUmVhSVM5OHBVcHJUX29JUk02Z3ZfNFlZUWZUdFZSbzJ4aXh5NGhqczhRUUM0NlUwcnozbzBUd2hLM00tQTZ1d1J3MFZvbnJUcWxoTnZQbFZSTVEwYldDYlBXa2UzYjhrNkFzdUtrNGZuX0tGek00ZkpOY0U5LUg0LXExRzdFMTdldllzUktfV0twMzFZNEtPLTNzMlFnNGhnVm81WkQ3OURXT1I40gHmAUFVX3lxTFBldC1USmpoUDNqZzZWSEh6c2hXX2E5UlVESENFdTFHekEzb094V2FmOUZ6bU5PaVVzSEcxb0ZOZ1FDZFhMNTJiU285aF9Kdm0zcm5ObHhNRFl0Rl9ySGhNbmF6bTRyYnRrczlXV1VxRU5hTjhiczZkc1UyckZwUEl1QWF2VGpid05PUG1pemR1VDFTU2VYUndjLTFmaDFscXYxWVBjWUoybzdSWjBoUmNfYmtjS1RCRGZyM2JzYVFjczhOa2JMTlg4OFBHU0tCMWswREFkQl93RzAyVi1nRHV5d3JLakZB?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "HUBS": {
+   "ok": true,
+   "items": [
+    {
+     "h": "HubSpot's 2027 Outlook: The Return of Its Co-Founder as CEO Sets Up \"Refounding\"",
+     "s": "Yahoo",
+     "t": "2026-11-20T16:34:56.000Z",
+     "u": "https://finnhub.io/api/news?id=0f44cfa42310e1c66bc89b1756fba2e16d4635506e52048d084bbce652ea2930",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "HubSpot Slides as Weak Outlook, Leadership Shake-Up, and Analyst Cuts Weigh on Shares",
+     "s": "Quiver Quantitative",
+     "t": "2026-11-19T17:35:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTVJfTFJKcUVoMk04NkVRSkc4akd4UlVIamZ5dHhwUjlYLWRzeWp1N043ME84Z09mMUdhNHcyZmo2dzRSckNyUGpJYVl0VzA1dHFSUVBXdW9XdDJCMzJzdThhMHlkWkhkTkU5ZC1RSElzOXJic3FuTnh0VEdJMmMwOTR3UE1ENEJRb3I2NU5YNkV3WlVkTFUwSjhxOVB4TGJDUVc2QmlqNjNkTkYwa0I0c0ZhRzN4eEZfS1pZQ1Q1Yw?oc=5",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "HubSpot, Inc. Stock 12‑Month Price Target Cut to $224.23, Implies 4% Upside",
+     "s": "TradingView",
+     "t": "2026-11-18T07:20:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMkRCTWtIOTlRV2lMR09wSzU3TzMtSW81Y3JUWVJfYV9CWnVtYnhMcEcwRDhnenZWZk9XbjZITVhRcEppZzRzS00xTjc0b3FHNVdkOFRrdGFYc0RDenJxRGZ1dEEyNVNKcFUwTEFsWVh0YXg1TEIxZzI1M3Q2cU5vOHQ2Zk5sUjJ6OTdfbnNCYnlqRktzRFd5UEtWNi1jVnM0Zjdpbl8yd21DSzBzTE5La0JzN2FKRTdtYlp4a3dxUTJ4N2FLTnpVdHdTcUQ?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "HubSpot Inc (HUBS) Shares Surge 6.8% -- What GF Score of 74 Tells Investors",
+     "s": "GuruFocus",
+     "t": "2026-11-17T02:08:07.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOenlRbWwwX083RUdVR1hmZTVFMUJoYmZlVGcyOVptSkoxcHdXaXItLWNSVjM5UFJhaFpHZDNwN1hhOU1EYjB1UnNTSGFPalJTRzd0SUl0X0ZkOFVGYUxwOFlaSnhYeFZEWlhwQ1p1RGFud1J0QmVFQnYyVTM4cGdfa082Q3cwdmZXeDJEMW1SWHVrWG9xbE5KWUlaN2E2ZHhKTE1xRGxIOTl6cjA?oc=5",
+     "r": true,
+     "why": "Kursbewegung"
+    },
+    {
+     "h": "HubSpot-Aktie im Aufwind: CEO Brian Halligan kauft Anteile für 5 Millionen Dollar",
+     "s": "Investing.com Deutsch",
+     "t": "2026-11-16T14:24:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ3Jkb3VaeUotOUlwem10cUc5cFIwcV9pbUI0cjV2cnh3N2x4eFNMTV9ZM05RNXJReXNGcUhheTEtSlc4UGlxNjdmd1hhd1NsNXM3SVN4aWlnb1VUQnZLN2dVdGFBRjdfckVibWljdU9aQVlQb292bi0tSzEyal9kSzFyM0V3a29xYUpCNXA3aDVQWENuUnl5YnhzVUhJS3NQLVZ1eG1UZXVMN1ZKSHl5ZXVuamt4QmNQdzVuWk9ESzVhSDZTOXp4eFZDNmNXQ0ZpMmhORkdvWQ?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "The ‘re-founding’ of HubSpot - a work in very visible progress, complete with mis-steps",
+     "s": "diginomica",
+     "t": "2026-11-20T12:05:02.000Z",
+     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQby04OGtDYTRlc3FGdVhHZldpSkZGWXN3SUtfb2JxdjBzOXlBOGw4M2c3T1ZQdnprUDZLdGN4eml0YzVlbHQwZW9wXzRUa2h6aWxVVkdac2IwSnprU1FzYVVOM0NsMl9ZWlFrUnhBeGlrQTEzLVdVR211ekd3Tl9CN09pVWJVamF5UWJqYi1aT2Iydw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Legaltech giant Legora hires HubSpot legal head as first CLO",
+     "s": "The Global Legal Post",
+     "t": "2026-11-20T07:47:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQXFPdG1pSlZSd2d3UFBHT3R4ZkhyZHN2dzdOT0gzWnI5SGNHMFp0Q0FOdzlNVTdzN0hFOEZKMDBaM2ZEb0YweFloTDhNWDJ3S2R3RzRsLURNbm1JNHZfMm9sZHNMeVJnTzdhajVxRW9oUjAyV09SeXBRNnptMS1wbU02UTNFVEY4aE0xWGtFSl9PS05ta0doQTVTQ3gyNG5UTGg1QlRWc3M0QmdP?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "HubSpot Stock Rebounds 6% as Investors Weigh Brian Halligan's 'Refounding' After Steep Slide Toward Yearly Low",
+     "s": "International Business Times AU",
+     "t": "2026-11-20T04:06:00.000Z",
+     "u": "https://www.ibtimes.com.au/hubspot-shares-rebound-after-steep-selloff-1878999",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Hudl Swapped Marketo for HubSpot So Its Marketers Can Build the Campaigns Sports Teams Need",
+     "s": "HubSpot",
+     "t": "2026-11-20T01:30:45.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jYW5QZVA1bEZZbkxiVjdjclVKYV9SVFVtTzVrOGZIbWFuTXExaHFYUUgzdF9hN19BUkp4dGctdEtTYm8xYjhDQjU4UU9hVThmYXZIUHhwM0UtRVU0RWUwaHlFWQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "20VC x SaaStr: Jensen Out at Nvidia, Anthropic’s $1.4 Trillion IPO, and HubSpot Brings Back Brian Halligan",
+     "s": "saastr.com",
+     "t": "2026-11-19T21:13:11.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVFp5NEdUWTJNU0NHSFFJVm5UMzVfRW1MYTNvazNRdFM3MzNES3prMVNSaEp1YUl5c1Q2MFp3cHExbjUxcTlSVjBIc2ZKNHRrNTlxRG5RSHg1WmNNRllYMEFydHdaWklnTVBEWjlmRjdOdEs3SWhzTEhCQmdPd21feWNDMTNwNnV2SnJIcksycktZcUZZN2VFbDFLeXQ0ZDVkSW93Y2tqNlZ1d05jcU45cnd4SkpDMHNTUjJQcFpaQ1JlUkE?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "MTCH": {
+   "ok": true,
+   "items": [
+    {
+     "h": "YL vs UBL, Final, FULL MATCH HIGHLIGHTS",
+     "s": "Cricbuzz",
+     "t": "2026-11-20T19:57:56.000Z",
+     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQWFsZHlwMWNQQXllaF9UcDFnTjRJQkJ0RElZWFFIbkE5VHNlLWRCM3FBcnVOWDhmSlZlYnpEY2F3NWFVWWZzUXc2eDFRd3U4ZTloVDlDaGlKZEg3dk5mdUkxaFBfeEFZdHBMektNWno3V0R6dHU1NHFDT1p4NHN2Rkk0Q0Qwei1FRUk0Xw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Cricket match squads - Yas Lions vs Royal Desert Champions, 29th Match, Abu Dhabi T10 2026, Abu Dhabi T10 2026",
+     "s": "Cricbuzz",
+     "t": "2026-11-20T18:15:12.000Z",
+     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOWw4M1RKV2RhZEZ0NkxBblBFaUJwWFJGd3A2YUtVTG9MckpMTE5ZbU12V09SR3ZNejNtNTAtVUFiZDFQV1k2RXZLQi04VVBBV2pNMF80VGlSXzdoV01pU2VYTG9IaHk3MEVlZkJONlZic1RIaW1MSzNROVQ2a2lwRFlPWFRHOHp1OFEwZ1dpQXM0RkNQYmlr?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "AUS vs ENG, 1st T20I Videos | Highlights, Interviews and Match Clips",
+     "s": "Cricbuzz",
+     "t": "2026-11-20T13:31:34.000Z",
+     "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rcXRfTUtqemlOVXg3OFZCZEhwZVA5d0dLeXI3OXNXN2FzLVFkY3R4RXN1TWxUbFB1ZkMxZzcxeE13UThWcmpGTlBBWkNzb2VIbkMwTXdRR1FZbWFlcW9VNEdDamFDTERMV3Y2YU95X21YQUtKLW5PbGxtQUk?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "India A vs Nepal 4th Match Group B Men's Asia Cup Rising Stars 2026: Check Match Date, Time, Squad and Venue",
+     "s": "Jagran Josh",
+     "t": "2026-11-20T09:40:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORlRjdmItODduUkxxSjRjZm5SbjA0NGVvM2tTVU1JYVFPVm9jeVBtM0NCMkdSa1hidngwV0plM0lpdmVsbEx0bWh3aEtjR0Exc1V5cFZkWkZaS3F5YWlLckFacnVRSUI0eVE4SU15QTFEWHhfSnpmdUdHSTN3RFR3ei04VHkyRWFHM05xc0xiWENMWTJXdUFzNzRmMUliaTB6OUpFRm5fOFRBVFFUMVdfYnNWZnB4aXBwOE1HVVliZ3dXT1BJbjZTeUpLRnpuNlpaUjQxQ0wyZFBUcU40UlVQbWhrUmxXZlZ0d2NJUGxTSTZUNmVt0gH7AUFVX3lxTFBfeU96bktDQnFpaVd4X05zLTZIaVpIQ0ZRVVdobldjZS1RcGtLSVIxSlhjVmFXWm1IYkpNT0xEOGt0LXBvUXlwWDJud2lhS2YxVVNpU0t6d2t2SHY0aUppZ3FUQ1cyWWFQdkxuMEgzclVuLWJxeU4zbXF6aVJvVVN6Q25jMDNCMm1oMVc4NTc5MFpvV2VMTFRUQ2ljWkR4cnc5bGJoZjl0Y0ppSm5aOHVOZWpjdFB4ZnpGSnhYZEUtdG5GOVhqcUJHVGFWa1MzdG1YbXNvOFFVY0hMU0NvN0VmMEJVTUFvTzgxdHpnbU9KWWxRWWlzVVl4dERz?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Match Group Inc. stock underperforms Wednesday when compared to competitors",
+     "s": "MarketWatch",
+     "t": "2026-11-18T22:27:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQV3RyS0NlRW1nSGdoMHBjY2c3bjFfMTNGMHVNdVJYZ2Q1VFlrZ1ZvdUl5eUZGVGszSEkzYzQwQjJQal9WS2E0VTZic002c0VwdDRfeFpfMzBxQURscnRCYlozVGJTbzMxRHRYdURhbmlrNy04bzZ5Vm5YWEhOeUJxd1laem5nU3BycnFFRXBfc0VyRkpDN194VE85N3ctRnNGM3c1Wmxvd0lIU0c0TXZ0ZkIxOVE0TTFGSTAxOVN0QlhlTTJZQkVrZ1A3UmRzbnJGWjREbklHQUVnbzdZcVZ0YzR5MEFxclk?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "SU": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Schneider Electric stock: Bulgaria clears Shelly acquisition",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-19T17:01:04.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNTZOUUFIaV9Pa2dTSVhWSUFfblZqS0dfUlZWbnRMdlRzT3lmTlJtUkhydHdyZW13LVBnV0t6OFhZYUVXZWlNRWRUYUZkTzR0ZzBJQXRfNy0zdGNJNlZpYmFGZTNrXzhjSzVaaE5UZDNTVlRzX1RFR3dMMFJhUUFEUU00Zy1WVlpkT0NBak12UVRtMDBGY25XOFRGSDhHOUhyTGl4UWtJaEdMTldudUh3NTkwUFh1bHU2TkVkWXRiVQ?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "Schneider Electric Infrastructure Says Tax Penalty Revised To 3.54 Million Rupees From 3.52 Million Rupees",
+     "s": "TradingView",
+     "t": "2026-11-19T15:08:23.000Z",
+     "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQR0M0d0FkYmd2azVtQkZ2NHc0cEtLX3dYUF9IZnBQQ1ZVTUI0cjN4M1g5Y01CWWQ2ZU42OV9PYVp1eTU0VkxmWWI5bFQ0OUxhRk9YdjJvZjFxVktWTkpKMFp6LXIyeXJzSlg5ZVhSQURBazJYY3pxXzFMR1FDSEZsYmk2T3VtVlZIazRnOG91ZTB4V3lZVjNKdmdLTTFHTWlCS3JoR2VSOEI5RDUtTkJSd3BaT05rcTdtSGV2Y0NjQlltTXNIN0U0YWlJXzhDWDlBRXphSWthRlhfOHFweHBLc3A0MnRXeVhWVjR1WHZJeDBxN1pMZzZrMEp0am90Wl9lWEgxaUVFTQ?oc=5",
+     "r": true,
+     "why": "Risiko"
+    },
+    {
+     "h": "Schneider Electric Infra GST penalty revised to ₹35.36 lakh",
+     "s": "scanx.trade",
+     "t": "2026-11-19T12:23:35.000Z",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLWhnRkdoaXcwSl90cnV5VkNBSVFlc1BqTVM5VjQ2ZmFiZzZwYW10ajVSQWlsN0hULVEwdEVCSExKQmgxYzhkTXNqTno3SThBUmxQUzZZS1RScWRXbENEUDgwN2tva1NBczVPR0VsRGxYdDUtRUN6QVZDY0hkNHB0dnctbVF6eklRRU5DVkF4bG51b1paNE0tQW44SUpGV0IxMXZpRF94TVNBN053ZW1rQkFn?oc=5",
+     "r": true,
+     "why": "Risiko"
+    },
+    {
+     "h": "Schneider Electric sets terms for $10 billion of bonds to fund the acquisition of PTC",
+     "s": "Idéal Investisseur",
+     "t": "2026-11-18T08:14:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVjhrcG40aldoeVdKbEk3bk5RQ1ZHWkhkTzdSaVBDVjBJb0diMDNoQlFBdy1kbkZVTXRrY0pWc2hxRjdFbGFQYld5ZFROMzNFVnNYN2VEQk1xaGhVVUR5eDRXX1F1dU9BLTlJRkQwMThBN2t6Q1VhdUdJcVJ6eEtrQ1FVanZuU243eXdoN2FaMWxfMm9FRDY4dVJDTkpXUnktRG5EMy11dTZkSTU3NzRBTUxDX2Q4aEtPX2dRZWRuLTdVUVI5MnBqN2YtNHZVODVMdUVILU9zYTQzVkE?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "Data Centre HVAC Markets and Competition Analysis Report 2026-2030 | Capitalize on 9.2% CAGR and $6 Billion in Revenue Growth with Schneider Electric, Daikin, Vertiv and LG",
+     "s": "Yahoo Finance",
+     "t": "2026-11-17T14:39:00.000Z",
+     "u": "https://finance.yahoo.com/technology/articles/data-centre-hvac-markets-competition-143900849.html?.tsrc=rss",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Schneider Electric Infrastructure Limited Receives Order-In-Original from Office of the Assistant Commissioner, CGST & Central Excise",
+     "s": "www.marketscreener.com",
+     "t": "2026-11-20T12:22:33.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONDJqNXJUTXJLdi1leExlQzRNZ2ExYVVMUXVxcThoTWlTTFI2SWxncldCd0otSVlvMEVpLTk3U25SWW1kYVY1eXVjakRvOTBfeFNRZl9pQURVM3QwWnJlOG4tNnB1ZTFITmlPdHdOLV9ic2lIalJPVXlKUTAyN0xVei1zMlhKZnllVXdjd2Q0b2lCejI5UlYtU3pZcUpSWi1YVTVDdWY0a2dJRzdna25MTi1KX28wbDhEUmhhaW9TSVB3WWZOeTRvSFVOcXRHVHNabVV6Q1NJY05KUkRtbk1sSFpLY0hUMXJf?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Schneider Electric shares slip to the €227.55 support level, among the worst performers in the CAC 40",
+     "s": "Idéal Investisseur",
+     "t": "2026-11-20T11:18:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZi13QzlqRFZjeW52REliMkt2eTIwWVI4Xy00WUVFTllkWkdwYUVwX3RkaF94MkFaSGtFc3VubjFJb3NtSEdmdWdJNldYckFrTkx6MmhLVEpIYmtmOHd4TzZnVm0xb1ZMSVlidDhNMGYtOUlZZEFVMGxfcGZrQ0c1RGo4dEFPdUVTU2dfWWJSTHBfUDJnT3lMU2F1dldOV1JwbEJQZ215Z3ZST0FOaFR3M1B0NFo4cURULXhzSlU2N2djY1d4SF8wWjF3OGpvaTFGTHpGclZLQS1vNURDdWN0bDBlS2FrakxGRUZWRHkySm5lUQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Warum die Aktie von Schneider Electric heute unter Druck steht",
+     "s": "Investing.com Deutsch",
+     "t": "2026-11-20T10:43:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPREN2TlYxYUdEN01TMTRfRUdyQ3J4MXIxSUU0bmk3NGNDUnBKa08xSksxQjNjQ1lvWmdGU3dnMUc1UWFsSWIyMVJaU0R6bW41Zmx6WGN5Und5LVhCTzVGNDd0RVIwQlBGdW9TZWk3MGZRcmZPMF9ZdzVVTE5IMWswUEtZZjBKcVJKbDZlVHN4TnBWc3NRUElJZjUwemxTODRwNjBBX1U1WFZQSm5FdHk2RUR2U21IYnZPR2hVVmYzLTM?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Schneider Electric named Market Shaper in Gartner's Physical AI Services report",
+     "s": "Data Centre Solutions",
+     "t": "2026-11-20T10:28:18.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObzhiUzBVdHJpV09xc1A3eHN4WWQ4T0JWVWg0QktKMXU2NG5ZSTZoNUFMdDRhZXVkQ3lhcWpnY0NKYWdmRWRDVldyeVZyNG02anExNHNzS3E2QXd6YnpxS2NSdlI4Z3ppdWZiZ3lORkNOaWQ0WUY4SGRiMEFzWmZLaWlzdUdDeFZxWmY3Q0pJbHd6OHNtUGplMXZpYUtjbzNrM2VucHZYR1FWcHF3SzNVQTVwSkoyWm4zenc?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Schneider Electric survey finds enterprises favor on-prem AI despite scaling challenges",
+     "s": "Data Centre Solutions",
+     "t": "2026-11-20T09:38:03.000Z",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVGlpVWZMcnFlSUZFWE5FUkplNXE5Y3huVVFzUkNFbzVfNDFZYlh1QXh6SmJRZFVFWFJ3UWdCWlJJcmRLOHpsN184eHJHQ3RMR3pvRjRsY1JLZWpzUUxFRFlwTGI2TDhrNWVwZlBfWDgtYnRnbjdSTjAzOENYNmduT19SZTBfSWYyc2N6T1ZkRVFocWFLTTdSSDA4cW9KVG1ZR3dQU2ZXZG1SM1BxQWFtYjJwZDVHSW1ubk1id2JVY2kzNEYyVFE?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "REA": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Product And Services Roundup: Idealista, Zillow, REA Group, Domain, Rightmove",
+     "s": "Property Portal Watch",
+     "t": "2026-11-20T10:22:33.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV1Y1bGpMNGJMdm1LRVhZTlhSaWswc1Q4clNrMmFrX2FEWUQxRmJ0X2JmLWMzSEN2ejJZOWl1bV9xcDRaR1NSNzFFd2s3YlRUZ3lkMUt6VjJ1WnhQbzA0WlFmMFRxVFRWcXNiNTZnS05yOHJ0V1NsWjlmUThrcEw5V3RLQVFVUENYS25Ucy1PcVNqdElOXzZ4bDZnWXQxZ0YwbUctbEhWNDIwcEhXWUUtakM3Wm9GaWdW?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "REA GROUP-Aktie unter 100-Tage-Linie",
+     "s": "boerse.de",
+     "t": "2026-11-20T06:59:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdkdUSnVBQkZNWVFLeDIyMW90MG14Q3VNRU1La0R6dEY5dmtyWmpoSi1kUVplSTJ6WlRsQW82XzNCWWllZ0hTclVwVFRoWkJmQVA1S0liXzNEZ2h5eUtCWEF3YnhoLW9xX1FuaWo2ZjVZbDZmemN6YV96Rm5QZHVSb3dfMmVpZw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "REA Group Limited (RPGRY) Seasonal returns chart",
+     "s": "Yahoo Finance UK",
+     "t": "2026-11-18T15:41:35.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqZVByWlRZWWsxMWUyUVBLYU1yS012amM0d2hTeDcxTlhBZTdFSkVhTWFyWkJseGVSdEtXWEE4TFRmOEw2cmNoNFQ1QnoycTBpM0FCbTlzcFAwbHhXTHhoN3lPdw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Catching Fake Listings Before Buyers See Them: How REA Group (ASX:REA) Protects realestate.com.au",
+     "s": "Kalkine",
+     "t": "2026-11-17T02:07:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLWtjcmQyeE0wZVhjNTZmMXZLOGRNRGVhS0x0RWEtYW4wcHRtNEg1elh5LVRNUTdqd1BYUXFZclgwWFhHSFJCTm1QeUFERFJTazNDX25BN2E1em56Q29SVjlBYjYtVHJCVFh1aEQ1SVJZZmxmbkcxQjZsUDNBUnM0UDFoQ1BUTHNiZVJPVlVEVnh5aW1UU0d0bU5sYnRSUkxKQVJwSUhueDViVHJ1d1lyX0pGcV85SnBjX1p6cWlvYXJsY01sOXctbzU5VQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "REA Group’s Q1 FY27 Growth Meets Uneven Australian Property Listings (ASX:REA)",
+     "s": "Kalkine",
+     "t": "2026-11-16T14:22:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOckl2U0JvYmEwN09DVHZtLTFwd2xDOF9rWTN1aFZ0ZGtTX215bGNOUnl2bGFKeWt0QTVTcHJiUjhNMEtmQUs0UVBOb0RCVGVuLW90NVJqRUM3Z1hJb1AzZmk0c3J1N3p1N1EwSS0tSFZXeHhEcTJMUkNwdVZndlUxYmlhSGI1dUs0aG85WWRVQjZUN3V5YXZvZ25FQmQyX01Zby1DcmMyUWNGNnJQUnBBWXlHLWM?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "WSO": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Watsco A Aktie fällt unter die 50 Tage Linie",
+     "s": "SuaraGarut.ID",
+     "t": "2026-11-20T07:37:57.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWX2ZNVExJMlBWMTRuTXpuc1Z6b0lkQm85U0trYk9oY252cjFPV0ZIQ2Q4N2pINDNIN0U5bmtCaXBMS0N2dy0tT0VGM1EyZGpJQ3FrdXgxTzZwbG0zVXZzVXo5c1g4M0l3?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "(WSO) Price Dynamics and Execution-Aware Positioning",
+     "s": "Stock Traders Daily",
+     "t": "2026-11-19T14:50:01.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOelpXQnB6RFZEM1NHMUIxbzdKLXFFa0ZBaGVJcDVtTjlFSkx1UGpjdlNtdDluZGQxcXlWVFdVV3puMEt6dmt6RWxZZ1NGVjJNYVFTeEFwaWZtWWRtZy01UnYtRkpkRGtIUXpsalVEMFNaMF9nR3JUTk1iRmdWdlhycXJxUWp1ZC1LcEtsMlB5aU9HUVYyVXVtZGxCYUh1bkhfUTdtbDRuWVNZbnlqY1F1N3B6czAtckVDSmxkV09ZbXJWSXNrWVN5cGJtOA?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Watsco (NYSE:WSO): A Balanced Dividend Quality Case for Income Investors",
+     "s": "ChartMill",
+     "t": "2026-11-19T10:30:57.000Z",
+     "u": "https://finnhub.io/api/news?id=e5a31b794d8d7149b66f1e72e48d49d1bef9449b9cfd85660020a7574cd65b05",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Morgan Stanley Maintains Equal-Weight on Watsco, Raises Price Target to $340",
+     "s": "Benzinga",
+     "t": "2026-11-16T12:44:29.000Z",
+     "u": "https://finnhub.io/api/news?id=1e6596feed439990f7142f25ae61322322083cc2f31dd8bac54233b5897637d1",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Watsco (WSO): Why HVAC Distribution Could Be a Long-Term Investment",
+     "s": "The Acquirer's Multiple",
+     "t": "2026-11-11T21:26:04.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1NV2M0S2JwTWhKLU9jcm1nZFJEWTdhWmNlN3h3ajhMTFFDd2xIaUsxWEl6RWZPMkdBMHdkal9zcDF3b0lSOVlsYWNNZE01VnFDYlFISkFLNEtpNUZFaHc?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "WKL": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Wolters Kluwer übernimmt US-amerikanisches Gesundheitstechnologieunternehmen AgileMD für bis zu 100 Mio. USD",
+     "s": "MarketScreener Deutschland",
+     "t": "2026-11-16T04:16:13.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVEpZV19iSlRBcjFQdlVtZnlQeU56OFFXX1ZIWVB6Z0gwM2t4a3ZrZWVhQXM4RG4zRE1RYkRpc0xhbDdDWHZQZHcxb0xoajdpLW80X0FNVGR2RjVxUDItb2hpQkxVOEJjaWpiUTg3dDFrRS12RkZrN3FLYkhxckduNlZ2eDMwNU9VLVZ6MjdLRThFSlBRUW92czc4WkpheVZFZUhXRk02V2JuMndpMzRtcWt3b0Z0SXhZNEpINGx3aWJ6SklzM2lLeU9vN3RrRHI5bm1nVU40WHdGUTRTRGVDb1BBZDc1M1hLR1BMMktUb3NPN3c0a3BCRHhqSQ?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "Wolters Kluwer acquires AgileMD",
+     "s": "MarketScreener",
+     "t": "2026-11-16T02:40:00.000Z",
+     "u": "https://www.marketscreener.com/news/wolters-kluwer-acquires-agilemd-ce785eded08af427",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "Wolters Kluwer (ENXTAM:WKL) Says Most Accountants Have Not Fully Integrated AI",
+     "s": "Yahoo Finance",
+     "t": "2026-11-20T14:16:24.000Z",
+     "u": "https://finance.yahoo.com/technology/ai/articles/wolters-kluwer-enxtam-wkl-says-141624061.html?.tsrc=rss",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Blue Chip IQ Launch Might Change The Case For Investing In Wolters Kluwer Stock (ENXTAM:WKL)",
+     "s": "Yahoo Finance",
+     "t": "2026-11-20T11:13:58.000Z",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/blue-chip-iq-launch-might-111358265.html?.tsrc=rss",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Q&A with Peter R. Jarvis, Wolters Kluwer Co-Author of The Law of Lawyering",
+     "s": "citybiz",
+     "t": "2026-11-19T19:56:15.000Z",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX203alZoOTBCUTNDczFrdXd0aS1jQ3ZxV185ODM1OHRZdldCMjRSOVlmYmh1a1VrUHJwb0dkbWRmN3RpTlVQSXByZUV6dlJTVUdNQ21sZjlqZHpnSzQ5UVRXRnBHR29kejB2a1hacVFyY1dVaTBXZjJPcWFaZmdpVXk5aGFCSXUyM203RlJUcDRHZW5mWGw2R3lqSUdNei10VEdTN0dldUVzQzR4ZEhR?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "BY8NQ1 | Mini Future Optionsschein auf Wolters Kluwer von BNP Paribas | DE000BY8NQ18",
+     "s": "Finanzen.net",
+     "t": "2026-11-19T16:19:14.000Z",
+     "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tTDQtcXNKem1UY3Rsdm8xb1F5bTU1ME9PcnFjRlJwaDBIaF9MZXBxNU5kS2Q1Y3BQYmFIYmtwTVBrVnVWcjZqdERYZzhDRDVGSmxMbkU5amprT0xjeG1ENTR5bWJ2MjF3VzdVM0FEUFU?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Wolters Kluwer launches Blue Chip IQ, bringing AI to decades of trusted economic intelligence",
+     "s": "Yahoo Finance",
+     "t": "2026-11-19T15:01:00.000Z",
+     "u": "https://finance.yahoo.com/economy/policy/articles/wolters-kluwer-launches-blue-chip-150100358.html?.tsrc=rss",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "ASML": {
+   "ok": true,
+   "items": [
+    {
+     "h": "What ASML Doubters Overlooked",
+     "s": "Simply Wall St",
+     "t": "2026-11-20T19:09:04.000Z",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYThQNkVsa2d5V3ZYSmpQdGFtWVNRT0F2R2ZVWHJVbGdzaUJsZElqc19YZEsxU3FRN3dhdU8xTHE1M0xwb1Juek9kUTBsdEVBMS1vR1dheEFsMTZXQnV2X3NPRzJDV1ctc2plaFRBZl9FRGgzd0xyWW9aSEtJN1lhT2diRzBkY1piLW4tMWY4UE13cGFEdWlPd2ZhbHItWXROa01iWUhqMjB4Rk9TeVNJ0gG0AUFVX3lxTE9ER0JXM3VDcHFEUUZ0THFDX2s3WlppVm9adFJxVXgtVkdkc3Z6Zks2c1l4bDh1X0I0YWE5cExvWG5qWDdnMFJnRmwzdkFoZ3JNS0tmVEF3Wnk5cXNWUHRYMmZHUmZDRW0yU0lsaFRYN3duWENkMkw4cU9XRzBXYTVESVN1WUhUYUptZ3NRYUVuMURTdGtrUjZ4T0NaU2JQQUlidjFNNURObnY2bDJLWkFVY0tnaQ?oc=5",
+     "r": true,
+     "why": "Kursbewegung heute"
+    },
+    {
+     "h": "ASML Q3 2026 Results Point to Revenue Growth Above 50% Year Over Year.",
+     "s": "TOKENPOST",
+     "t": "2026-11-18T23:33:50.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FMDJTdHhiMTg3Wno5SUUwZ2Y5VU5OZVR5empKT01JcUJDRmtUZS1zQzdrcXo4YzgxcFVLVHZIOS1pdk1QWDR0VGNELU0xcXBnb2syQXFFR04?oc=5",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Bernstein Lifts 2028 Wafer-Fab Equipment Forecast to $279 Billion, Names AMAT, KLAC, LRCX and ASML Top Picks",
+     "s": "BigGo Finance",
+     "t": "2026-11-18T05:35:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44VnVPZU5XTUptcmlpUl9yR2NaS1JWbjJOandPOFJtNUlCRXZJVUg0bXpLUktVRnZycUxyaFI3SmtqSUNVTVNWM0NHazQ0WTRKcHJGX045QmFqcURsWFNWYXloSjlsUkVMcWwzQkh4VElFRkNjTnc?oc=5",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "ASML's €442.6 Million Buyback Can't Paper Over the Questions That Actually Matter",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-17T11:41:30.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNazhKVkhUZ2Fxay1Cd1JmX0lZN3VqZG4zcGtvUFVQa0VGc29BZ1ZnVU8tV0ItZWdzS1hnQl8tNVpvbFpKdEd3a1RIQ2x2aVc0dDhNVk5XbE42OXRmRjdBSnNuUGtDc0xNUFJGOFJXUDRjV3BoYUFQRGR1MjNQdFhzSjFDTGxHWndmRnJWNVJNRGJMTDNlNlhsNUdPd2tyODZYai1JUmc1dXRJR3lubnJnSWJGd3F0cTJ2LXd2b0thc3MzSUhKS0luakRyMlBZQ1FBMXRrZ2FFNVpjVF9RRmxtQmV6eWVrSHc?oc=5",
+     "r": true,
+     "why": "Dividende/Rückkauf"
+    },
+    {
+     "h": "ASML Holding-Aktie: Konzern kauft Aktien für 442,6 Millionen Euro",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-17T08:31:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWVJuNGlsWHNLUUpxZW5JZkFkd1dUdkptR2RYTkJMMzhVanpYdXc5MXR2b1pob2JNVHM2QmxMWklnWXZvLUVXZno4QmN5Z2RxbnJac3haOEM5QThNY1ZEdVpGX2x1aGN2Y1VIakJrb2M5UFVLSDNMWnNrY25CanlJQ3J1T2xOYXpMMm81WlFnY3JFVmFqSVN2bjBjSVI0YmhDc0h3VWZieEp2VGNqcjl4T0dnUW1majczbXJpVGxqMXczQlJwTXMw?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "ASML Holding falls 9.04% in Friday's session",
+     "s": "Global Banking & Finance Review",
+     "t": "2026-11-20T18:27:08.000Z",
+     "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd09KVEw0ZUFQcm5OWFdaY0VxMTV1YW9xVFZnOU9ZbERDS2MtaWN6bFFJN3FsbXJRS2NPY2ZwMGZqVm9oSS1aUjdzZDdEc3VXZWRUT1VDZERVeVg5T0xPblFtZnUxZjBIbElKZ2tiWFpGUnRpbVlUdjF0cUx6YWNiMVQxRDU?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "ASML Aktie: Anleger kehren KI-Werten den Rücken",
+     "s": "Börse Express",
+     "t": "2026-11-20T17:40:20.000Z",
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdXRKWXJMYU96MnpEc3AyTmZFbDV3YXcwMzB2MUhLaEJCV2pSSHpsZl9pMjFNWlVrVGx4NnF3T2lQMkJsbXhvMDVDWFZ1eTEwS1duX2c5d3I2bmJ4REVSNjhpRTZxNWk1S0cxeFc2RU0zakx2eWgwZVhvcHJNNzZlN3RkSmFNQkprSWlsSlFtanhPeWs3NlBLeFc2NFBVaXlv?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "European stocks close down 2% to cap their worst week since March as ASML and Infineon slump",
+     "s": "MLQ.ai",
+     "t": "2026-11-20T17:23:44.000Z",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSnptd1AwVHBPWkpvdEFfazkwZktMVDBOZkRyOVZ4dGtaS0lxVG13dmpPMmpsMHllV3Z4dTByOV9RcDFfQ3p5aWEzbzQ2aGMyQm1veXNpYlNqTGxJeXFUMUJ2X2JVeEx5Mlp4WmRDb1BhMHBaR0k2Ymhlc3REQVc4WG14TlNFVXRDT21pYm42d2JpWUFNeWs2ejI2OVJCM3pnUmZobHNtY09PNHNKOVdLSWhR?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Warum die ASML-Aktie fällt und ob das eine Kaufchance ist",
+     "s": "aktien.news",
+     "t": "2026-11-20T15:30:17.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNGNNZXgwWjV2Qklpa0tmSUVtczE0dHV4cEd1bVJQZTM2eUk4NGJtdlFhRFpVdFhheG1PMkMza0Q4Q0ptTlowNF9hbGNZREVSLWwzenBCYjlhU2NSS01BYnRibVRmakdCbmpxSGJfb244N3RuclJlWGZlWmdyeDFjOG9Xa2tPaWwz?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "European Stocks Broadly Lower as AI-Related Selling Spreads; Semiconductor ASML Under Pressure",
+     "s": "BigGo Finance",
+     "t": "2026-11-20T09:55:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnNWVlU3k3eUR4QWRwVHpFdWRHT1U2bG95aHlYVEI4YjJMVzl1U3VmX1RDQU5sRnZwTHJwQ1U5WGp5VjU1S18wMWhDd09ZU0F4ZU9aRk56TGx4ZWhiQmJQM3VzRFAyZ01PbFlSWHA3c0c1MFROckE?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "ABBV": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Oncology Clinical Trials - Global Strategic Business Report 2026: Secure Share of a $6 Billion Revenue Surge by 2032 as AbbVie, AstraZeneca, ICON, Merck, and Roche Accelerate AI-Led Trials",
+     "s": "Yahoo",
+     "t": "2026-11-20T15:01:00.000Z",
+     "u": "https://finnhub.io/api/news?id=1b396f7fd1ccda858f469529219cbbe24275be9a8cc2b87d830e97312093e06f",
+     "r": true,
+     "why": "Kursbewegung"
+    },
+    {
+     "h": "AbbVie Aktie: Piper Sandler hebt Kursziel an",
+     "s": "Börse Express",
+     "t": "2026-11-18T20:25:12.000Z",
+     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZWNJVktXRlhTVFk3ZTduNUJPOFJnVks5WTlZaEMtbGl1VFpNZVQyYTU4WFl0el9MSEhHRUI1SjN6NE9LS0dtTElmdU0xaTRpNUZ0RHk5eVZhNEIwcXFvYVZIVzhndWhOeE9ERVdTUXpNYUxuNmNrTmZFaVYwdFdnWEFJamJ6VXV5WDBybFliSmNEVkw5cGRlNDFRaw?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "AbbVie to Present at the Piper Sandler 38th Annual Healthcare Conference",
+     "s": "Investing News Network",
+     "t": "2026-11-20T18:50:37.000Z",
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV0tfcWNNbS14UURzQ2pmcTdzcnp4Z05Yb1hlU2RpTTdWV0dsR1JUZ3EwVjdPWUhaYVVZSTBINXNWZExDZVlMSkd5SUlWdV9pTlFzblZKQnVSU21XQ2NZRkxPc05iYm4ycFdMRG9iYXN3OVkzM0lIN2dxbXNGMEdlSlJyQmE4UUdFQjdMVkl1MjVyM29jNTRHeW9FS3RKTWhK?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "AbbVie-Aktie: Konzern modernisiert Werk in Puerto Rico",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-20T16:38:46.000Z",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNGRQY2taRGs5MS1ZN1dVTnY1UjFVYlRCX29VUXBnSmZVVFRDaURDYU5TWEZWZWhQR05TWHVRdUktcERiZVZOWG5UTzBLZVhSQ1AxeFQyeHRqbTlpZnpablpyN2tib3p2WC1TZk1mRDUwWU4yQ0ZDbjR5X2Rxbkk5N1JZMEdrbjlhMnNMbS1sOEZ4ekdITWJhNHJCSHdkRXBYaTdwdHg2a28tclRvZ3IxSHE4bmFvOG8?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "AbbVie bets on dual-target cancer therapies in Disco research deal",
+     "s": "EMJ",
+     "t": "2026-11-20T12:39:41.000Z",
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbDhIZzMxaWtVSXZkMnExbkRjUlF3Zk9mUGkzaWN1WVRzQWE0NWpwLW10NDRuM2tUY0dtdzBDZ3lwN0hfYWRQQWdtWWUzQzJIbllyTkdVQ1FYMFM3R2pzQVRtODdXY29td2RYZWdvN2NzYmpfMEF0N3ZucDZGbkRSY2UyYU5FZVhKc0luQTRPM3VvWDFIX09KZlJrSjNDcXdxMm95OG15b0JIcEdG?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "AbbVie hits the DISCO with $2.54bn bispecific bet",
+     "s": "BioXconomy",
+     "t": "2026-11-20T11:27:18.000Z",
+     "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZnQ5X2g5ekFsc2I2aXVDMk00SjVKc0FMNGo3eFBJR1pvc3VIaVg5WGludG9UNmlfYUpmWUJHRWhDcHBHUmxfY2dNNVF3SmR2ZDhyVldfdEpxVmdhLWFYRTB4dEtqX2swOTZ0MHBKaVhmbHVUaVlCazJ4Qk5VbVRFZEowT3ZNQXI1eXlPUDFLVQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "AbbVie Is Near Its High. Piper Sandler Sees Another 23%",
+     "s": "TIKR.com",
+     "t": "2026-11-20T10:40:56.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUpCZHNsbWE4cVBSUDVLX0hvWEQxS1NfTlZldUYwT3Z1UnF5eDB6eEJMckVXMWVjbUs2TnZxR1BhLVpVbExTUHpWR0NJdE5ua3I4cVoxRk51dTlRV3JCc2JVU1o5eEV2eEZ5cTFPZ1NKejJldDhxVUtucFk4Vkw3V294N2lNMFlibVM4?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "EVD": {
+   "ok": true,
+   "items": [
+    {
+     "h": "CTS Eventim AG & Co. KGaA (EVD) Manager Reported Acquisition",
+     "s": "TradingView",
+     "t": "2026-11-17T09:43:19.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0lIVDN1SkNQcktIdk1zNHRxVDRFTnNSdHlYbVFId1F0X2g1UE9jMEx1ZEhfeVZSRHJtX2lldWppdWxkdHZ1MFJWV1BtLURLNU5haEZpVEYydUdhZlNJRi1JTUJtR3VJellXSXNQdEUxS2hpTzI2QTRYS2RaQVlNSzFrV1MyMFpmck9oeVN0aGxOelpVNUtEbnlBS0w3RkpVS2lONkpKb1hnZ2xmUERwVjI2TEhFZnpz?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "CTS Eventim stock: AlsterResearch cuts target to EUR 93.50",
+     "s": "Ad Hoc News",
+     "t": "2026-11-17T09:10:00.000Z",
+     "u": "https://www.ad-hoc-news.de/boerse/news/corporate-news/cts-eventim-stock-alsterresearch-cuts-target-to-eur-93-50/70527801",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "MDAX-Wert CTS Eventim-Aktie: So viel Verlust wäre bei einem Investment in CTS Eventim von vor 5 Jahren angefallen",
+     "s": "Finanzen.net",
+     "t": "2026-11-20T09:01:25.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUEl6Yi1Pb19ObV9TYUxadWtpUDBzd3hqSTFfQk5xbVpJR3EwVWp3cGN6Z3JHZ1BZTl9WQXJhbHprTl9Pa1QxeHBpblNxdW5WRlp3bDNEZFUwalJDRDQ5YkExOG45VnU2Q2c5N05pM1djd0xrZjcyVHhpaDc2TGVSOGt2ck9hSWUwSzZNQURXMjlFWTI3a2VtQ0l3TVRKOXU0RWhhVjhNNXFKSGtSWmg5OEtiN3NibUw3QUdTb1A0RDk5OUpTOUFlRGZ1bEF3d0hpbG15N2t4UHh1SWVkZGhWWHJqY0VxVzlvZnFyOWlUSkJyZ1cyR2Vn?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "CTS Eventim: Ein wahrscheinlicher Konjunkturgewinner",
+     "s": "Finanzen.net",
+     "t": "2026-11-19T09:27:08.000Z",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSmRFWmZsc1kxRURJaTFRaEZRR1VpLVhJSHQ0NXZKUGRNemJjSmRCbzZhUXNROFVpajBPcW5KdHZQaEF5TVhIZjdrZFZPWnRMRk5nT0xRUXNaVmNQekdna3JnbDBGWnNUUlh3a29UdVlScTdwQ2ZFTjRnTkhzM1RfQmRfVXJSWnkwdFVTVWZoRjBGek5uT2NmQnhFRFZxajVYOEswRA?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "CTS Eventim AG & Co. KGaA (CEVMF) Seasonal Returns Chart - Yahoo Finance",
+     "s": "Yahoo! Finance Canada",
+     "t": "2026-11-18T20:09:06.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WeGJXWVVaN0dfWTlydkhyOTR6ZVJvM3dDdmZrSFR1ellhZDhIMjF5RXp3amtjdHV1dkowODU0S2FGQ0FFMmlkQThZWjhnQm54TXVEak5VMF93Q1VFajVIeVRBYw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "CTS EVENTIM Aktie: Umsatz- und Gewinnrückgang im dritten Quartal",
+     "s": "AktienCheck.de",
+     "t": "2026-11-18T15:31:30.000Z",
+     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZUdjbkh0SG43YXJmazVCdnlRUFRkVVZkWHFTZWFxay1lemRqSF9LYjRqQkc1RnN5VlpUU0xGMkpJUVhvY1BDWlVaOHZUR2lZM1Z5eWtIanBDSjlnXzlHaU82czNzbXdTRERaTkh5TElWSDI3bFdRdU5haXBkeURXVmRPYWh2V2o0TnhvYk0xT3FxVzNrZURqa09R?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "CTS Eventim-Aktie: JPMorgan bestätigt Kursziel von 95 Euro",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-18T14:45:41.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdGQ2cmNnM0RXa2d6YU5pTWU2MFNiYzBLTzY5VVgtVTd5aFBsb1BVNVFpQS1VMVhYWnpxbWRraHdpLWxfOVdSbWo2eDBqYVVramo3dXNpNzVrZVhsU3JIWTZPVnAtWXlBck84M0tEZlRBNHpuUEVSUGtfVE5nNUlWTzdnWkhkOGduMmtZOG1uVXlfWFNUM0UwTkNSYTc5NTFtaFBKTzBmQVVPZnlHcEI0LWVpMjNpLUN4SnNTNm1R?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "NOVO-B": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Danes Are Crooning Over Novo Despite Drugmaker’s Share Slump",
+     "s": "Bloomberg.com",
+     "t": "2026-11-17T15:49:57.000Z",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUTNiVDg5X1dnWUo0RlJTNWxVendkZXg1OVEtdjVIX3BTMTJZZHlFUVdvS25zcXJRdW9xU3Yzd0JFSkdrRW5ZSUV6akllNm9RZUVhbV9sNmN3emk2akRlUnpiMElnazViWVNlTEd2amlvMVhvakk3R3ZHdnlpUFEteFNIb1ZCOFpkTVNrUXpwRzhfVGRLVG5XbDlFUHR6NjhZLUwzanJ5NmtSQUd0YjZVWg?oc=5",
+     "r": true,
+     "why": "Kursbewegung"
+    },
+    {
+     "h": "Novo Nordisk A/S - share repurchase programme",
+     "s": "GlobeNewswire",
+     "t": "2026-11-16T13:24:33.000Z",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObTdNMDNQN0s5T004ZjhhSVd3LXFPeTVpWEpFMm0wME5fRW80aXJ5cFpLN1BJY3BIbWwxTFJrMzI5OGtzd214cS15M0dFY1pNWmJOOWlubHRxSUFRX2t4VnNWdmFBUlFzWjVTaW4xazNsOVFvLTR4OXUxUVpBUWRpWUVuc19QRmpYMzltRFM0VWU1ZHBXUHJjMjVMXzVVWEZDdktaVEJqOUc5Y1RkbVpGQ2tORjM1UQ?oc=5",
+     "r": true,
+     "why": "Dividende/Rückkauf"
+    },
+    {
+     "h": "Novo Foundation Considers Funding Scientific Research in China",
+     "s": "Bloomberg.com",
+     "t": "2026-11-20T16:14:47.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWt5VzFEOHVoMUpBTDJGQ1Y3WF9TTGZSV2VDeTQyelhyQmx4c1BBc3lFTGNzci1adjN5bjR2N1VFTVhHcHZ1S3FtUExYZnFBU3hTS21xLXBvV1FYWnVwbDExaTQ5MzY2SWNVdlJtYV9wbFZPblJ6dGp0ajhxZExiZDdiS3FMT3ZKOWdCOXhfQkh2bm5SMmlnM1pBc0YyNW9pNzFGVW5yTV9rOUw3LUoyU0dRbw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Denmark’s Economy Extends Strong Run as Novo Boosts Growth",
+     "s": "Bloomberg.com",
+     "t": "2026-11-20T08:17:13.000Z",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM01tbWRBd3FpaDJkUTFtZHVLS2c2TUZhNDVKNTBYb2diRUhwYlRrMVhCRHpiMXNvcVcxbnJTTm5zSkNISkJILXJ3XzlhZjMzSl9nOHpsMW80UHMtRk1fTGJNZ1BEc1B4VmNhVXVjTDlaMzZjc0tLVFkzYTNkbkVpWlB5LTd0WlMtZUhUazJzZk9GTFJ2QzI1d2JPZkZiQUFkUWFKNW05QWZ6aVNjNFE?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Novo Nordisk Aktie: FDA gibt grünes Licht bei Turner-Syndrom",
+     "s": "Börse Express",
+     "t": "2026-11-20T18:31:07.000Z",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN2lQbmJaMnNEN0ltamRNZE41N3dqRURfLWFjUDBIRXZHTkcwd19iRzZTYTBDQTVJSjUxNVB5Q25iNkRKemVWYTBXcmlBbWVhTklqcDRHQ1I0eW9keGVmWkFHTTUzUExrS21qUURMeXhEWHg5OUZmdnZNWTJ0RUlDeHhnanFMNU04a0s1TUZvNlRVYUxhVGFRWllCRG52RVp2dV9QQk1TWFYwc1QwSHJ6XzBB?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Novo's Sogroya® receives FDA approval as the first and only once-weekly, long-acting growth hormone for children with Turner Syndrome (TS)",
+     "s": "Yahoo Finance",
+     "t": "2026-11-20T16:47:00.000Z",
+     "u": "https://finance.yahoo.com/healthcare/articles/novos-sogroya-receives-fda-approval-164700013.html?.tsrc=rss",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Forget the Headlines: Novo Nordisk's (NVO) 4.6% Dividend Yield Is the Real Story for Patient Investors",
+     "s": "Yahoo Finance",
+     "t": "2026-11-20T13:49:00.000Z",
+     "u": "https://www.fool.com/investing/2026/11/20/forget-the-headlines-novo-nordisks-nvo-46-dividend/?.tsrc=rss",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "OMAB": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Initiating Coverage: OMA (NASDAQ:OMAB)",
+     "s": "Seeking Alpha",
+     "t": "2026-11-14T09:57:14.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWgzenpseXZ6VEUyejZPUHI2T0ROSkNIZThrWUxPcDU3c3VzZ3NSVkVydF9Ec2VGSnVwWTFkeUZJbWRja2VjUGVfU1NkY1JRdzZMMV82WmhNSnlwWjRaQTdoLW1lQ3BtT3pHUnljYkFlZHpUMW9tUlBlbmpUMVlncWtFVnVLeEJnd0JwSjVrRkFfZS1uLTdnVmp0TTdaWUZDOVE?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "Grupo Aeroportuario del Centro Norte, S.A.B. de C.V.",
+     "s": "Reuters",
+     "t": "2026-11-20T17:49:45.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZWg1TWhtM1lIdWh4M1F1dGF0ZGo3M1BzeHl3djJYWHlZMHgwWEpTeDN5QVFSb2FjN3ZCTXdGUlgxM01TaGVQTmVQZllpMTJISWZKeEJPb0huQWdfcGlSaWRCTUpxWG40VS0zaG0xVzNORnczcEMtR3pZcWhDTWNlT3dRaU5Yb2hwRVE?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Grupo Aeroportuario del Centro Norte, S.A.B. de C.V. (BMV:OMAB) Is About To Go Ex-Dividend, And It Pays A 4.7% Yield",
+     "s": "Simply Wall St",
+     "t": "2026-11-20T12:00:57.000Z",
+     "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUzZjeWs0NzNwenF6NThEOEQ3b2JzTHkxNllGQldiWnIwOUJKWUQwR0dEMlJHR00yWG9yc0ljOTdyYWlnUFV5REVidDNGdzI4OVpGcC1ubFBNNjMtbmFlQjNER2M1ZkJRMXBFdWJaUFdpRTVjd0JqcF91VThUNjBhZG82WmxoWUZfVkF6RVZqc1huMnVNLWNLbGhZaktCVU0wVlhxMU92TzI5RDZDOFNtTTlyNDZuSS1YNWpOUTNvSmJlei14SkM2eEo2WWNldVBFeEJTdDNqMU9ueXRQSkV4MDNaQXI2Y3U4UWhQTWhsMmhfakdQSFItaVlRUlBtVi1WNm1SNnVR0gGGAkFVX3lxTE5TNmN5azQ3M3B6cXo1OEQ4RDdvYnNMeTE2WUZCV2JacjA5QkpZRDBHR0QyUkdHTTJYb3JzSWM5N3JhaWdQVXlERWJ0M0Z3Mjg5WkZwLW5sUE02My1uYWVCM0RHYzVmQlExcEV1YlpQV2lFNWN3QmpwX3VVOFQ2MGFkbzZabGhZRl9WQXpFVmpzWG4ydU0tY0tsaFlqS0JVTTBWWHExT3ZPMjlENkM4U21NOXI0Nm5JLVg1ak5RM29KYmV6LXhKQzZ4SjZZY2V1UEV4QlN0M2oxT255dFBKRXgwM1pBcjZjdThRaFBNaGwyaF9qR1BIUi1pWVFSUG1WLVY2bVI2dVE?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "A Look at Grupo Aeroportuario del Centro Norte SAB de CV (OMAB)",
+     "s": "GuruFocus",
+     "t": "2026-11-19T01:10:16.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYTlZVUx5X1Ewa3J6allVakJiT2p3ZnlMYlVUTnBvc2oxOTNQSFM1NUtwUmhuTWkzOW9yd09qRDJpSjVoVEZnSWpHS21RWGJpcUlENUxBWWhEM3VhaEZUZEtXUjh4WVZxaGZORkwxNmRIcHVCWHdwNFNMN2paR1NPRVlzWW00TFBMenBBbmx1UG83c016djVXdV82TFA5OEU5NnRrTzBvMkJ3MzlJUkZzQVhDSnBtN0s4eDBCMFViZTBzbG5xckY5ZkJxYUswbVd3NVp0UUx4Q2h3TUpXcE13?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Grupo Aeroportuario del Centro Norte Announces November 25 Dividend Installment",
+     "s": "The Globe and Mail",
+     "t": "2026-11-17T12:36:43.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdGxBWC1pQTNpSHVVQ1oyMzZRMlpEMUpCOGZrVEMtS1RzazRqeTBESHFkRVc3MGh3djRHYXFKVmlVOC1RRkREUU9TN1VOQ0dld1YxY3B3TUlEQmpPRzMwSElxNS1ydWV0V0ZQY2ljaDZKV0RkdW54dzZLN1l0ZHBCM2xPOGs5cC04QWk5N181MURIVGp2eUhTY3g2UEd4LUxiZzlsX0xFNUdWSWYzT0VRZDd3U0p6eGRnYzZSc0JxWTQ2RGEtNC1hU3RJZ3VPWjAxcGROQk9fRUdHMzVuUDIxOVFtZzAteTZWU3BZZG16S3AtZw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Grupo Aeroportuario del Centro Norte, S. A. B. de C. V. (G7A.F) Analyst insights, Price targets and Recommendations",
+     "s": "Yahoo Finance UK",
+     "t": "2026-11-16T09:17:20.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aX2lLeE5zRzN4SnpYZHBsNDJESVphaENEaXJORjA4OXUxckt2eTJEeEN3ZmRqRl9YQnVqbHVFbF91cXdfel9MMGN6dmNyMjQ5VVUwcE1sTUtxdFYyYkdScURJdXBIc25UbUE?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "FICO": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Global Markdown Risk Scoring Market Report 2026: Forecast to 2030 | Capitalize on 15.3% CAGR as IBM, Oracle, SAP, FICO and Zest AI Accelerate AI, Cloud and Predictive Analytics",
+     "s": "Yahoo",
+     "t": "2026-11-17T14:27:00.000Z",
+     "u": "https://finnhub.io/api/news?id=67c5f5473992f08d89baf2060ae4661468dac51e3bd9ffbb43619a08116b1442",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Fair Isaac Stock's 72% Mortgage Jump Came From Price",
+     "s": "Yahoo",
+     "t": "2026-11-17T12:19:01.000Z",
+     "u": "https://finnhub.io/api/news?id=b8e52b9910339e0c00d34833847a82068b3ec73614900f3e5b251dbe53f7145a",
+     "r": true,
+     "why": "Kursbewegung"
+    },
+    {
+     "h": "S&P 500 Session Movers: Fair Isaac Leads Gainers, Coherent Leads Decliners",
+     "s": "ChartMill",
+     "t": "2026-11-20T17:36:11.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMUJIQWZicHdzYjhyU2RrRGVuSWJUMmszbUQ0aEdwdng3SjFMZGxjSjE1YTVhZTNZZ3FVb2VGbmFhUmQxN0lSUlhmSWM1QWFuRTltdmZXWnY1WGJkV1NnNm9DaTdKQ2dGcEhBc2JHeXR6YkxqUFh3RGRlMHlyVXlpc1BMWTYwcGdyRVppNzFZTk82eG9fc0lXT0EyUmFTbGViSGhDNzRPTVBkV3VraUphRmcxVE5oamVOSXpuUXo4Nk0?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Fair Isaac Rises as Investors Reassess Recent Selloff",
+     "s": "Quiver Quantitative",
+     "t": "2026-11-20T17:36:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMlp5NFluWURxVGQ1U3B3Vi04TXVlaV9LcHUyNWJndl95RDYwVlM2aUt0YjRrN21kQ18wMkg2dFNLdUNNSUp6bmlHaDR5M3MwMjhvanA2YW1ydGZVUVRvMFo4d1RBeWZqZmtXdzNqUW1UcWZWbm93ZlJlV3l0cHNFR2JFRFQ5OG9DNTk3OFctbw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "FICO Climbs on Xactus Partnership, Brings New Pricing Flexibility to Mortgage Lenders",
+     "s": "Benzinga",
+     "t": "2026-11-20T16:51:39.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWEY4ZDhidVlENEFfaUJ5ZmFMbDdVb2dRRnU5MGpGTGVleHVLRF9wa0k5M3BLOTdkQklyRnA1MkhuMlRsbkpHTi0zUG1iclpVRGk2LVZOczFmNWVFblozT2NvWm1WRTNQZnhRbUhaT0NFS1VGWm1MeHZvUVBveVBocm9JRnprdTNnYzZYR1ZZdk1TaXFEMlhJdkJIM2hRNWZRdlVrbS13UjdIeUdaS0tJdFRITWV1RmNCTHBSSVFtenhvWXAtQnZ4MHk0UTRObnd5dmtZ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Fair Isaac Corp (FICO) Surges 6.2% Amid Market Volatility on Nov",
+     "s": "GuruFocus",
+     "t": "2026-11-20T16:11:40.000Z",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUEVSTzRTNUtSVDB0UFE4SnRFbS1OWDFRb0tNbDAxV2NjNFY5VWJyV3pZazlzeks4VDhtUkpBRnJnRE43d1oxd19kMHlnd01mTzBMb1FIVnFvUzJZSW4tcS1laDEwbHc2NlloazdwT3dHX2VzMUZ6cnRpWm1xUFFDWHdtVFNCZmpSS3VBRUQ2MEVDS3dBel9YX1lFajFxeUVvd2NTZXduRFlHWmxUX21xVkZ3?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Fair Isaac Corporation stock trades up, here is why",
+     "s": "TradingView",
+     "t": "2026-11-20T16:10:35.000Z",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEZpSlNxQWdYdm14TUJwUFdfSUJRRDlYbVlDZzNZYWxQSTczUnJDWVVoamE0aDNmMm9WeHcwWkZwTEFGVkdndjh0NEFXWV9jRDA4cWdkWjVlV0owRWUxWGtaQU0xbnluR3VsSzUtcnNZZ0tmRmMwVkdtend4TzRwN0ZOQTNGdWI2SHMxMjZ4cmJOUXhHc2M5SklaZ04wRmNQcDNPZXlDOXZTWlowaU5SZw?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "CPRT": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Copart earnings on deck as ACV acquisition impact looms",
+     "s": "Investing.com",
+     "t": "2026-11-17T14:47:46.000Z",
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3o3dmhreG1SYk43Mi1mN1Z2LWlfWlZ6ZHdSMDNWZjVHcXJqRXBnV0RCcDZ5MkdiQlA5el9nemdCQzdRQ2tXbHZONFVEUEU1M1p2cVUwQlhSN0h2RHVod21ueFBIZmNQVENZSElqcDZLeGI4ZDljRmYyRGNlYjZZNDJGV2VpQTZLUU42LUlNUUg4azNiQm5iVFdyUHRPLXA0b0VWamxZMVA3V0Yx?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "Copart, Inc. (CPRT) Stock Moves -1.91%: What You Should Know",
+     "s": "Yahoo",
+     "t": "2026-11-19T22:15:01.000Z",
+     "u": "https://finnhub.io/api/news?id=35867d0a9c4ca83332dc35a20325b5efc38fc872fd118e12625811344d1a2453",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "I bought a damaged Ford Expedition from Copart and rebuilt it",
+     "s": "YouTube on MSN",
+     "t": "2026-11-19T16:40:03.000Z",
+     "u": "https://www.msn.com/en-us/news/other/i-bought-a-damaged-ford-expedition-from-copart-and-rebuilt-it/vi-AA27AF7K",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Türkiye's COPArt initiative to continue at future UN climate summits | Daily Sabah",
+     "s": "Daily Sabah",
+     "t": "2026-11-19T05:25:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUzRmOFdjNnpEWHJLLWRjVzZQQ2lFUmk1Nkx2X0NieGVxaVZpaDUxVzZHQS1vcXBCdEp6RHo1a1Bpbml3ZjNLdzlXNzMyYXBKalZ0dFN6dVptbG93SHNGcDMweXVKV0JBTWZjOHl2NlFwanZfUFozZ0VRVW1aanZEUWFjTjY1QkRqUFQzQ2ZjS1hULVo0NHJDRVNOVnRlb3JTZUhCa2J2XzJ6UdIBrwFBVV95cUxQVEtPa3F5bHhyZnJLRmJjakR4UmRJaFl5bjUweTZXZ3FzM1VnS254Mm1RRTlIRGEzNkNnd0RJTlE0S1R4TUFWSDg5a21IelNfRndqV3FHOE03OUZFZlR6MTlEV3JocFE0SGtiNnJJRXljRjhtNDRkd2huaGlwZTZHc09DbXNmREFiLXhBM25CRHpfRmFka0JNWFo0WU1jdjNJOGdheFJaM25SNWs5VGZn?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Used Car Week: Copart, ACV CEOs frame $1.9 billion deal as unified front, not absorption",
+     "s": "Car Dealership Guy News",
+     "t": "2026-11-18T20:19:47.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUnZkX2VNUFRia0N6WUZfVnZKUU9qWXZ5d3V6VzNGTVpvdDBlS281dXllYWlyRWxISGhvVzBJVEdtWVpraXRSbXNoQUFqVEhIZ1FWdFdtdGdHRklJWng3T2RUNHhXVzBfU2M2UFFnQ1VlZ2t4aWU4N2NqMG9XVVRJMDF2NVgxTzgzY3I2eno5VzVmd1IwaEJxSzk3aURqbG5mQnB1M3NNa2FCZW9JZzN5cDRpUlZHaExO?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Copart & ACV Auctions leaders publicly appear together at Used Car Week",
+     "s": "Auto Remarketing",
+     "t": "2026-11-18T19:24:31.000Z",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzJkYUsxSjVLSThNYmhlZnYyazRCYkU4R0gxaC00OTVZSzRIUi1jcloyVU0yN2dlRTNEMzdSdThZSW9rSkVNNl9jUjVaYzg5cjQ1SEJQTG9GQTJ1X0QwbzduTUJCVlBBNnU0RlZLaUc1NWFjdzY0WVJtYWp1dV9MMG1YcUZqMzV6b2swLWFZdlE4Ql9Dcnp6d043emh2ZkZrQ3N6WnBPYlBlQkVfUFFvSGV0M29zUQ?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "SIE": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Siemens-Aktie: Deutsche Bank Research hebt Kursziel - Einstufung bleibt “Hold”",
+     "s": "Finanzen.net",
+     "t": "2026-11-20T09:19:42.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONDhIQkhScEg5VjNOaXY0ME9ZZFZVaEVhYUZaS1haM3pwMU14S1Nsdjdqb3poMWYzQ1p3NVdxcTBQb0VYSWV4V2h4U1NmNWxESE45Nl9oWHNsMkF5T2EwWW0yTUNRMk9aUnFKM2Jva19UWndiN2xMUVlCd3A1M1RmMWkwMXB1b3dCWm9MNWlDdVZUT3pRWTVRd1FNWGpFQXdMWDBqSDFuaExFOWVHTnhOZTRJb3puTFFEXzhzVlBIUy1pb1JVWWhfNmxZbWdLaTRsSnROOXFTYmJmMmlKUFNISg?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "Deutsche-Bank-Deals mit Reichen, Umbau vor Abspaltung bei Siemens Energy, Lernen von der „GTA“-Formel",
+     "s": "Manager Magazin",
+     "t": "2026-11-18T15:33:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY0s5bGg2OGNSUUU0aVZ4Ri1hN0R4eFdwYXFKeTVEN2g4bnJYcU1kOTFYaDhqZ2RQQTlBVHZSRDUzYkRKS01UTUEzSHFkUHVfM2FoSUlVUlU5U05DcWJPa2JROWRxT3Z2UThYc21wc1RLOExKczJZNUF6VUJ2c3lkRHVaanVzbW5wQUlVVnVLUEMyX3RPamQwYVJ3QUVPaG90X1JjenpmVXJsdGVMTWFZZmQtLUFrVTI4R3MzcXlub01wMmVGY0w1OWdsSFZGTEp6TC11cnVXa3NlRUJxREE?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "Global Grid Edge Cellular Router Market Size, Share, Trends, and Forecast 2026-2030 | Capture 14.3% CAGR as Cisco, Siemens, Nokia, and Digi International Scale 5G Edge Security",
+     "s": "Yahoo Finance",
+     "t": "2026-11-18T15:01:00.000Z",
+     "u": "https://finance.yahoo.com/technology/articles/global-grid-edge-cellular-router-150100541.html?.tsrc=rss",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Fluence Turns to Siemens & AES for Interim C-Suite Guidance",
+     "s": "Energy Digital Magazine",
+     "t": "2026-11-17T18:15:23.000Z",
+     "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc2hkMTIzRlBUVmhjYmZuSXpYQlJ5QmdvSjhtWU0zWkJ5Z1VtZC02cEJCbG9DbktNeWJQcnkwWVhEVzNrLS1aWHc0aTZ1aExrUGZ1QXFpTERfLTZXQ21jYmdkSl82a3Qxb2FPM3hvdGdYSFM3czlBMXVNdjBhV0ZMdnJQbWhDenhCYWQ2d0Rna0xRRzg?oc=5",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Siemens Aktiengesellschaft signed an agreement to acquire Breker Verification Systems, Inc.",
+     "s": "www.marketscreener.com",
+     "t": "2026-11-16T23:00:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYnVNLXNwLTNlWWR5VmxjRmFCQXd0M2F0T2RSV3RCVVBJcjNrUUk2NUdIODcta1pieUtFWGlHVElUTVRLeU5KaXhrUDBHZXc1eTFWRk5rUUlhQTV5R085bTJnWHQ1UnVQOWUta2RlRVNzekxFeEJnMzkxVFdyVUJQREk1U3VJMnFyNFllanRxdUpoUUY2Ui1rVGYyREs0MFhVVGFiMXdXcGJQNW9GQzFKZWZ0eE1YWVFxSThaVF9GMDBJTFZEdVVCeG5XSFRCYTNFRFhKYzZ0Sk45UQ?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "Siemens (XTRA:SIE) Is Emerging As A Leader In AI Logistics Automation",
+     "s": "Yahoo Finance",
+     "t": "2026-11-20T16:16:30.000Z",
+     "u": "https://finance.yahoo.com/technology/ai/articles/siemens-xtra-sie-emerging-leader-161630997.html?.tsrc=rss",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Siemens Healthineers AG : Gets a Buy rating from DZ Bank",
+     "s": "marketscreener.com",
+     "t": "2026-11-20T15:33:29.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVnhZWUs4VmxadUk5ZWtJSUZkaDgxZHVZa2pQZmdXbTh1LVI0UGl4TkxXT2ZsUHhIZHhQVGk1elhMMi1Nb3h1TWYzcFpkWWpXQXUwcEtMWFBOUm8yVUs2TXV3SDJ5c29HQU52QndKWm9reHRlY19UNVZaalROWU93b2NJNmo1M1hVMXhLZTBSV3BZQm5nNFJSMThHUWQydnZUcjVDU0V5ZUV2ZFk?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Rechenzentrums-Zweifel: Siemens Energy knickt ein",
+     "s": "BörsenNEWS.de",
+     "t": "2026-11-20T13:38:48.000Z",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmxON1F2Ynh4SEVtMDRsREp0UGw4N2Z2SUJWU0EyLWdFZGdjaGNraHlBT3FYRS1CanFUcHhmd09nTjA4aUp4TEMtM3hlUGtxdm1KZ1piZl91a25JUUl4OUZZbjdWWkVicjF0LWFLbkFLcGdkZFVQQndTanNjeXZvZnZkY0t1U3dWMXNFbU53VURxelVtN28zQmZMTmU0WVQwMEZqQU5POC05MGh4TnFHaUZJWDVkdFU?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Siemens and AGIBOT Show AI Agent That Designs 3D Printed Humanoid Robot Grippers from a Text Prompt",
+     "s": "3D Printing Industry",
+     "t": "2026-11-20T13:15:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUEFuY25lVHMxaW8xbDhkbW9RZzMxMTZjWC1fMVVCbXhQWHlEeTgxVUZXc1JuTURvSjNqY1dMT19lOXBJdEVqQzlXQ09tQmRQcnZKMUNIcFZiT0RfaFE5VmtlUUgyM1FSTnRfMFpRMDVaTXBpUHloc2d5X0Q1NkZrNEktb0xSN25aNlUtUUVSNHNnTVVsMjNyWjR3aFF0QVhVUmVGbm5uVHRXZDVKblBBb2VvMmRMWnlwVGRFdUs5a0ZOcVR4WXBhbzh5UC0xTDRmYmtQRGo4U3lyR3M?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Siemens Energy: Cuxhaven droht Gefahr ohne Offshore-Aufträge",
+     "s": "WirtschaftsWoche",
+     "t": "2026-11-20T12:11:38.000Z",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLXY3dWYzMmQ1emNNVjM2dEY0OGRjZnpkMHNXS25RNnRqZGZaeExKOWJDQWNiMTVWYnhLUW1ZU3RESjg1N21wQlpnOVdRYlRkRlNlTk5LODFld0tEb0s0ZW9FalVUNUhRWXV0U3dRS2lPWHgyZ1ZsWG81Q2Y0X2c4MFNLS0RXUFJWUkpLbmF2cl80V0Z5eDF2dWtrWGMwNXNMQnBXTWtFV3pBNVBmN0xZRDUyNlF5dw?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "BN": {
+   "ok": true,
+   "items": [
+    {
+     "h": "5 Things to Do: Holiday Sip & Stroll at Brookfield Zoo, Christmas at Cantigny, Train Takeover in Wheaton",
+     "s": "Shaw Local",
+     "t": "2026-11-19T17:45:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOUtGb3I2NGxrMW5KeXV2SG8tQ0x4OGxrTGNSMnUtaHRaTC1sWm9CdEdrUDdWdFN5VktiT0JNTzkxdVl1SjBYemlTeUZ5d19IRzdGM3VNNzRCbzJEaUpjWHR2NFBsbmtLM3BXZGppLTdYZnhUS18yNk9kZ05NQ3hmYXpHeVJSOHlYQnF4QkVWSU5aNExhQnJrVnh5RTQtRGNDWTZTZEFENzFHczlrZjRoTjBTd051c1ljZ3l3cg?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "Brookfield Asset Management-Aktie: Morgan Stanley hebt Kursziel auf 57 US-Dollar",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-18T17:18:53.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOV3YwVWp1N1NaNF9rMmU3QjhKSkJGRmxfbV9wUUVBbmF4MUVaVnFSVXUwbXZRcnlrblJQNHVzYXdHb0pnMVJUdThIbnR2dTlkR0hjallqRTFIbV9TQ0JMWEhLTVhpNUstcS1ibVZvUzFXWW5BRXBnYjVrSDluVUlwTDlmMzZWekRkOHo4QnlrWUo5a3NDc3JDT3ZkczVZbVpLQ1I5Mk40TGpndUw0Y1BtTFRyMjNaU0VocVpVVjlVMVVrazY1UC1XaVNQdDBlQldJc2tzNUZIcWFEQQ?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "Police investigation underway on Huckleberry Hill Road in Brookfield",
+     "s": "Yahoo",
+     "t": "2026-11-18T12:54:09.000Z",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcE9jeWlDY3lWM1RpX1hDYTByUklfZVVNenFEM2Z2XzdpelJLZ3o3ak9NczRmMUNqY1czZlJlNVd2ME1FdDdGOGRRckMwN0NSTWNLNnp4aWoyVFpDVmpwNUVESlQzMzAxQm9XbGNqblFCNlZ0UjdhQUN3dEtDWVNaaXhnVlAxUWUtRlowTzJkQ1RUUC1NRTNkekk3MDFhZw?oc=5",
+     "r": true,
+     "why": "Risiko"
+    },
+    {
+     "h": "QIA, Brookfield Target Investing €15 Billion for German Defense",
+     "s": "Bloomberg.com",
+     "t": "2026-11-20T15:28:06.000Z",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWHdZSlFjaHFDUHZ1UXVWNDdQanNRdGNiR3VqS0xsdXFkNXhuQkNDbFZBX1oxbTlmeTE1VlFKMkhMa0dUTmNVQ1hxUjc5Rmcxc282WWs1TWVuTXlHNVowT0Y5VDh0WnNqd2JtaURwV1JDUUkwVmxIRThTLWFVWVdjdklSVzQ5ekNQX19nYVdXaXk0N1V0Z3YyblJaYnBxVFRFQnl2YkNRd3luUWZXcUQxS2p3?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Brookfield revives talks over £450mn sale of London’s Citypoint tower",
+     "s": "Financial Times",
+     "t": "2026-11-20T13:42:30.000Z",
+     "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQemtkNk5iRzlzNHE1TXRMQk56ZzBZSjRSNFBJUTZzNjVfcUlrZEtJZ2RsSTlWRjNKSF9rbTY4OUtSbktOeWFNWGY5OEg0ZVRXWkV2MXVtTklyYW5HSHJYNG9IanduMFVEd2pFOWxpTTBwNUZCTUJka1Y4TTRiOVBBWDdLR1U?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Brookfield Real Assets Income Fund Inc. gibt Änderungen im Management bekannt",
+     "s": "MarketScreener Deutschland",
+     "t": "2026-11-20T18:51:26.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSTlHeHZsOFdqNjctd21Bd3IzYkpSOHQwcmd4TERsRjhMWHpFNmVQaGd3QWNxbENDSzJJRklxUktMdmJ2YkI1WjVqdE9OZ05iYmtlTk51R19lS2VDWlFFSEFubVhSUlowQ3REazBTQnIzODZYTFFRanlNWjM2MVR0STZ0dUY0M0Z0M3VJQjJkV01HQ0RhOU1XLTVGXzk4aU1ncktPMUNOUTRUSkhMUnJhdFFoWVdXSjBLVk9Wa3BjZ09tVVBmZTNnLW1jdG5qd2Fyc3F1MXg0RHlyN3c?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Brookfield Corp-Aktie: Notierung vom Freitag im Anlegerfokus",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-20T16:47:33.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaldhWlNPSHNHNUx4UE5SLVNmU1ItbWZsMG5sVG9GREo3TWxJSWVLeTlsM0tZbUtBTy1UR2o0ZmZzME04OHNPd29yWHEtd3VheEpUbGxHWDFtNDVxTWk3N1dIaVVWSm1sbDBRaXZEaTFRZW42R2RjbmlwT2VLTXRSaHVUZkJnN3VwLWh4VTI3LWpxZEdpblFtcFo3N09HeXJIRzE0a3NXM0lvUWdNX2RrZjZMclhka05vZWZoWHpiMA?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Absichtserklärung von QIA und Brookfield über Investitionen in Deutschland",
+     "s": "Qatar news agency",
+     "t": "2026-11-20T16:32:03.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQllPMmx5SUF6d0wwbXJBdF9lYUdiQmUybGV3SGdrcUhGUVE2emgta2g3d2dQODd4RDRrZm1Ea1JWNjlJZkZGSktwNzlzZGdDZ0UwZi1tcGI2MXJJZExTdHJJTFlkdDJzWER1OHNuSFEtc2Z3WVc4a0gzZjRRdlNvaUFsOHE4dHoxaGhjTFhpOTd4YnR0UE5NVjYtN0xnVm11ZjJMREs5ajhVTjNSWVBWWktBWG9Sa3ZfSTBUWkRWZzFJTGM?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "MKC": {
+   "ok": true,
+   "items": [
+    {
+     "h": "How Investors May Respond To McCormick (MKC) Dividend Increase",
+     "s": "Yahoo",
+     "t": "2026-11-19T13:13:22.000Z",
+     "u": "https://finnhub.io/api/news?id=e98fe0e99ddccd86aaa6f6dfba20db5ef4475caeccd59b489f31ea453feff646",
+     "r": true,
+     "why": "Dividende/Rückkauf"
+    },
+    {
+     "h": "McCormick Raises Quarterly Dividend",
+     "s": "MarketWatch",
+     "t": "2026-11-17T23:05:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdTdRWjVyMzNDbVVTMGZQNnpoUjJNeXNGbE12cDI2a19ZVTFLaURDejE5Q0p3LU9FRlFaVGRFUGQ4dmZRcDRtdk9Ua182cDZCdUdhck9hWkFPR0tsYmFPSkZkb0xDdUZUZ2wxa2N6Z2hoMGhDdWZENVRxU20yYWIwaXFKVzBkQ3dVUzdBdTc5YVBuMi13?oc=5",
+     "r": true,
+     "why": "Dividende/Rückkauf"
+    },
+    {
+     "h": "Steelers’ Mike McCarthy won’t rule out Mason McCormick playoff return despite gruesome injury",
+     "s": "Yahoo Sports",
+     "t": "2026-11-20T18:01:55.000Z",
+     "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQekdra1ZUNlFQXzVhRUp3U2ZuZWw4ZEhjTGtSSmktVWkweXYwTms5Mk05bWl2OTczdi1UdnBkaHpIMFlCM2Q2VTJ6WE91WW1tS1laMk55Q2VhVWpkV2hoU0tSTjdXWXkzem9FWGR4aXZkWTBkUkNQQ0R1SnpYS0xWVkZBYw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "McCormick School Of Engineering’s Chicago Quantum Network Shares Fiber",
+     "s": "Quantum Zeitgeist",
+     "t": "2026-11-20T08:46:05.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObDFNVkFXQVBJMzZZMTVqZVZKWE85bjBURm0tYktGQnYyN09FQzZHNjFxUlEzVmxQVGk1WGRKTkVLamJlMnBRaFdQUGdCMF9TYUE0Mk9UTEV5cXZia3NVVHZ1SDhEOTladzJESnlPZ01qcWtiMnJNMk5XdnRVZVV5aFFzSGUwcUVtT2c?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "McCormick-Aktie unter 38-Tage-Linie",
+     "s": "boerse.de",
+     "t": "2026-11-20T07:21:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUFJnMHZ6SS04akxmMndxZjFvRUo3R3U0ekFWTzJfcnFjVlcwQVpBbzVDMC1vSDJJSzdLQ09QQUgxWVdBN2x0eFF3YlJIdUxjOVFIQ3E1TFFJVFBOUXVRcXlPYVhsd1BOLWlreENyUFRkZ2RkWVBWWDNaS1FWMGtZMWxVR1A?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Shapiro, McCormick offices respond as Krystofer Lopez’s family seeks congressional inquiry",
+     "s": "WGAL",
+     "t": "2026-11-20T00:46:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSTI4NWxFUkIzb2daOHlTYl9FTEhYNHpTWnJpenZUTkxuUVBQRENBdkFmYmdZbXhZUEhPV2pRNWJSMThYeUlJRW4xellPbWFETXpKUWNoZGx6R0lIYlpvekdRSG9aWUhRa2U5b0ZiZFFySVNKd2VLQXp6TVdyMUlkREhmVG1uMll2cXZZRVg0Z0J5bFVaNDNzNkVYaWt0Z2puOUNkdVNmV3ZqaUYtUURoUWM4OGY1V3FFanhHa050cnZOZUZi?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "‘We got thumped’: Sen. Dave McCormick says GOP needs to focus on voters after election losses",
+     "s": "PennLive.com",
+     "t": "2026-11-19T20:44:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNlRuaFUzdU9GNHpNSzN6YmtEMGFpVDU4eG9jaU5vOFF4d0pmNVhJb21ZS19mSFVvSUI3ei1RQlp5VGxyeVZPU1FEdU9IRWRmOE5lUVN2elp3UUlzQ2xpNFgycko3UkNaTWV2dnVvNV9yZ1d4enBWWnQ5cjN0aENLYVpFNzZyLUltNFRHLUczOHVIbmhET0tORUszQmNXNWhpYlN5d0tSWm9xM1lhUGxNeWRLV1d0b2ZSb0hXZ2JkbTlLTW4tNENtYzhMUEpvYUY0eUE?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "APH": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Wall Street Analysts Think Amphenol (APH) Could Surge 42.32%: Read This Before Placing a Bet",
+     "s": "Yahoo",
+     "t": "2026-11-20T13:55:04.000Z",
+     "u": "https://finnhub.io/api/news?id=14019f50456b782f3aab65ad7f0bdb2f9562c1b18ac9261378b1bf2a5e97d892",
+     "r": true,
+     "why": "Kursbewegung heute"
+    },
+    {
+     "h": "All You Need to Know About Amphenol (APH) Rating Upgrade to Strong Buy",
+     "s": "Yahoo",
+     "t": "2026-11-16T16:00:03.000Z",
+     "u": "https://finnhub.io/api/news?id=f3d041170ec525d70d6efa7e76ac4007cc29d301858ff1a1aa5ed3edc07cf21d",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "Amphenol Aktie: Barclays hebt Kursziel auf 111 Dollar",
+     "s": "Börse Express",
+     "t": "2026-11-15T11:13:05.000Z",
+     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQVJLaklybTBVQ0pDZmtIcW5UZFAxSVpiQnBQaGw5OG1DRjdZcjdzNVRaRl9lNmc1aks5NjcxamJIdXNiMHZVdUZLNnFfU3NJZm9uTFpiOW8wd1pWbndWQUdwUUFjQ0pNMGp6UlNJQlNUSWZsbnNOX0dTTldjcWtTRWdEYjBwR2ctbGNBa1l2QmY4aXZUUWRpSk14b19fVXVUcUFaVUpudw?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "Amphenol: More Connections Per System Drive Profit Growth (NYSE:APH)",
+     "s": "Seeking Alpha",
+     "t": "2026-11-20T06:53:02.000Z",
+     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmkzYnhnWlllSFN0NVh3VmhEVWVIRzhVQnpzYXRNM3cySVRpUUhrbEx4RDJac25BMnBFZktiTHJQbkdZUmZBV3pJQWtpS3l5cDdyMzItbHI1WWFKMVNXWWxLdHZDaWxUck5WR0JwLUdtOVdrN0dZWWRzTWVvanh5WW9hZWpjRXlOT2h4Q0VtVm9uaGJScWh2bnBFa1RhUQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Amphenol Aktie: Mitten im KI-Ausverkauf leicht im Minus",
+     "s": "Börse Express",
+     "t": "2026-11-20T03:35:14.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQamtYdUVwei0zV2UxUnZrMl9uejMxRlY2MWFTalBOb2w5UUoxQl9CQWlVclZiRzBjN1pyQ2cwa1JvSzFUS2F1Wk1pSkxuQy1ZZDJIU19HTTJCNzlHdGVPYnVKVG9HSk14eTdkaFVQNjY1NEt4bTJLVEl4UGxPTU11OWs2WEtyYlBNQnRpSEFxcVNzZDZMYWk3OEhsZHBuOVhnNU5pYXVKS0k2UQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Wrapped Amphenol Tokenized Stock (xStock): Funding, Investors, Team and Key Events",
+     "s": "CryptoRank",
+     "t": "2026-11-18T19:31:07.000Z",
+     "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtUy1VRVBUcDBPUU1TMWJnNmxHeTRPZEI0UDZtYmJtY3RPbkRJOWVtRlhIWXhjMUFvOGRKYi1sa2Y0ZjhFN0tkbTZSaDBuSWVaSFZnZFFGRERiT2cwaEs4YzlHWXVxaUV5SFlBLTRrQkZPaEFHNWc?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Analysts Have Conflicting Sentiments on These Technology Companies: NetApp (NTAP) and Amphenol (APH)",
+     "s": "The Globe and Mail",
+     "t": "2026-11-18T05:55:00.000Z",
+     "u": "https://www.theglobeandmail.com/investing/markets/stocks/APH-N/pressreleases/8896731/analysts-have-conflicting-sentiments-on-these-technology-companies-netapp-ntap-and-amphenol-aph/",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Amphenol Corp-Cl A (NYSE:APH): Affordable Growth at a Reasonable Valuation",
+     "s": "ChartMill",
+     "t": "2026-11-18T12:30:48.000Z",
+     "u": "https://finnhub.io/api/news?id=19832665558b3610f6fd7a066d59bd5b9d5df46e8d45e5ed159f73192900f5c8",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "MFT": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Market outlook: Nvidia CEO resigns, Mainfreight exceeds forecasts and more",
+     "s": "BusinessDesk",
+     "t": "2026-11-15T04:05:03.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFZCamZZbEF0eWRrRXpwVFFvUjF0YVlQUVpZM1JzVklTMDl6VXhfQ2dsaWpsZV8tWWdiTEZYaWRPNDAxUXhnVWJRWDZaUWFONW5LS3BMaHhJZUl3MHhJTGp5cGIxRGxSU0VUQTJLaG50V3JCb29jZG9LNW9jemYxVEZiMHdDV2R2TGdrV2JZN1IzRnBvUVdLcGRPaXBtNWVzZDVPdmctX2xQYUFZejlvbUZSb29zNHJqX0pOUkFfOVllSzA2bUdmVUhpZmhLMFpDTmMxdkJleXBYMjE4SW1XTmIwM0lRNjJXckQwdkxaeGd6UVJrWWx0YVBjc2E?oc=5",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Mainfreight warns public over AI deepfake scam videos impersonating founder",
+     "s": "Stuff",
+     "t": "2026-11-20T03:51:05.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSU9FLUh2bzBTUU5kYk9NM2hiTzQxZTJJN1V1VUxMUEVwVUc1WGhZQTR3TGFSaFZzLXh2T3JfdEFmWVZpVWpyNUxHX2FBQ3h6cEFHeTJGTEN1b25wOFRRN2dmNXoyNF8tN3VjbnJoNVVsZHBpVm1VUHhCSVA4Vm0yVWtNd1hVOUZjWkp4dUUwbWY0elBDZW9hT2tzWUhSdGR0NThLLUtpTjJtdDhmTDY5eDVRNUN6aWZH?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Mainfreight Manager Discloses On-Market Share Purchase",
+     "s": "TipRanks",
+     "t": "2026-11-19T04:26:20.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ1dmZk9sOWpkcEhiVWxMRXZYQWRNcVZqaS03NEZRUWUyeVhJU2dZUElmeC1EekFvWkMxSDQ2cFhnbFV0QTV0YW1CdDg2c29HdTlCYVpmdFI2UHlHWW04ek42cmk0MmctOGdZNkp0d1J1Z3dDOFE5RlZnZTlxRFotaVdBUFpTSFlRVkRRVmpDNHVYT0pVSzRlUk83NDk2LUg4ZnR4VmZ3cGVIZw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Mainfreight delivers strong half-year result after new business wins",
+     "s": "Newsroom",
+     "t": "2026-11-15T17:00:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQktLbXNFYlJyVEtzZVJlTXd3SFY3N3ZmUXhUZkRCSXd5dWxMOVVkOVhQR0p3WUJsSVpFVV83OU1UaE5TelplVUtkeGp6SUJWaXZQcmV2N2NiV01DQ0JwcWs1bWdlbmJoQlZ1TjBIZG41UG14LW1LczJ4VVpSNTVEUndtekMxVzRIZC15WE5KWnhoOEpxcWFsNHdvanVQRExQVV9KY0dR?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Analysts Are Updating Their Mainfreight Limited (NZSE:MFT) Estimates After Its Interim Results",
+     "s": "Simply Wall St",
+     "t": "2026-11-14T21:48:08.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZmRQNUlaeFZwY2VsTUNZR1ZHamhudTlPNHJPSnc0WEtGT2tPTThSYTdPcXJRX3owcXFoSElNSHdGYTRnZ0pld3ZWbEFMQVB1SGQ4OWxjVHZoalJWY0lFNXZIdDV4M1hhZjh5dHpKYXRpLTc1dnpMamh6SnNnRXhpOW9HVHY3dG9DdHVReWl4bTU5NDBZcWJXejBlN2VZeE1QUmZQUGpJWW41dDYzcWRtdEZXQkZUVDNVN09ldkN1ejk1aE8tWGxxNnVkbWVlQUs4dGNmcVBB0gHbAUFVX3lxTE1lMmZXajFBVktkRC1pcXI5TDhxNWQ4UVZCQ0U3ZkFScmFPTnY3Zlg3Z2hTSHNDa3Q3clF2VkpJRVRiUGRidjZLQ0k4MW96Q01Bc2NWaTdPeTI2RktKWHRwb1FMem4wb21oZ3cyZHhYUDRHOUpYVWtoU0hWdWJEbm05Q1ZFdS1JVHdBSkNOOERWOGpYdHhXS3NiUXRJdWRuSWVXdWpaeDdvY25BbE1Lc0pZdUd4VXk5NWZZXzlGdXlnaVhyWDI4cDRIOTBYVlkzZjN0TTIzMkJMclVQdw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Mainfreight profit jumps as Australian freight business gains ground",
+     "s": "Big Rigs",
+     "t": "2026-11-13T02:45:35.000Z",
+     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON3pkS1lRU0NSbkI4a2lJNWJJdWcyemhuMjU0REROaVZUNEdCMk1YX2hFVVhBZ0x4d2p2LUdmRkFzMmJXYS1Yb050TkUwVnFsQ3BGRHgyS2NIQ0M2czJCVkNlSld2Vm5QNkpmVVgzMVM1YXRrOE5mTTA3MkdsbXhkTV84eUVrTGVqS0JVeFNGclNFZ2QyVkpKUkF6c05FdURGWjU0dHR3?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "CMG": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Chipotle Is Offering a BOGO Deal the Day Before Thanksgiving: How to Get It",
+     "s": "People.com",
+     "t": "2026-11-20T19:16:32.000Z",
+     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcHBDVHZaOWNaSWdoZFhNcldmRGVTZ09RbFowdk1aSzBYSzZpVFJHTUx0bmdUVFBudWpjMVZXSTdvTUFvYWYzQTB6c040ZUo5VnNsY2dBU2NfdDZEQkhlNmhzUU1kWTV3Wkt2N2RLS2JGQlZ0RU44MUZ4QkVFX1dLamxCcmUteFRQc0JmOXZiLXdGM2NteFdv?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "CHIPOTLE BRINGS BACK \"BACK HOME BOGO\" FOR THE BIGGEST REUNION NIGHT OF THE YEAR",
+     "s": "Chipotle",
+     "t": "2026-11-20T12:55:11.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmtTZy10N0ZQNDRvM0ZyVXdnMEJ2Z0FmaGJSbXhMQVFnMGhxdFc2RWtHR01VM0lHQW1IbkRBVjFtVmhfM1lURVRVVkt1YW55cmJBWVJJYUk3aHd6RlROWmFEbXRTSUNvcWg1TGlwNzIxV0RqNFpmczEwZXJpR3lSMWwwSmpVODdzZS1EVEZTbTJySk9EenVzZ1A1dlhOQ1BJVXhaVzhQQjB1bUFVemFQUFpadEZDbkx2UHc?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Chipotle Mexican Grill, Inc. $CMG Position Cut by Banco Santander S.A.",
+     "s": "MarketBeat",
+     "t": "2026-11-20T08:31:53.000Z",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOVhnaGYteHJlQkZEbFB1ZmtoX3Mxc1B0eGtydzNWS0xwWEVLMFYxTW8zbkpEYUNmbDlhblRuaVVjSzI3a2x3LVhET09hbl94ZjNISjV5czkyaTFaRTluQVI4Sld2ZnY5UmlheDZNNHg4dTlHZ2tkQ0E5VXVXSXdDcUJ6ZVV0YldHM3pXakFnRW5UV0V6VUZYQnk3MkF1VDRqUDNrYkdSZXY2djhjWDVxX2hpZWxsY2J6VjA2UU1RYmwtQVIz?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Chipotle's back home BOGO returns on Thanksgiving Eve 2026",
+     "s": "Daily Voice on MSN",
+     "t": "2026-11-20T05:47:00.000Z",
+     "u": "https://www.msn.com/en-us/news/other/chipotles-back-home-bogo-returns-on-thanksgiving-eve-2026/ar-AA2hRfGP",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Wrapped Chipotle Mexican Grill Tokenized Stock (xStock): Funding, Investors, Team and Key Events",
+     "s": "CryptoRank",
+     "t": "2026-11-20T03:42:09.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNFZjTkRjLVlxbWVpNkJ2aU81UTNRak4tSmVVTVMtSklvYWJZUFl0R2tVQ2gtMHR6YW14N0tBUVp1WDJjOXR6S1JrbmJCVFhFMWVwa2hYRmNRSG9oa0VjajFuSWhVbnEtSHhNRXR2UHF3emhEbkIzSm9WaXJ4YzVmSFFkM3Y2djMy?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "ADP": {
+   "ok": true,
+   "items": [
+    {
+     "h": "ADP Acquires ZenBusiness – Company Announcement",
+     "s": "Financial Times",
+     "t": "2026-11-19T19:29:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUDZtNmdlWU8yQmZDUFl0WXl0YWRaWjZOdTJ0Y2xWVHpyUEhzemRqTUs1Mm5tOWdzUjFia2xyWnh4S0JVQzYwTjZOdjVkMHJiakZaWWF6cFFqcFJILTFpMkZSdERRdEVMVjhPTVlNZ1dXN1pUSlB2T282aGF2TWVZYlRvYl9mSi01ek1yWnplX0c4OHYtZFBFNg?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "Automatic Data Processing Completes ZenBusiness Acquisition, Expanding Small-Business Services",
+     "s": "TradingView",
+     "t": "2026-11-19T21:33:05.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPS2QzeGxFd3pnU0RkZ3dhc2t4bXJranNPZFJ6dkRMLXNIdlZhTWIxMXU1ODY0RDNlOE03V1hWRzFfclFFWjlJMzFuaW42RTBqUnpqNV9NQWpMZEMyUVJ1LTVvYTRHWmYyVEVQOGlDclo1a3VqaDBLdEZtVzZZN1I1eDhKNXpGMDVBVkdXNVJYYXhiN0oxR0N3TG9IRDJZYnRuVVlFWXNxSV9UNzdCSV9YWHdPTHh0Z1RfZFBFanZPM1Q5X19LTWw1ZFI0c051ai1uTEhOejV4WS02LXN6WHI3OURIaUhLV2JqQXVJ?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "Automatic Data Processing, Inc. Stock 12‑Month Price Target Raised to $304.36",
+     "s": "TradingView",
+     "t": "2026-11-19T16:20:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZHF3U2p3Q3RDQzRWTDRzWlFfaTdWR0Jwc0diVDBvMVVmRF9QOHYzM0VrUHVMWC1PSDZKMGpxSUVNaURuRkp5Q1IxZFRDdmZxbEUtaFFGbDJhN3B0Ti1EUWV0Ul9Ib0lIT1phOGRDbmd2RnpYa0JUbGhLMVA4Y0NTWjJIRWJOcGU4bEdGT3pkZnZKY05iM3Z6SHoxQ2RrWl8xeWdBejNpc09QYXJtMFNLa2FtSlEtZFdUUzMwYTBYMElnWjI1dVRRNDZGUXA5U1EtVmc?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "ADP Stock Jumps 29% in a Year: Here's What Investors Should Know",
+     "s": "Yahoo",
+     "t": "2026-11-17T15:26:00.000Z",
+     "u": "https://finnhub.io/api/news?id=e9a93e8ceca27b6c15a0d1111994b1bc98ae1c54822a6f60487a6ab1b3abf71f",
+     "r": true,
+     "why": "Kursbewegung"
+    },
+    {
+     "h": "ADP-Aktie: Bank of America startet Buy mit 345 Dollar Ziel",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-20T16:37:01.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTDZmbmkxM3p4OXJIbktveUVudDJfZ1FxTHhROWRMLUhDemtid1l6V1UtT3NnTHhpdWdQcHl4WWgyUktYdDREUUVsSWZycnc1Z0d0MmtNNG42bnZuVHdLTFVZV1o0amxFcDV3UUhIcWJON2hrRDFkNjlCbDdCWU1rQVRLc1R2N3RaRldtaGVKazRCUUVZNWpEdXh3d3lHUTFEYU1VYTk1X3dpM3lqYS1ieEszd2FXeTljWWg5aw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Automatic Data Processing Inc. stock outperforms competitors despite losses on the day",
+     "s": "MarketWatch",
+     "t": "2026-11-19T21:37:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQzNBZlY3ZTBTUzJKTG1pdS1pYmFvRzJPcl84b3Q4OXQ3cDVoc281Rzdac0I3b01Xd2I4WWtQZm9Ybnl3Vy1DM1F1dmVCMkNlM3Z4Z0daYlhZSGVIS05fOXF1Q0Zuc0FXYWIyVU5udlFqVUlhT1hfQzk4dHAtcGIxQmlJYW9qMmstcHotY2xzY3hDa1FtN2pjbEdwOUhpcVpycVRkak9FV2lURkZ6XzdZaEdYZ2Q0bmtsakNiODJjY0JkNTcxVEVha1Z3RlI3ZnJXZnlHVjgySVVONnJ4eGhIcmFzSXBYVUp6M3FEdUlSak1nZFZpNWc?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Final Trade: DEO, ADP, AAPL, INSM",
+     "s": "CNBC",
+     "t": "2026-11-19T18:05:01.000Z",
+     "u": "https://finnhub.io/api/news?id=f6e2b24b1fdfb8b1b868a9e2a1053a571e7b1ea8963221bf1efb9674dae47501",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "B of A Securities reinstates coverage of Automatic Data Processing at Buy, sets price target at $345",
+     "s": "TradingView",
+     "t": "2026-11-19T16:49:33.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRV81UmRMVVZrS0k5UXpacC1sb2xvMlFlaUU4ZUgzYzhUUFVEVGtwejU4MGNtaC0zV2lXMG14dWVrZlh2SVY3OGkzOTBOYUtHdVc4R0FBTmsxWHBLNDF4dUQ2QnBPUU9IQ0V5WjVaV1p3WHlJbFU1aHVLMkY2cnV0V01MMTN5LTVoQWZoQzJVd0FrcVVqOVptNUhTNGczOEs4RGd2aEZjZC1EV1ZvNEU1Um1CQ0RTNlZrMk1FSkdDOWd1cXBTdHhKZEYyMmkyNHpZa2g5eHd5U1VfMVY5WG91aWxJVUZxMmFQc0hRUXNzdG9TUQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Automatic Data Processing Offers 'Attractive Entry Point' After Valuation Pullback, BofA Says",
+     "s": "Yahoo",
+     "t": "2026-11-19T15:47:45.000Z",
+     "u": "https://finnhub.io/api/news?id=d96ab0ceb923eb22a966faeb47ce6fc6860821620fdba436686aff80891b2db0",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "SHW": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Sherwin-Williams-Aktie: Redburn senkt Kursziel auf 410 US-Dollar",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-17T12:50:16.000Z",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd05uMGc1QjNmTW1xYnZ4N2lzVEpQWnJ1cDlxRVhwZFBva09YaUNqdnlYMEhPOTc4ejdsLTRTRDVqVEU3VGNEdUdmQ3NKTTFtZXRYRXJ2dHBVemYtYjJjdmJVVGozUGljSzVhM2FaZFp1UUgya3pSeXFpQjE0cXVvX3F4OXFXYS1yWTRMaFdMNS05b0VnN2VRcHV5QjVpRlpwelNHakxkc0NEdzVkOE1hbUo5TVRyV1hvaE5qZWY0c3hDNXVF?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "Sherwin-Williams Co. stock outperforms competitors despite losses on the day",
+     "s": "MarketWatch",
+     "t": "2026-11-17T21:42:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWXR6eFJoREp1MklVOFl3bHhZczJpZmxDUktPRGZ2UzZUenMyLW1PanpTUmctdU96UXNvZElDWVlTc1BtQVZGQ0tnUWpEODROS3J6RU0tZ3E0Tm5pY0JQWEZ3QUdQcDNqb21ZQ3VNa0lUNnhXUlg4Q0hRSENtYzNBV2JXZi1OMUNMbE4tVjhTZVpMVktoTElQZks4VWR6ZjVEMGVhc2drVHVGcjRvQVNFTDBSU1pXeVVZMU9qZTFPQ2ZPY3dNd0traEhUZldSVXRuUmc4eVJDaUF6eHIta01fNEY2NWtHMDJm?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Sherwin-Williams stock: Shares trade 1.21% above Monday quote",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-17T15:24:52.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMXZ6WFNVcWlkTnF0SG5SZ0RZcVpVbk44M2hfOHJ6eERBcXI2MHp0aTZkeUd5YTZObllyMjZzMVNMTm5MSWRPMFJEQkJPN2dTNGhRY2RhWTZEUV9ueENwa0diRko2UHA3OFdJYUl6YVpGMDBURDFnM2FiY2FBMVg1VmJHTXFyTGJ1NnJxM0UxNnc0a3VSQklkWDZPN2hWOV9jNllKUFFIVi1Pcm1hTHBpUlV6Z3A2TTN2aFVST2cxYw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Dow Jones 30 Industrial-Wert Sherwin-Williams-Aktie: So viel hätten Anleger mit einem Investment in Sherwin-Williams von vor 3 Jahren verdient",
+     "s": "finanzen.ch",
+     "t": "2026-11-17T15:02:19.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNS1VpaFBOTmFqQnJkNGVHQ3ZNZEFoT3dNdlpOV0V3b2ZsREt0Rlg2aV9wUnJuMnkwOElvSmlKUFZvdHNYaUdQRXNxSm1nRTRYbkZiRHVaU251TDBMVnZpWkFDcmM0dXFIZ1ZVdU16QWEyUXJ5X2pGMXFjczJZdzc1bllPbThURkFWTXNzeDdEZlU4X3cwaGVuWXBGWXNlREZzV09ER25WRGMzN3JMRk9vVHJwb0JJQmhRbEQwaWs0U2JLcTZldlU4N0RqaFVsRmJEeG1fR0ZOMjlIcXByT3FpUjYxZVQ5N3RheUo5anBybWtaaHNNRHFfMEc2b0JlUWdGNENtSWN1ZUF1MFR3MGJzZWdTSkV1eFp3RENobWVQc2FLdw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Sherwin Williams (SHW) Stock Looks Rich Given Its Earnings Base",
+     "s": "Simply Wall St",
+     "t": "2026-11-15T07:29:21.000Z",
+     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOFBCZW9BSjI2Q3FtYmdfTmdCSkQyTXFYd2hFLTFTTjRlV3Vnc3JZSkw0S29XZDhjSDI2bzBSaDF1VS1RSjE0T2VXSThLQ3dwWThpTFY5NTN0LTFiR1hGVlR4SU43RE9RZ0JESEFIcTlXZ3EzWDB6ZGZkb2dhUG5oRjMxS1hPZ1V3OGFiaTFGQ3JreUNlVHo0UGRKTG5CNmVqY0tLczd4aVJRRDdDNWJxSzJldG9JS2VtelZmR1Mzc3VsZVpyb01yUkk0WTZnZ9IB0wFBVV95cUxOQjdfTmx5d0U1eUxYc3UzLXJlbkt2Njd3RjBWSzFTYTFVY2QzeVZHUFRtS3NhN3MwVi1lSFFabXNMOWZVb19NbURGLTBOTTdjd3VqSEotcXJFVmpHRTROcG9UZjNDRi1IcmxHUlNIMGExVGpMaTdObUVzTmNuazg3TUFYZWMzbkN5MFR0YUZwdnE1WFhmemhwc0VGRzVUY1ZzLU9SXzkyYkJBeEdjWUI5THdoTkU1UVJ3YXZtdWVUVXJtMWYtRzYycFVzaXdPY05MQ1dr?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Sherwin-Williams Aktienanalyse: Umsatz plus 8 Prozent, Marge unter Druck – warum die Aktie trotzdem wieder Farbe bekommt",
+     "s": "AktienCheck.de",
+     "t": "2026-11-14T15:37:03.000Z",
+     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaW8xY3JDUkUtZnozVERxT3hGV2pCWHRwelJTdURoWUpuTkI2SENnUEZNZldNVmNoZy1nQnJxZHlmMFhLYVFxSmlqSjhaTFF0OEVfc1k2UVZhX2xfOE1TdzZUekJPeE1aQW5mN1cwbWNBdzc4ZE8zT3FJQ1REeTRPZHpjZk1tQUprWG5qUllEb1pwNEVlQV93cXVIUzlBN3JPcG42c25wZjZDYTJvNDgxMw?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "INVE-B": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Investor-Direktor kauft Aktien für 613.000 Kronen",
+     "s": "MarketScreener Schweiz",
+     "t": "2026-11-20T15:59:15.000Z",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzItNGZOMmVqaERtenpWaEtXUUVIM3ZUMzNCazF3RDU2MERUMURwekdsYmdnSEVnQkdMVHJiRHRwWk9BLWxab3pVWkJhM3piTTdFY001aG91SXBzM1o0c0VrUVhocmFmbGlwSThpS0EwVExKR2ZDUWVOT0hvX21lUE13bGRhMW56YnFyY2IzS2NsMGd4a3dEZ0RnbVhxM29BTWZlcDh3cmk5NVFxYkZ3RTVpQnpSQ3M?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "Investor director buys shares for SEK 613,000",
+     "s": "www.marketscreener.com",
+     "t": "2026-11-20T15:59:15.000Z",
+     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdlFFQm9QVGdiSDkyNW9tMk5TdVQzaTJxa2dvVWdRbHZBVUpVdXpoUWtaOFNnNVpKMzE1dC0tbjNLeW5mLXJ4UTBrYmtkUTRtZ0UycDIwbUNkQ3VNVUFwSVNwNlJKNjgxbFpHQlc0Z3RaZ1o4dUV3dVV5S1NZQnIycmd3VGYzcXJFUmk0WE9nay1HRnpvQ3pCcXhKTmYyTzA?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Investor communications chief Jacob Lund buys shares for SEK0.45m",
+     "s": "marketscreener.com",
+     "t": "2026-11-20T13:25:16.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbjg4MnNDSVRuNTFfeDZ5cWxqY1A2VHlRRVR0N0gyT1BaSk1XZHRaTC1pNWhUOUZPTVc3SUEtZ0ltZk5yYVR5UXllOUktdkRxem5YdmZDZnZUdlh5dVB6NW1NLTg3VGVFMjJPNElxWXBtT2xVY2FyVDF2ZEphcHhaMnVyWVVZUUdOZlQzN1drOVNyQTczRV9QTE5sdVlkSEZzMVhjMmQ4TTJ6SEhPZnpnSWlzcTc4YndrdXc?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Investor AB-Aktie: Lang-&-Schwarz-Kurs seit 14. November im Fokus",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-19T15:13:20.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOW9qUzdGSkdKSzd6dFVQam9tV3hOa05VRVZHd3NHUU40R24yb2tiY2JGRjFEQ0RUREZQS0dhMTEzNEgzenBaeE5vLW1VS19Vejh4Z2FYMmxtbDMyTWRYRnhUMjdkTU91SllKZWxzR2puaFNDOUllWk1TQks3X2hEZHRLRVRUNS1ZdFRmbHNrdzJlUVdjV0VleXQzRkdUYlE1dVpWdnRaVXVvVlc4MU9UTG9uRkEzVE9Od1c1TGYtZlFCZw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Billionaire investor Bill Ackman bashes Nvidia’s board for not bringing back Jensen Huang",
+     "s": "Yahoo Finance UK",
+     "t": "2026-11-18T20:20:19.000Z",
+     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUkdGN01QaHFDU0wzMlZqSVlMaTN6QmIwcC1YWnYxcThsMnktc1RtVXFNbG91cnBQU09vLUlUdHZDN0MtMWdEZ0tNZzYzcTU1VEVVX05sNFhOWkw0dkVIbnBJdWdFNTJsV1F6dmlvRU1ZV2lRaUdqYUFNdURKSW4zY25lVUlaVHUwaG84eWV6bGhnUQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Investor AB (IVSD.MU) | Stock Price & Latest News",
+     "s": "Reuters",
+     "t": "2026-11-17T20:27:55.000Z",
+     "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FempBZzFPcGp1Z3FFZGVLOW5BYXBFaHdySGRaQmFTNmUzeGtnSENkODVKbDdjSjVHUG02R0J1d01URVBGOFZPMmh3WlU1WG80STJzS1ViempoS2dKRDJDXzA2OU5ZZHBUUWdKYUd0VQ?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "AJG": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Arthur J. Gallagher acquires Bay and Basin Insurance Services in California",
+     "s": "Beinsure",
+     "t": "2026-11-19T18:07:55.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRXR5dXNNeEs0RnJMaVZVWi1JeEZGQkU1eFVFRkh5LXE2SXU3M3ZSY1NPZlpJUjdFVFg4YzcxOE9OaWJVekFGalRTWnhNWGthbTZsY2Fzb0VPWm13b21USnh2WjAyWkZfNmVOSEpoSTBXUWtHVlBHSTY2T0l0cmNPOG9FT3hsXzNFZm5tZTRrRHQwNFFFd0JQTjc5U3A3SVVKbVJr?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "Arthur J. Gallagher-Aktie: Übernahme von AgriServ in Iowa",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-19T17:42:21.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHp4X245YnMzSmlzdXJ6ejZlV1dlUGdxcmtYV1pMQzY2amdxbjNpNng2cVFiZmlXaFVrZUZQT0c5aGFxeEVrRFlMREJxeFgtUFJ1VkdwQU5QaGNXSGZhc25wLWRhNjhENl9CeWlBVVc5X3p5LTdjQng2MnI5Rm5IZUlYWjFxZVp4aHo0WG1zck5udmVLSlFOZS1KZkVaTlZTS3JFS0hmdGlXMnRjZ1Zpa3FMWS1pR0c3dnZN?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "Wells Fargo Downgrades Arthur J. Gallagher to Equal-Weight, Lowers Price Target to $294",
+     "s": "Benzinga",
+     "t": "2026-11-19T09:33:08.000Z",
+     "u": "https://finnhub.io/api/news?id=78bf11df2c721d6aab2c8aecbf3ff0b4740fe7cceb7747ede73c421d05d097f3",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "Arthur J. Gallagher & Co. (NYSE:AJG) Stock Price Target Raised at Argus",
+     "s": "MarketBeat",
+     "t": "2026-11-17T16:31:29.000Z",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVUROczVsQm5qei1iN25kT3Vvck9DWm9sRGUwZVlQWEVEUnhqZDZQZVJrQmFVUmpJUjhva21CZFcteEhtZ0R4bkkxS0lWQkdQYXE4THBfeGJBZ2xvelVscGp5aVlDb2JrajAyTGVIeXFCSVQ1YzQwS2FIdEljQXJpYUh4cmU0VW5wM2Z5YUQ2cU9fMnR6T05OdVBPQmlxOFZ6c1g5Z1dOQzBfbVR3R1dnN25qOXpFT2JpS3dPc1dMWUFnVjQ4LVE?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "Arthur J. Gallagher & Co. Names Tom Doyle CEO of Benefits & HR Consulting Division",
+     "s": "Risk & Insurance",
+     "t": "2026-11-14T22:27:33.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX3A4QlpYdW4zakRILVhrckZEQUxIclU1SGJVMjBUTzRRUmNwR2ZFSWd0RWMwbGJUUmRzM0IyekpfUnBCZFNleFlDU3F6QlJtRmFzTm15bk5kajhUQmh2WVB5UkVRdUVKOTgwNlplVllEWHJ4X3hkWFB3QUVpVHl2RGZTeVFzeUhxQWRmaHhJLUxXSjJQQm5EZGd5M1A1dU1aVVRnSkUtYWJZdw?oc=5",
+     "r": true,
+     "why": "Management"
+    },
+    {
+     "h": "Arthur J. Gallagher & Co. führt die Plattform für finanzielle Gesundheit von Gallagher Guide ein",
+     "s": "MarketScreener Schweiz",
+     "t": "2026-11-19T18:05:37.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZXRyRFRCbjRWMDNwaTE5QmlBaXhpU0NvYk1iZGY1VXhzSTlrR0dPYjFuX1dHWHRwSEMxQWRxNkpiQzJHcGtaSWtCYlFZd0k3a2pBQll6VkpWVzFocmlqdzBwcjlJZ3JJa1JIZDVMeUFXWU5zOGNxaVFBbHYtblFWR0VrclI5aTRjdVBvLVZnS3pvckU5aHJncUUxb0lBdU5PQ3N1VHZpSTVPRVpXWDdleHBiZkhtVWNDOS1OeEhYSlF5TGg0d1dIWHZ1RzQyaXhNTFNGUFFGMXlHTlJUd3BjQTRLTmppRlc3Z0F6akFpRlFfdw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Arthur J Gallagher Aktie: Agrar-Zukauf in Iowa",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-19T17:23:02.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTU9uUkFhUW5SbXFLNXBBOGFrZFg2elVEak9hblFpbnN4N1RsT1NIR0VPdEtuYlYxN3BzZDlMNlV4T2o0RUY2Tkh5VVhnd1ZZd1VBdHIzcFdkWW9SNG9oeU5sNWt1VlBwZE04VW8yV1B0anVtb294SG5UbERjVGF1UmNXZFlGU1FIX1BYQUg3S3F4dGxMXzhpYnN6TkVQazVjQjZOcmlEVHdjUFFUY0lWVjFELUIzY3g4?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Wrapped Arthur J. Gallagher Tokenized Stock (xStock): Funding, Investors, Team and Key Events",
+     "s": "CryptoRank",
+     "t": "2026-11-19T16:47:36.000Z",
+     "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZDR6VHNsT0ZFb3R5UWxBRTVEY1V3NnlfVUxFbXBYU1BQazZOTExpSmpnN2ZvaUNTYTZtdTdOYy1Ub2o4QUl6TS1KMG8xSHpTVGlNMUNDamp5ZTRxeXZTdjdRZnlBWW1TbWxHZGlTRTMxYmFLZXg1eDFMdGNVbC0xSGI5QQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Arthur J. Gallagher Buys AgriServ",
+     "s": "MarketScreener",
+     "t": "2026-11-19T09:45:00.000Z",
+     "u": "https://www.marketscreener.com/news/arthur-j-gallagher-buys-agriserv-ce785ed2da8cfe2d",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Arthur J. Gallagher: CFO Douglas Howell veräußert Aktien im Wert von 1,44 Millionen US-Dollar",
+     "s": "Investing.com Deutsch",
+     "t": "2026-11-19T04:48:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdDJCSjRXV2pFMWI2SmVNUnlRc01obDlKN3RRMVl4NGQySmdTN1FkcnJyenA2S3FNQ056Q01xTXN3eTlUMTBiWUlYbVNERE81c1ZhOGNoR0tBUzNrNFd4TE02SDFYakZtOW9SUmc4WmVLaV9aRE81OFZ2NmRmcllqQW1NVG51RUZJTGVPM253cmwzVVVVWjFLQWJPNGRTUHAtTmx1ZExKLVdRYzhvckpyUFFDMTdfVmJMbjdfcEtqQnFXSGo0dTZuc1ZaYzVBTXQ4RWtYd3BHZ2xzQWsyNjhkQzFCRHI0Qmp1?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "VETO": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Vetoquinol SA (8JM.MU) Seasonal returns chart - Yahoo Finance",
+     "s": "Yahoo Finance Singapore",
+     "t": "2026-11-20T07:56:16.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jaDJBdFBueGlsRXptWmhJMGZrTmt5VFpkc09xdFR6aURnNmhTLVNHMHpDVnhVLWJnRDhFUnJ4THlXUzF4MHJsLWE5WnJHMm81RVlRdnlLR2ozSk1zUTF3NUloNVM?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "No reaction from Vetoquinol despite good news in the United States",
+     "s": "www.marketscreener.com",
+     "t": "2026-11-17T08:49:21.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbHc5SFh3ZEZtQktTdHFQOW1ZYjhpNi04ZjR5dUVYZkFWaDRVZmxZZEFGYXh2S3FGWC00U0JraXBGMEFDQXNBTkhSdzZFMkR6Q0xCaUlKRl8zZWRRRl9lUGs5TmRZT1hEZk9BY3dqN0QxUUFzQmZqUE9CUHVLX1hDeUNLLTQ1STJhek5ENXRsSWdEQnRKQXhoMXVsQWJ0SGZ1WHJIRXRPdzVQZmUzZGhsMlFOaU82eHdZby1N?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Keine Reaktion bei Vetoquinol trotz guter Nachricht aus den USA",
+     "s": "MarketScreener Deutschland",
+     "t": "2026-11-17T08:49:21.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPelY4NXFzZGZfb2VSY1ZDZms2WmYtWDlIc3poWVQ1OFhqb09VS2ZnUEVBd3kxUHIzVllKTk1IWUo0OGJ4OWQ4Mk1UWFM3THVRSGpEOWVLYWFpdHlPUUdKTnRsUnljVHlGa1dIbk8xN0ZJVHg0Q3V1R0hycUJ0NEhkZnY0b2E0bzZEYmNPOUNoOU14RFd4UC1PRERHMmJqdEwwLTk5bU1xRndOMmt5OUhQb0RpVTFFMTVyVEgxbEFGQ3NRSmJGOTdsaQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Vetoquinol receives FDA approval for its antiparasitic Felpreva in the United States",
+     "s": "Idéal Investisseur",
+     "t": "2026-11-17T07:54:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSVFtN29HMEF4LTBjbFBiTkF6cXZxUmEtU0FyUzF0NFRvdmZ6N1RGckJKQTlRa0pDVU1FNWJmY3lxc1NRY1FNU1RVUVR5cW1mU0s1aWxwZjFKbTV1eDBqc3laTzhRZ2FQME9xSC1ZXzJKVDlOMEtyejBhczVZTGo0RFdTaDNwdVFHLTNITlU5UFdBVGN2VWFrNEN2cHltVTAwNmNOY1p2VlRtb2xnUllscHcyc2w0aXFZMU1QaEtYRGJIZGVERVRBcFptTkdic25Nams0UWsweF9HQlk?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Grünes Licht für den Verkauf von Felpreva (Vetoquinol) in den USA",
+     "s": "MarketScreener Schweiz",
+     "t": "2026-11-17T07:00:36.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUVplZ1FCeW50TU5PYXMwaWx6UVpuM0dsMmEtOWRUSnhqYzZvUE9MaGJCalQ3OW1lQXFOS1R2MGJITFU0bEZMNklaMV9pMWRqNE40WUNGV2pLblZHMzlGN2RjeDd5ekV5M1RCakNSNmMtRFJPcXVSc3dUYkJrMF9BcFFhVEx0X0Vndk1YMDVGNlUzVmZBZ3ByQlpFOUFIek9EczJzYUYxX21CclhFajdRVVl2cmlWZmhFVXg3RTlKTXNmTUFaUUZBNlJVbw?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "RMS": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Hermès-Aktie: Goldman Sachs senkt Kursziel auf 1.325 Euro",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-16T10:40:34.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVWE3ZjVvS09VemlXbzlCSVY3TmI4cVBFcDBrb05uX3VDUUt4REZ1R3UxYjZYdnJ5QlQtRG00OUcyMW03SzcwdEdSeXdRcndFajc1Wll6R2EwcVNFM09KTTZXdlJGNTJDYmRGYlhNYzNaSG5xbVVsaG1jZEM4Nno5UHBzTTlyb3hLV19uQXQ1WGxjaTRKaVozTGtDaGtXaWtMOXJ0eVFIRDlTUmluc3lRdGZsM3pHZlFxMkIw?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "From a small workshop in Paris to a billion-dollar empire: The story of Thierry Hermès, the man who turned craftsmanship into a symbol of luxury",
+     "s": "Gazeta Express",
+     "t": "2026-11-20T19:23:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQMTEtMjBJSDE2YUpMb0czZUo2a1lhU2tWZmFxeVpvenZxaXpLWnZqMzdyUlRES3lzWG40RDhSalRDa2JRV3ZDZE5ndEVHd1BoMWowaDJId3BNWk9fdGh0V2xsUjV4Z3BnSUFwMFl1RndxZ3dwejdmejlKODFiUFMzNF9CWXlMckxRMEgxNGwxSXJ4aXBGSHdreUxaaFZVMlJEMG9VZTNOcnhhSDFvMS03N2tqZy1tU2h5MTZoTVZUUVh3dFU3SVhvVjJHNmllRHZqbDI2QlhobFVBQUg2OVNWdkZsa0tGM0VBSmxvdllWRkVmRzhpaDB1anR0N2dyZF9LMjdONTRyQkJIdUREU0E?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Hermès-Aktie: Kurs gibt 3,30 Prozent zum Xetra-Schluss nach",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-20T14:54:34.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLTM5VVFJX1F5SzVCbU9IRmQ5aEhNYUZENmZqdW1XUjJhTWl3YW1kY281djc5d0FheU91dnhJb3dRT3cwU19LNVdQQ19EVWtoeVA2T1hkQUh5VW5ZdERRR2RzVnVMSGFFeV91S3UxdVBYbWktc0thVzBaLVYxclNJbnBaNjNlVklBb2M0UnIwTmxqdVU2XzF0M1B1RC1uTER0OWRPRnVmTmVIZHRsY2hkRFV4bGFBSzlXU3VSYmRB?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Hermès shares fall to 1,238.50 €, among the worst performers of the CAC 40",
+     "s": "Idéal Investisseur",
+     "t": "2026-11-20T11:15:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMVg0azkxVnBjNUJhUUtvQ25OU2Jpb3BxcUVIdUFnVG03NGNTMy1CSWZRT1J4Wmp1UzFaZmpYd0RFV0JrVy1PdDBhaUZ4TkhDc1ZMOG1IR2pZc3V5ZHhUTTNoNXdpdlBkREdZZFZCTXBIUHpuQklpSWxNMFd0R0pySzFuMkkzWFJMckNTRXpUd3hxMEx0aFlrWkJMNXNTazR0OUlhRE9yOVY5VjdpUHQyekwyV0RoLTZ0OVhVRVFuVHJfaTdvd0Q2S0VIcG0xQkU?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Hermès stock slips to EUR 1,252.75, down 1.67% premarket",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-20T06:56:47.000Z",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeVBETENyT1VpdU1HbGpWc0hxeTVFd0R0Nmg5OWdOeDJoaVFycDRZOUpCZFNtM0w0d1Q4aHlfUHZuM3NvQXM1TWhGajNSSFdTTFo3YlVfOW5rU1M5RVdlR3Zpcl9KRy1GdGFRZXdwc3BzaE9zdDc2emtsNmtUa3UzWkZWUW9KWXV1QnI0dDhhaG9DWm11bUdQZTZtNlZvQWtOUk11MzlmNFBKbDRiemZEaW9n?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "An Hermès Watch Mirrors a Colorful Jean Metzinger Masterpiece",
+     "s": "Galerie Magazine",
+     "t": "2026-11-20T05:02:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xbWlHSHgzekJ0al9FVXF6bVRPUFNMX0lpMVhtMTlCMjU3cWEyVTMxUklDX0dNSzI3VDJZRnJZSUpNNjhhRERrQUJyajF2c2lnRXVSc003Q3JmRGxJOGhmMy02ZjdHMGxYU0FQY1hFVGJaMTBwdWRJ?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "PFE": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Global Medical Countermeasures Market 2026: Size, Trends, and Forecast to 2030 | Capitalize on AI, Stockpiling, and Rapid Diagnostics with Pfizer, Moderna, Sanofi, and Emergent",
+     "s": "Yahoo",
+     "t": "2026-11-18T14:36:00.000Z",
+     "u": "https://finnhub.io/api/news?id=e65c160ed812547e567779fdec96abfceeacc9729c4109d859fb628a7e869d6b",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Pfizer-Aktie: Übernahme von Metsera abgeschlossen",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-17T17:08:46.000Z",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSERENDVhalVnRjNhVV9vUHM5YXVfWDl2Y3JDOVJwMTF4Ti1ZT3ZuYU1VcHE2dGtfdmx6aFVJNURGd3VLOTZjV1Y1YThvalJpY0tuS000b2lZNFBGb3BLOFh5Y1ZydGhscnRJN3h0ZkVkMDVINlhQNmwzcGZwNjNGb3MyRGJQMzNnd3pzUDVweHk3a1Y2VmRJYnI4OGhFdXJkdG55UFoxVUljMTYtN2IxbEp3?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "Pfizer (PFE) Re Enters Obesity Drugs With Metsera Acquisition",
+     "s": "Yahoo Finance",
+     "t": "2026-11-17T01:35:18.000Z",
+     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMzI4bkIxXzQ0MUpOa21IN0dSSUJoSGZuT2tKbnRScGQ3ZXpGaVo3NjNTN3hqaG9XWUhpXzh3Y2J6NEJqczZnVUJfQmllSThJRGpRVWJHN09wdzY2UnZXWHc2QjZOZGJ0MVdxZjRKZVFHdDJseV9JRGNNVjI5elJGcU5OZnAxcDlFQy1mQXZaZEMyMVE3WEk4?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "EUROCONTROL blockiert erneut die ROMATSA zustehenden Beträge / Die Pfändung wurde auf Antrag von Pfizer im Rechtsstreit über die COVID-Impfstoffe angeordnet",
+     "s": "Informat.ro",
+     "t": "2026-11-20T19:21:06.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWltZ0VQa1d4Yk56LU1zek1fSzdmemZ0ZjllTTlMUmFIZFFlRm9qUDVqTHNSclVSYlEtR01LRnNPZGtYb1VDaU1tY3Uwb3ktdHdmUVZlMUZ4VmtWbEUxLTgxZHc5elNieGVXT0dZLUVGSmFFWGhhSHpnYlBONUtGTnpRZHRRWkdFY1pPTTAzWXozSHVMWE1FZlFkSDI5V2RZcE55aXhVT1I4blU?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Pfizer-Aktie: Lizenzdeal mit Starna erweitert CAR-T-Pipeline",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-20T17:49:19.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRDFDaFprQXlaaUZ5NDZlNl9lT0szcXpfLVZ0RTRhTk1xaWxEenNvYUZCMDJ6S3JxNWJOVVBnWU5GUmMwYjBHb20xLXNtNzhLZnhhdkZ5eU9aaUF0dUlRZE9zOTFsc2xyWEJRekNJbEdrcjZhVkt3R1pyRjdyalRyc1pqNEJHUEY4ZE90ejJqcWZjOFJfSV9KNlhId085akVYaGROSF90Tk40U0tMS2hCemstYkkyZ3ROaVIxVnJrRQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Pfizer near-term support and resistance levels",
+     "s": "Yahoo",
+     "t": "2026-11-20T16:21:29.000Z",
+     "u": "https://finnhub.io/api/news?id=4042d685050077897299374b7eaa5c265b6bb17b97f6f2e26913ac88a3c95ccf",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Pfizer (PFE) Secures Exclusive Rights To In Vivo CAR T Autoimmune Programs",
+     "s": "Yahoo",
+     "t": "2026-11-20T16:10:56.000Z",
+     "u": "https://finnhub.io/api/news?id=bbac2fee4149823f2b2e832c94ef68e6ea5d57036c564b87f72683150fd16e88",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Fierce Pharma Asia—Ivonescimab’s FDA snub; Pfizer’s in vivo CAR-T deal; China fires scientists in fatal gene trial",
+     "s": "Fierce Pharma",
+     "t": "2026-11-20T15:00:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ3YwWVl0YmtXNElRdWc0cjBjU1BEWHVfMldNeWpqOFhqcEZQUFU1b29JX0ZXeFFUTDJlcGlSODh0WXFVU2Y2bW8yaHF3ZzJYUVZNT1RIZmhIRVJQUkcwdWtqUTZWMUZFZjRMS3FuSndzQndXQ25qVWN3a3JESWJLR29HYkFnR1QxY0NMN09UVFRXRTRsSWR3bzJna1VMUzdnRmJINnJibnBTb1VhV0xUT05iNl8yaXRGUmQ4Nnp3SmdiQQ?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "FAST": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Baird Downgrades Fastenal to Neutral, Lowers Price Target to $56",
+     "s": "Benzinga",
+     "t": "2026-11-20T08:48:25.000Z",
+     "u": "https://finnhub.io/api/news?id=dfe1b4f94eadbc2b94cac3b1e12cda7c39ba1f53d863e85e9abc0676fecef3be",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "Baird downgrades Fastenal stock rating on valuation concerns",
+     "s": "Investing.com",
+     "t": "2026-11-20T07:58:47.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMGVXRTRUZ05OWWJQM19vN01uNkllSnJLTGZyOG1wV3l3UVJzazVCcWJoQjdFQ2R5WWMwMGY1ai1nN0hMUGZnTHpKQTFCdDR1b0VqQUUwODQ1ejkyNFB4X3VHU0h2QWJmaFpfS0hST0hxOTY3YldiQUc4T2lXdmY4cXpaMmE2dE4zYlc3aDVCc1VJT0RTdFdvVjc5YXpsRlFVcjZXcF9ESm1KYlhnQjZMNzZaWkFBVWMwbmlIZQ?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "Fastenal Raised Its Dividend Twice in 2026. Why Wall Street Still Isn’t Sold on This Dividend Aristocrat.",
+     "s": "Yahoo",
+     "t": "2026-11-18T15:35:27.000Z",
+     "u": "https://finnhub.io/api/news?id=70c944950a5bb6d1c9e4880385454b088dddde49bfca15b3328ba2a7eb37684a",
+     "r": true,
+     "why": "Dividende/Rückkauf"
+    },
+    {
+     "h": "How Investors May Respond To Fastenal (FAST) Earnings Beat",
+     "s": "Simply Wall St",
+     "t": "2026-11-14T04:38:55.000Z",
+     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMnZGTnBzaUNTWHFpYks1dU1BZmVNZjNIanRjbFBqRWgzNzVSXzVKcjVkYkMzN0x2NXpSWEVRTFMwd1JuX0VLWDVWbUxrN193SkJyYmlDRk5nTkg5WDhqUUZnVXROTTRJUFpyOU0tTkJXOEVVc0ZxYVZ3R0pHVk1RcUUwQzdoOThYYWVTNEl6aENlcHVoTUg1RU5pWDZtOXEweTB2X1pmcHM5Ty01NjFOc1JsUmx2dERuVWQ2SEdEYW0ybjlTVVF30gHMAUFVX3lxTE5LLTFsNk9USlBsWlNsZVBUNDV0QzRySk9YbDRnVjVoQ2RyTWVKRHNjS0ctdXM4d3JUZjF0SFdqOGgzYXdJSFgyc1pLRjltekpyblJVQkE0LVlZYktMZTlzc21Lc0hvdWhfX3VOMVZzNjNYOUtIY2NrTlNxLUtLWTlxcjRYekY2NWtuUUY3bTVMSDQzNVNjWmt5SEMtbjZTS3VWT1VxVURhYkFkLWlibnExS3FrcTRYYTNkQ01UendwU1RMNzVMTnRlX3lsbg?oc=5",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Grainger and Fastenal Ran Too Far, Too Fast. It’s Time to Take Profits.",
+     "s": "Barron's",
+     "t": "2026-11-20T15:17:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTlN5Sk8xdU9kNUloOS01cDViOElEbkdQcVNJNDNuMUY5ZXJObTFNdEhWT0hIQW5wanpmNDc3cUptX2VvY2pDOUdZeDU4QUstR2luOFZHNGhndk9JLTJrbFBYOFh2MVpTMWJKaWROQXdvd3BpTDVWSHpmNlR5MW5uOThSeno1T3RoM1VqR2EtdU5fM2N5dEFUdGZvV1A?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Fastenal Company : Baird gibt neutrale Bewertung ab",
+     "s": "MarketScreener Deutschland",
+     "t": "2026-11-20T11:00:41.000Z",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRi1lQ1BheUp2ZFpJY2FkbVR5S19od2NvbmlPVzQtM3NpenJyVVRVNUNINUtXQ1lXOWNGSFdEck1SYno2WlZKdW1NRzhUUzY1eDVvYmthVFhaWHo0QVlZd1RwcXR5S2N6UUxLUVlELWVaTTNFU2NsMlZBUk5IX0ZPZGdRQW0yM3hFN1hEaXZNUF96QUE1NERCZFoxUzdWdmFNUVpYMXh3MnNNa2JIR1M3NGFTcE9rdw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Fastenal Co. stock outperforms competitors despite losses on the day",
+     "s": "MarketWatch",
+     "t": "2026-11-19T21:46:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOakhLVVFCbGJjRjhBQkpyN3pLQ0ZwRDZzLVlzMkZnREhKbjRRSE5xWGdzZ25BUVoxTVdSZVFHdTJLZGZxNE5kZmdUbkZxa0JNb0M3ckYtYU41SkprdFlNMVdtbFZIUGR5a05LaTNxV0tNMjNnOUUwdDFQaE9OLW5faXZDb2xNbU9hRHFWMHVpXzV2MmFVT0JEZmZqMUQ0OW5fMkt6T2lsZEpXdDM4MUh3a0syUW9najNvWko5UWoxUFVoamQtZ1FiTWFpWXltWWlIV1pLNWRjeEJhOHZ1V0E?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Baird stuft Fastenal wegen Bewertungsbedenken auf „Neutral“ ab",
+     "s": "Investing.com Deutsch",
+     "t": "2026-11-20T07:06:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRDF4X3YtMjBxVVhqd19FVTh2MjRYSk5ERmV2c3JyWUtsVXNzYUd6N1hxWF9hWGR1Z1owN3hHWllVUlJLZEtQYXRldWVUb09wVldwWGxRaWFiMDc4X3lucUV0Wmc2Y2hlWV8xaU1VN09QbnYycUYzcDVrZnVQRHBST0Z1cXA3Q1hMWHJxajZUaGhEU21JTHQ4eWQyYWNNT2RVUzIybnBZZG9NclpYQm5fSFNhaHlWVUcwdkdV?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Fastenal-Aktie: Champions-Check im Monat November",
+     "s": "boerse.de",
+     "t": "2026-11-19T09:27:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMGZSMExmemZDWVhjVm03eEVJUGZWSXRhV0lRLUFVSHMtNzNmaEp6cmV3bUw4bllQaUVHajBnY2psQjhpbGZ5bDctdmxhS3VrYktkbW5kWkZqTmVycjhXNTk1SDNtTGQ0cU4xREloMi00SDJkY1lTUURlSlZ1X3V2d2JSQ1ZHQ0YyWjZKdVJzUkpMR1BkV2fSAZsBQVVfeXFMTWNaSDV3c3huQzBvOGpTRmQ3QzloaFBqa0FBQWhPYWZ2WEQ0TEdqZXB2b3kwd2tfZGtWYmx3ckdXNDZ1S2pJTlFWcFhRM2VZRVJrSnRNamY5V3JOSi1YcjFsZHE5MDQ5d1ZTak5FVmhxUjRveDgweHlWQ1VLNHRsVm5tTGJwYi1FY0hWSUlDeTVpUFh0QkoxZFhZUlE?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "LOW": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Lowe's-Aktie: Baird senkt Kursziel auf 250 US-Dollar",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-19T17:10:27.000Z",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRjl0SjRkYUp5UXdzeFBJeUswdGJ1eDBrcDc5a3ZsQW9nLUNsLUZUN2ZLYUdySlJuMGRUUHRKQzNaRFZJZnNrQmhkdFZWQ00wSUpLYXVoT24xcVBQZjc2TTM4Y3lFckJzYXBFNDVhNDdWUThIcXZNa2ZIUGZYMnVEejdXQVVtRHBscnNLVkdSaGp4dkg2VnN1bldSX0p4Q3JRaXhKbENWNE5QWC1uTEZjQy1ETVM?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "Lowe's Earnings Beat Looked Strong Until a 34-Cent Tariff Refund Changed the Math",
+     "s": "Yahoo",
+     "t": "2026-11-19T14:55:00.000Z",
+     "u": "https://finnhub.io/api/news?id=1e045f02c652600f6fde3f702d68e571a3d3d0717510f4c3d6c2a5184c5c4381",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "LOW's Q3 Earnings Call Lifts Sales Outlook and Cuts Margin View",
+     "s": "Yahoo",
+     "t": "2026-11-19T14:00:00.000Z",
+     "u": "https://finnhub.io/api/news?id=9df4f1c0a86790ead6f3de900b51b1564a85e3541ddcd5f3bb2b683cd6797e37",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "SEC-Pflichtmeldung (8-K): Führungswechsel",
+     "s": "SEC EDGAR",
+     "t": "2026-11-17T21:10:08.000Z",
+     "u": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000122/low-20261113.htm",
+     "r": true,
+     "why": "Führungswechsel"
+    },
+    {
+     "h": "Home Depot vs. Lowe's: Which stock has the edge and our support after earnings",
+     "s": "CNBC",
+     "t": "2026-11-20T18:23:59.000Z",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOENhQ1cxNEhlWTlYMkxNUS1WdC1oUWFNd3k4LV96RHYyS1lucWUyYnRDWnd1RzFURUtkVFlFa3ZaN2N4c29feExvTGxVRXJPWUJKVGxXcmJUbnhZZkJmTmVLazR2U3NtRTVUTWw2Y1lhRm84WE8yMDVJUlZDOWhxbWF1aFBybUR4V3FzM1FBQklyQnFESnB0aVQxMlQtN0Ftc2lCbWJEYnhjYUlaSDRDN01B?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "KGI Securities stuft Lowe's Companies von „Outperform“ auf „Neutral“ ab und legt das Kursziel auf $231 fest",
+     "s": "TradingView",
+     "t": "2026-11-20T19:12:49.000Z",
+     "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qZy1yTVpZOVNjb3FnX1RYR2dOTkxQbmlZUE41MUpjM0hPRzdOaGN3bHp4QmpfdXR0dkxEXzM3bjdCUFRYaHptcUlmenBNc2Y5b2lRZTY3MXUtU3d1SWh3ZkdpUkFwN1JYM1ZERw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Lowe's Mylow Assistant Strengthens Its Online Shopping Experience",
+     "s": "Yahoo",
+     "t": "2026-11-20T14:43:00.000Z",
+     "u": "https://finnhub.io/api/news?id=83cd37aca0b8ce802744c186f812e123b61e9c37826e5706df25e116392062bc",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Penske Logistics Honored as Operational Excellence Partner of the Year by Lowe's Companies Inc.",
+     "s": "Yahoo Finance",
+     "t": "2026-11-20T14:00:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmkzNFJfd0NkOEhVS0liTDdXamVBck42dWliQ2tseElPTHlPLUpHejJWWkhENzk2T0pSV0FFWUVvM0NqZ0VOOExvUXpob21jUDMxZlVFWnFjLUNnblB4TW9qUTl3b3NFcmtiZldRQ3UyT3c2NHB3dnRWSkQ1Q3gwUVBTSVExOXMtajJkZzd1SGNsUkhZVXVrc2RsWDVCN1ZuQzNQQzZ5SGdvSm83OVQyYnhB?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Lowe's Expands FBM Network as Pro Sales Grow",
+     "s": "Roofing Contractor",
+     "t": "2026-11-20T00:00:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORzBUbEtPTWRBWm9jNWdiM1QtUkRmR2JnbUlYeFE5LXVtTHlwY0JUMFVlYWQ4aDFwdzFYYUNtV1o2STNwMnB5dDNMM2J5X0s5cGtzMmhBc1ZWUTN4TTMxclhoNmw0a3dFRGxhYU1xbEN5aDJFYmJHVWtvVUFJVXdJVllDak11Qmk4YmFxamNJNF81X0VCRWlJdA?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "GOOGL": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Alphabet raises $4.19 billion in Canadian bond offering",
+     "s": "Reuters",
+     "t": "2026-11-20T18:27:40.000Z",
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUFVQU3VBb1FwSmxpYnh6M1hNLU03RW1TSkZpbUJPcXpkQ1lZbWFocERJLTA3cUZWZ2JELUtSY050MW5Kdko5VHhoUFRqdW5XUGlWNlliWlZYLUxFa0tCY3RLaERDa3p2aGNGVEk3VjhlNFpPQTR0clR6MzJKQzBPS1JXSHljRUFIdkJRSWFFOVBrWERMQnVYTGVMTloxbVF5?oc=5",
+     "r": true,
+     "why": "Kapitalmaßnahme"
+    },
+    {
+     "h": "SHAREHOLDER ALERT: Bronstein Gewirtz & Grossman, LLC Announces Class Action Against Alphabet Inc. (NASDAQ: GOOG) — Investors Who Suffered Losses Are Encouraged to Contact the Firm",
+     "s": "WBOC TV",
+     "t": "2026-11-19T17:00:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOYkRJRHpEdHdld2xKUElob2I0Vm5QbDc5S3o1ckV0ZS10YW9fT0ZmdzB4MGFpajBYQ2xVOTJtOEFCTEZSeXY4dmM1X0p3RzlmY2FHUEw4aU9aNF9nenFtTXFjUS1rY0NtTXRjVDQ0eHJlY3FFdVNOemh1Q3ZYSnhZX1dBbXhmOW40VVZYdmNZR2ZHMG1XanJyX3F1emdJdHpIdWpFYTM4MjRYQjl0ZTZIU2hBVXVUWGlNaUFEQ3NocFRpWENDQ0dJZmw2UVNuUEo3SUlzcXVrdmpNMHZueEV0V3J0bGJ1eVVIdnp3U2lXQlVBRGRkQTc4bUFJSkZMV3M5WmNDa0ZYaTcxeTZGVV9lTENYejFoYmpZTXNvR2lsMEJITUxVYlhBZDFfeEoxSTdoM2NWTkN1QzQ3VmZE?oc=5",
+     "r": true,
+     "why": "Risiko"
+    },
+    {
+     "h": "Alphabet (GOOG) Slips as 2026 Capex Outlook Rises",
+     "s": "Yahoo Finance",
+     "t": "2026-11-19T16:07:41.000Z",
+     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcHlQUHNhX0pyNGVqNUdLYXdETWRZai1UMzZPODJVWllENWFiNHE0MWYtcVlnTEZLZHJmZG9VVUZpYk9yOFNYV0RfX3pqTUlPVzBBRlZCZ0lVeGxXMXVFbzQtQWtCSmcyaUZQV0E4VC1DV2gzclNLQVdPRU1EdW9zNWhBdmNLSkVGRmdkdmwxZHdXR3NhbUhmOVVKRQ?oc=5",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Alphabet-Aktie: UBS-Analyst Karl Keirstead übernimmt mit „Neutral“ – Kursziel sinkt auf 320 Dollar",
+     "s": "AktienCheck.de",
+     "t": "2026-11-18T04:29:44.000Z",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRWl6SnVrUjkzQjFxdjlnUDNOUDd6VEJzZzk1M3pNWmdTdEE1djFDN3FXQzBmTWxRMzNJdVVMb1lmbHFsYWRhS3psN0dRZENyeFpvd0xzV09pRnBGT2pxZFVKZU5lNmNUd3Z6ai1fLWNFVFNSZXQ1MkNDd01oQk8yQnNmUXgxUk5XWTRBWWZxclFucXNTelVtREVxaHpheHVNTjRrSnVhQ0xVdG94ZGUzMENR?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "Alphabet just overtook Nvidia in market value for the first time in over 2 years",
+     "s": "MarketWatch",
+     "t": "2026-11-20T19:23:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVEV2bnZhM1lUSGg0MzlnLWhRSXhYaGhMd1ZjeDJialdyaV9HUnV1cWRTVlNmOWh6RlhfT3p1V1JIbjQwenUyaHlfODRfWGNtZTBCTjAwUk5nekNhRGxmeHhXRUpfa1V3NkFnRVlXSUZacXlhNjdfdVZCLUd5ZV91WUp5WHJxRW9qaWYwSi1oY0YySWU4M0YtQS1xbERYaWJGRlVQbTRTdWF4Y0g0eF9OSTdJOEdwM2NTRGh3cjlOYzA?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Nvidia's share slide knocks it below Alphabet in valuation",
+     "s": "Reuters",
+     "t": "2026-11-20T15:31:27.000Z",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1lHWVFlSnZTcW9OVTZGU0lwdDdreE5TSm94Z0FTZDktRHRLOEU0LVBTTHpOZ1lYYmFCZ041UWUtTEh6VEFhczZFd2xlSjNLRlNNMHhDd2tFcDl2N1BIMndRY1VaN09HeHowT0hVblhkd1ZpUGxTakdwVFk4cjFWTzlTRnJQeWNGUW92YUxWUG9XR3BzM0hrZDdaWU5vUHJyMVdRcDktdWNMSUlkLS1Nek1SZjYxQQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Alphabet’s (GOOGL) AI Investment Is Surging – Here’s Why the Funding Matters",
+     "s": "Yahoo! Finance Canada",
+     "t": "2026-11-20T18:05:36.000Z",
+     "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTEpBaHhwRlV4dTFyUkFsZjI0TF9oZzBLNEt6QmdhU01sMHVoQjJ4am1QSlY3RWp2Mk5oREJxZ1VTc3BJNml1eVBUdkNaa3JkMDJlN0l6N1VNTUpfSmNfX25ZM2RwYUZOY0sxV3hHRHJtLXl2N2taZkJtSS10ZHlRVXZIUHJfTWZMbl9oaS1n?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Alphabet Stock Slides Nearly 20%. Trader Sees Rebound Clues",
+     "s": "Yahoo",
+     "t": "2026-11-20T17:38:28.000Z",
+     "u": "https://finnhub.io/api/news?id=4e071b521df3ea5272d0f3eed4e17a4bfea34263dcbbbf7e266d97fab279af95",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Nvidia Falls Behind Alphabet, Loses $2.3 Trillion In Market Value Since October Peak",
+     "s": "Yahoo",
+     "t": "2026-11-20T15:51:23.000Z",
+     "u": "https://finnhub.io/api/news?id=b20804cdd58452053b6eab592da4fe6ad238b380cb9b51bd2f4c70583e25f83f",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "NOW": {
+   "ok": true,
+   "items": [
+    {
+     "h": "ServiceNow's Bookings Guidance Lands Below the Street as AI Jitters and Fresh Layoffs Weigh on the Stock",
+     "s": "Ad Hoc News",
+     "t": "2026-11-20T06:41:00.000Z",
+     "u": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/servicenow-s-bookings-guidance-lands-below-the-street-as-ai-jitters-and-fresh-layoffs-weigh-on-the/70540152",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "ServiceNow Has Lost About $59 Billion in Value in 14 Trading Days, Since a Report Where Revenue Beat",
+     "s": "Yahoo",
+     "t": "2026-11-17T22:51:22.000Z",
+     "u": "https://finnhub.io/api/news?id=ec753cd7977b0501ebb8049a867013446e89ddec5b0bca7d2781725ac1558594",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "ServiceNow Stock Crashed 27%. Wall Street Still Sees Big Upside",
+     "s": "Yahoo",
+     "t": "2026-11-16T17:02:18.000Z",
+     "u": "https://finnhub.io/api/news?id=1cb8a940facc6cf0ab0bafd0a539f3e96770eecf6970b447349f5fcffc108681",
+     "r": true,
+     "why": "Kursbewegung"
+    },
+    {
+     "h": "ServiceNow is cutting jobs while committing hundreds of millions to acquired talent",
+     "s": "CTech",
+     "t": "2026-11-14T19:50:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWd0hKNDBmeWtnQTVtRXd5YWdCcm5jako5dUxZemdjak44cHZldjVYYjFBaFFSclJwdUlhZ1FKODk3LWlCcWN4eERacHpYU0c1Q2JkSl9SZVFPdlRGbXlCRjhjTGdWaFE?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "ServiceNow Aktie: Agentennutzung ist aufs 13-Fache geklettert",
+     "s": "Finanztrends",
+     "t": "2026-11-20T16:17:39.000Z",
+     "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMmRfUm9EZEcyWmJmdzRBUDA0UEtVYkFoSnJQQWpudGhuNkI5Z3FzelBmWjhrV3BUaXFqdXdLWTJ0RC13bG96YUtiWEN3ZGx0bTNfM2YwY2hSQ296M3dEdXdUWVZrNmZ3UHVtNEd2TS13UWE5ZTJhbXRqSGZxM1dNeHlsOXBWNTZNTXc5aTBtTzZrMHFs?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "ServiceNow Inc. stock outperforms competitors despite losses on the day",
+     "s": "MarketWatch",
+     "t": "2026-11-19T21:39:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWFJua215a3UwdW5ZT09Cb2pWWjJVT1NXd2ZqV1hyLUhpcGtscGFhUDFyN3RRTUo5dHc4WUdNTWt6UzRoVC1na25FRDJqQmQwWjlNZHdndkhOd0ZhZ3l1Y2QwX0FlTWJCZXVtcmZ4aW8zYVJwb1oweDNRRXQ0WDlQU3pPZXVCMjBoeXFQSkt3bncxTnB1bFZIaUs1ajBVWHF2Tml4TEtfTVBLRjZnUXNwVS1seFlfWUlVVnJrY1V0ZjlnNDFjSTNPQ1lUU2JtSWZ1WnlVVU9LcGNHQnRZbDdxWXB3?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "ServiceNow Aktie: Kyndryl-Angebot jetzt im Store",
+     "s": "Börse Express",
+     "t": "2026-11-20T07:50:19.000Z",
+     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcDRYX2NZNUhJUWhLTE5HNHF2TlZMSU1vTkRjNnhoSFJvQlNWVFp5bGt1bHREWF83QnZJOGJkNy1VQWo2WHd2YTA3S3E4T3lMTERyLUxMaGJzY3F5MG9wUklQamY1ZWt3OHpfbmhkdjlTWVQ0VVBTTF8zY3lYcTFWM2UyRkRiUkVla0kxYzN6STN6TUFvaTJ1X0RNSHZ2WlNq?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "ServiceNow Aktie: Bei KI-Agenten knirscht es in Indien",
+     "s": "Finanztrends",
+     "t": "2026-11-20T05:44:12.000Z",
+     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT2V0UWpKU0hmQkFObWFETVdjdUNrN2ZCVkxRQ01lYndONFppaHZNV1YtTmJZeG4xcU1CbmIyVXR0NGpNalE1bjJTVS01bF9fWTNteUd6Z0RXc2lab2ZCSGxRQTZ0Yl85Q0x1eDRncDBiQjl5cGhDek0zbnpXcndGTFBjLXJSeDVEcVh1OA?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "ServiceNow Knowledge 2027",
+     "s": "UC Today",
+     "t": "2026-11-19T23:56:41.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90amVER1ZxMXBqYkd1Z1BDOXpKR1JYRkVBYlVDZVNuSkZJTHhTdkNXV2g0MTV6MjFjLXVDNERaZVBLYUFOVlZhVExLOW1kQ1Q4ZFRBWFlqNE1UWUdRLVJxdFl3?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "AMZN": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Popular baby bouncers sold on Amazon recalled after reports of them collapsing",
+     "s": "NBC Chicago",
+     "t": "2026-11-20T18:16:32.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMFZjQkRpUDlnbXdNYVhKNVQ4U2Ffc3ByelVZZzU5X2ZpdnhUUnhrRnh6OWtSWFFtdXBPUV9VTlc4OEd0NkFFMG9XWlhnWmwxUW95LVRlaEd1X3FpaUtIVnBVZTR2dmhYNnhiSXVRZ1FZRUx3TmlFVGRSN3RKbE5TeW5XTHlSZE1pekE1bG1rbGc3dlplVW91YnNkRU1uMUp2N25aZTQxUGRzRHBpUTFYZ1J0eGR0TWE3LXJ1cXozaDBpTm_SAcsBQVVfeXFMTzZhTUI0ZFNqcUJ6VHlxcHBheVRhdVRieThQUWd3Z25ZZXFabEw0OW9FTE5seDduTTZuellPc1V5N2ViOFNzbFp3aEZLcTN2M29VUlNuRG5qZjhQWkdOMTVfQWpfeDh0aEh2Z0Y3bkxsbExGRDRIYk83ZVR5bEJDQVBJYlZ6RjlKUll6b2hYQUkyNFREbXY4X3FNb1hFN19nNjZmaHl1U25DRDdOU2xjVVYzNEZIQkVRVEhXejdieFNFSDlrWG9wT3lJRDA?oc=5",
+     "r": true,
+     "why": "Risiko"
+    },
+    {
+     "h": "Amazon Stock: What Wall Street’s Latest Forecasts Say About Its Next Move",
+     "s": "Yahoo",
+     "t": "2026-11-20T17:03:10.000Z",
+     "u": "https://finnhub.io/api/news?id=2a343a50f1c442f3c219d2134b1465645453d06d4444e6baa0378e6d91ae5937",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Netflix, Amazon, Fox to bid for 2030 men's World Cup rights; Disney out",
+     "s": "CNBC",
+     "t": "2026-11-19T18:30:51.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1NKRzBoR3ZXbnRFOFZ2QnI3aUFBMy15QnludHNqYlVXVHdVcFFFWXhOWmQtTGJ4QVBRQlhpVjNSemJfaHZJRnM4U0JnR0V0TWc5VkpWUVRHYjE2WG5NR3VMRnJDazU2Qk0wNG9pcTJNbURhRDYwTDRDSURyVUZJM3pPSmVzODRSOHdpUTA2cWlJMGdKQXB6czFTbjZMMF93VU000gGoAUFVX3lxTE02UVJuZkU4c3NYMFNUUGxITHRQUGlLU2plV0dDMFg3WVB6cGRjTDJUdHZOOVN3MTdsLWxIenFKUHlDejZHOG4ya3RERGt3SXpnb0hXUzdNbFBNXzhvZHN4UWt1d3dWcjljdGVvZlZBbXRjWDJaSk1maHhmR0RmVThaSENESC10TTNFUnR6S2FsQkY2bVprOEU3ejlWRTJjSURxa3hyTVA5RA?oc=5",
+     "r": true,
+     "why": "Übernahme"
+    },
+    {
+     "h": "Amazon Beat QQQ, But The Ride Was Much Harder",
+     "s": "Yahoo",
+     "t": "2026-11-19T18:23:21.000Z",
+     "u": "https://finnhub.io/api/news?id=a69dfd784d09785bf2dcd1c36b935e29cd796fa639e347b804e976edf6fe8d39",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "ASTS Stock Jumps Overnight Despite New Shares For Engines And Spectrum — Bulls Cheer ULA’s Amazon Launch Clue",
+     "s": "Yahoo",
+     "t": "2026-11-19T05:57:36.000Z",
+     "u": "https://finnhub.io/api/news?id=d17c8aa96b49918bfc56c84d57ee0ceee9f54c55e1789f7bb929a265d2030ee7",
+     "r": true,
+     "why": "Kursbewegung"
+    },
+    {
+     "h": "Final Trades: Amazon, Verizon and Target",
+     "s": "CNBC",
+     "t": "2026-11-20T17:42:30.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHFUekZzVm1UTGNER19MdjViU0s2QnRScWttM0RHOG9xWjJjX0pCZ1ROTkdXM19RTDhlcTUxSTNBSktYSEFEX1FCZklvclJRbXRPREhHcE92NVdIZUtvNHZqUlAzcDRvZ29aenR6R0RBc0tYaUxKQXZfUng0eVBFOUl0R0Yxai1M?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Amazon’s Standard-Bearer Act on Climate Is Wearing Thin",
+     "s": "Bloomberg.com",
+     "t": "2026-11-20T11:30:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3h1aE9MaVNzNktBME9WVlhCZTFHN2RaYVBrMjYzVTRTQzdDTWEyNmVWcnUzOFVOQjJHc3FhUG1tTGJybnBaNHljWGZaLWpleVBGMXNGMkZDaHUyeUdkcDJKRXd2bnRrQVdXLUlUSVlIZnZJS0htVXMydW4zTW9teU5iRFQ3VGJhLWNQM1lxUHhUcTZRb2oycGU1Q0E3cWM1UUR3MEltck9qOXVqdXc?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Ryzen 9 and RTX 5070 gaming PC drops $348 below its typical Amazon price",
+     "s": "MIXED News",
+     "t": "2026-11-20T19:58:14.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeFBfSjlVZjNVajFYcTY4VUcxeGltbkZ5Z0d3WElRTmkwVnVQUEtMQXdLQ3FtS1lDNlowSzl5bVIyQm5ERVZOa2stR2ttb00xN3JjX0pkYnRJTVNJU1lhRkpfQ0VMT2RXZ1hPVXQtTUFlSms2YTdTLVFLWE83WGt6NVJSZHlkZWdh?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Bosch-Messer bei Amazon: Tiefpreis für die Werkzeugschublade",
+     "s": "T-Online",
+     "t": "2026-11-20T19:46:45.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYjJCRGZTcmFhWi0zejZfb3M3QURuR2JPdUpnM1RUZDZLaVZTOXBaS0FXNExWVjBuUDhsMTR2a0lmOGNvMnN1akZ5V1JCRTJkbXNJRGNFdThiR1REU0tFUmJRUGxIOU8yTWh3VVJyOGpCZ2J3bVkyM2h5OFlaaDQ3dkFhZlpRTjJvX3ZkUlBpOFhONDhmcHBLYlZrWmFhZWY1WnJoRi1LMTR2SW9vQmdBQ2JqWE5ITVAtS3VIZEUzVFpIM043NjZjN3Z3?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Logitech's G309 wireless gaming mouse is half its Amazon list price at $44.99",
+     "s": "MIXED News",
+     "t": "2026-11-20T19:38:21.000Z",
+     "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOURfcXdibVpxVFBaNDV2VjR1VmFsWHRoNmdYNkRGdktKOVBURmFRVUVnV2VRQ3hiVWtDZEFqYWh2UGNic3ByRHRWWDBSMVBFQjctdHFIU0RRVlh0Nkh0bG0waFUtdF9PY01MdWQ3SERxRUVhOXBSa2ZNWmRXdnA5Rjg3N29TV2tsWXgxaEtKdjg?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "NEM": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Nemetschek-Aktie: Goldman senkt Kursziel auf 90 Euro",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-18T10:26:52.000Z",
+     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbkFQb2pFWEFncllrUUNpS2tja3JrcjRxeGN3WEFVcG9TSlJrbjZOZzdBUjN0MTUtT1Nha2doemdIUUNjWnBwY3lZbndBQVJoWDYza2NLOGZXWlcwb0tnTFdnVFhJVV8wUTU5YVpNbThHTHJCTnE5NU5tYjhoeXl4UVdoVWtxSDNiSmRWd0FlYS11RnBmaGRPQTg3NVFON3ZnZzl5ZmJLWWxla0JmWXBlSVhNNnM?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "Nemetschek Aktie: Anleger stoßen KI-Werte ab",
+     "s": "Börse Express",
+     "t": "2026-11-20T17:58:12.000Z",
+     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNDZIMHVFRzlPQ2V6ZGVFWk1GeUJHYnhhb0J4bTZ3V2ZYOXVMazV0dkhqM3BDRTNFWE9SRldwUGR0U3BZSHlMc2hXd2NvRjNHTTVBbFAtVTcwZzU1c1Zqc2hMYnRNdUJnNFhXUi1obHZ0T2EzeWVBeDZMZ2Q1NVYtaTdlZTFrandNV1oyWkVHWUsxcTVoQ2JQOU5FTlg?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Nemetschek-Aktie gibt 3,13 Prozent zum Xetra-Schluss nach",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-20T15:37:52.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMGxMX3NpS0gzSFl4QU0wZWFxMVNsRXdtVG80TTJDSlZuY09IZnFPRHZpR0luY1dQZ0NIUlNyTmh1N3lVOGtmd3AySy1uNEJUTndxbWlmT09VTGxxQzNpd1FCZmFnMGxneFd0dmoxTEVLQmJzZFZhNHFURWtWemphZXJwbUdiTlI3WVNjT1g4WmM4OU11aFpzMC0zT3FYNEF2MExfOWlvUmRoLTBSazVLb2dNT2N0enhkU3NhYw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Nemetschek Aktie: Partnerschaft mit Kyung Hee University unterzeichnet",
+     "s": "AktienCheck.de",
+     "t": "2026-11-20T11:00:07.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmprOUd3OU9aYkhXLVlvcUUwaW92WUluR3NVY1Zfa0ZqX1RWbWUwLXB5ZFMzRWU4ZVYwZllLZ1ZJRlRFRHVnZjd6U3pLRnh2ZE55NmwtcGpPQjVGaE5WTjBCTE0xb1FoOEJkN3RCb2xDU2hIbTk5MnhTYjlHU0NLdjRxNFNJcVJBZHV3YXNVTno5M1RIbERrNVlTcGRnYU1lN3c?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Nemetschek Group to Spotlight AI-Powered Solutions for the Middle East’s AEC/O Sector at Big 5 Global 2026",
+     "s": "Nemetschek",
+     "t": "2026-11-20T07:54:02.000Z",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbldMQ0dfeVRpWG5iV1FLQ01IWDNlZVVxM0doT2poaTF3d0g2dHpST0dFWlItdi1INEkyZS1WWU5kdjZQZ1J0ZmRZazN1WDNhSm45enc0YnFiMFBkUkFwcnRHZXB5ZmFROXRVcG9zR3U5NzZ2aXZuZElpWnVyVmRlSFI5ZnZvaFpLN2JqbVRUSzJ3ZlgtdThoTmtSanpYbHk4UE1WMFRMQTJFOVJvTlJfM1FwelhERFRHUndEU2ZZY0J5TXg5?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Nemetschek stock at EUR 54.83, down 2.00% before Xetra",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-20T07:09:58.000Z",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbEl0eEZtX1BvMk5aOElZVm5RNEhKVXBaRXJRcVBnbmpCbUlLQV9xZ256RXJMOEN1ZGwzUFJmcWJWdzMwZnNHclNTX01ULXBOMnZaSmF2MExzalRxQjZtc3FldThCbWM3UzNsUFdZZElnbkMwT19UbURDeGpNQTRkNWFBSzNXOWVXUUM3LUtRREdUUjdrSlktMGR1MkMwaG9MdGw4YWRpaFJObmdBb1A4?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "MUV2": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Münchener Rück Aktie: Ausblick 2027 am 10. Dezember",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-19T02:09:02.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS0UyUktkNGZqdjk5amtTY09WN2V2MHd4bmNxbWh4YWNkMndwM05HYmtyT2VvZGd2SDk3X0lxcXYzNng2TU0xUWJWa3hhU2dxSVJ4eE4yem85MVFxRGROdzFncmQxYTgtNE9XbFgteTJxWjBvVm11bS1QTDRaaHpsWEx3aTl3eF9uS093VFBTTlRlX3dNVHdHSUVvd21YVkoxb0Z1dklDZHFGYnBNaEdwZGgwQWlQZXhjU0F4U3BVaUY?oc=5",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Münchener Rück Aktie: ODDO BHF hebt Kursziel auf 570 Euro",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-18T14:37:13.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUlNSk9jWFZrOTV5ajhMd09qWEF3RFVMSE80QTMzVmczSW5PSjMtblFFRURaa3laWXk5NmY3ejVVSmVNaXFCa1d3VTVldU1Va1F5ZlZvdzRKMXlCZVNxVjRtZW52ZXVtY2l6R1lXOEE4ZnBiUkM1NEVqWHZxR1NwQ2dhZmg4aF9JXzJra2FBNW9oRFd4WVdRNWpLV244d19JODhuYWs2RV80TWpQTnhkSC00YlFrNUpTeV9vbVlOY0ZZT1BOLWVfY3VB?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "Münchener Rück Aktie: Termin für den 2027er-Ausblick steht",
+     "s": "Börse Express",
+     "t": "2026-11-16T19:25:08.000Z",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXJnc1E5LXlmZVdCaHF2bURfaUxFNmhDLXJWc0U1Z0pWbXhxb0EzRlBfWW1tVHJkZy1XdEY2S3F3WmdvSk9hSl9wS0h1aTdkVUFBTnNDTmFZbllwMXhSOTRnazZETmhLRmV5Yk5seXh6X205QzV0MmxiV3FiYTRIMC04R3Q5LVJxSFBuRUIyM3ViV1pfVUlrak13WHl0R3VCXzhCajhxc2c3TWx1ZUh0OHBn?oc=5",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "GOLDMAN SACHS: Münchener Rück \"hold\"",
+     "s": "boerse.de",
+     "t": "2026-11-20T10:56:23.000Z",
+     "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX1R0ZWpIWkl5d0ZpQm15cU1iaU9VS2FxQkhaMmllbFEteGZEeEVqVjNOVmE3cnlTWTB6cjN2VWpuemgyMUhYdHlWaU9OSlI3WGdURi10SmliWEJaV2szb1VQdmJjbTJCQXVKNjVXbVFWc2U0b3IyZjZ2ZTdCVFg1bEwwX1nSAYoBQVVfeXFMTWJhdDBjeFJiYk52SlVCdjJYNUVUVTdldWFnMG02R1paNm1udXNXbmxLemZicGl4SWhESVRoYjhBSGJibGxXMDI3eGluR2NFeDRKNGMzUUoyN0xOYldpMktDQjhqTzNYWEhPMVBQOC1NbThGM0FQc3lvRFNBSm9ZMGQxOFlrbFFWM0V3?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Münchener Rück Aktie: Australier von Generation Life sind an Bord",
+     "s": "Börse Global",
+     "t": "2026-11-20T10:28:20.000Z",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUS1HUVo1cVE4WW9SRkJxUklvZGRoeXNOU201ZlI4cGJzQW5uMlF4OUJBM2VwQ1p0NUl1OVJubDlZRml0a3hiQ2pWaGhPcWxURUl4R1cwNjNST0pNbUdWZE1mcmwzQnVTeGdkemRmM2VpQktQOGdHVnBSRlNsMjZaaV92b05nTTBXZWF6b19VMWIwY21IM2VFOUlUTzBQa0hLQ1lIZw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Münchener Rück-Aktie: Champions-Check im Monat November",
+     "s": "boerse.de",
+     "t": "2026-11-20T07:18:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3IzaVByaDJZN0xzSGE2WnJ4RVFuTngzWHBiQXQzTWU3OGVpa19JV0FhT2RLV3VvQVZRdV9XRS15YXJnMmRod21WVlZQWl9jVGdWbVFpNHg0VTA3T1JOd2JDTXdGeFZqZlpvaUZoeXE1NlVTZjd5S2ZnRjNIdURxMWlFdGVJQlBJeTV2aE0yQlBpOFRYZURqZHRPY2k1eTg1aTBMcTdlaGZCQUnSAbABQVVfeXFMT3ZJM3hRYkNiVVdqSVlkcEdLZ1U4VTh6QXpMUzFKQURPQTVfa1pxVVFvT2YweFVsVVdCSTltOS1fdkVaTUZ1R09VdUZibVBVbnpweTVycjQ1WTVHMFhmRzM4YkJhUHkxNXpXb0tiRGlRQk13MDdpQ19wXy16c0J4NnRleUdVZGR2a0xJdkFsckd1TDMyMllvb1BONDBkcUw4LVhTMHdyQ1FPQlFtazI0d3c?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Münchener Rück Aktie: Jefferies hinkt dem Kurs hinterher",
+     "s": "Börse Express",
+     "t": "2026-11-20T02:26:09.000Z",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVlBCMDVWSTFEek1zWFpFVjliVS12LTczVDhXVW53eG9ySlhqUVN0WXR2aU8yWGVBTTh3OTFPX2tBR0REYXNoMkVFME5SWm9kaENlNkdKa2E0LTlZZjRCUGN6QlNfcVpSOGJkMnhlZEhXQ25JbjN6Q3lsMEJyWk9SQ0hSZmpsZmM3aVVRWDM5Y191Q09tOHI4WUJIUUV2Q2J2MlB2OVJTMkkxdnR5cUE?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Münchener Rück Aktie: 130.000 eigene Aktien zurückgekauft",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-19T13:34:15.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTkZockpZWFpOYjhldVZtci1ORVZ2WUlvZXpKcElHbVJVLXZRQW5CVnZwV1hucm9NTG5uaGZRc05mQmh2ZXBGTGRrZW5DSmNTZW9NQVBDN1hGV28yY3RUZlZ3V0ZQN3dMQ3V4dnN0dWhlYUF0VnBYRGVPcG5TV1pxMnhndkwwLXpLZnRnOHJncUU3YklkZnRRNVVvaVJmenZXMFBqSmNZY3llekJENEdtMkNzRUxkbVYwS3pQaWVJZlplNXZxeWQwaEQtaw?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "RHM": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Rheinmetall stock: Goldman Sachs cuts target to 1,350 euros",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-19T10:11:47.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWElZNjN4M0w4NVhkeEl6WnBseE1kbWZjUGhLZ0NpTzNTQk5mb2VmZjZ2OC1JZVdVSGhGVkJNQ085dmdrSHYtQjJ1Z3I0QWl0UFlRWUtJV2RwN0JqOUVuUG1QN3FWMnR2WlQzQkU0MVMzYzNHVWZUN1BQYVFidk9yMGw3RzBvUmtSc1NPTU1rTHF2QjhzRDFJVTJGQzdpYWlpcHFfZlZBWXJ2bEhfNERCaWVWRFJPS0pQM2ZOR2FR?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "Romania imposes a late delivery penalty worth millions on Rheinmetall",
+     "s": "Table.Briefings",
+     "t": "2026-11-19T04:14:20.000Z",
+     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS09YQ1hhNGdzRGVGaEZUT2hEc1psb25FTFVjcDFyaVlxYkk0SHZYNlVQdXE5Ujd2VUJ1S1JYczlGVzNQYWRwZThSUzNkcUt6M3lIemw4X2hRNXB3QWlqMGJjSTFyUDNjeW4ta3gwSVhQRmFhVW04bzl6bEhCZUJ4OW1DX1FyU19hdk1fbFhIVjZVd0VrbTBqa2piUlk4bmdSclhkZ0hpM1lZMkpuMnc?oc=5",
+     "r": true,
+     "why": "Risiko"
+    },
+    {
+     "h": "Rheinmetall's Order Book Swells Past €78 Billion as Romania Fires the First Penalty Shot",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-17T18:10:51.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOU2VGVDRhT1JtVXNiVnlmdVFsS0lQbURXVllTR3pSOE1fVHVmek5yZUJXR3JybU1vQUFDN2xLWHBvR1E1dlNoRmgwSXZXUVRsTXlRb21KUHpMSTlEeVJTbVlSY25xSjFXT1Z3NHdfY2xVVk40VHd6MHU3bUFUVExNdlRDNEhIalNhRExXaUdrU2c5dXdvcGU1YXh5OXRYV3Z1UFhDTHl2T0dlalJyNFNfMWJleWFweEhfRTJLODYzS044OEMtVVlJVl9vc0tUb2dzTVBMaXdBUlZ1YWkzaktDb2N0N29ENUdBTW1JbHJqZXI?oc=5",
+     "r": true,
+     "why": "Risiko"
+    },
+    {
+     "h": "Rheinmetall's Delivery Test: 38% Growth Meets a Cut Guidance and a Hamburg Reckoning",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-14T16:01:37.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdlNKOU1veFRhMnJ4ZWI2SUFERnFhVXZVb2JqU1hnWDloRV9TTDhPNTFJLUswd3RYRlViandsMHhLSjY1eVlrQ2JpVzlYNDl1cWRObGhlVEdHbmoyTmFNSUN3QUpTN1ZCSkZRM05pMktkOVZaZTJUZ0xJcHg3TVlUQXBOSWhxemlHVUtwRXprem16R2tWWHVGaHd5dVNRY2x2TGxGc2tnMzFXcU5IcnNMNHlDQ2h0d25rS2p1WEZlUG1NUXV2X0JtcG9LZXd1ZDFVRzItUEN1RTNXSFZyMFNlUVlVV0ZYX1JteWc?oc=5",
+     "r": true,
+     "why": "Quartalszahlen"
+    },
+    {
+     "h": "Rheinmetall's Order Book Keeps Growing — the Question Is When It Turns Into Revenue",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-20T19:21:16.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNczlaa0t5dW9YZ0R4eE4tUWt0QTFqY0l1WGV0aThiMEZPd0V5emVIazhab0dsNkFGcm1kd2swWlJtV1ZZYjNWd3pVLXEzeTMzRUxjcTV6WVBVZ00yMURqaXhlMExBUWxHaVN4VjlJWmw4ZndFc1VFd09DbXJzVmtpMnF4OHJxOFVEZ0hWcGhEYnNzei1udUw3V3RwYjl6SC1EcFpZSm5CR1lJLXNxazFaMjR1Nl9WNHR3dU9DRW5lZlJ3VnR3TFA1MEpzNVFINUtOUDVOWFdSajM1bVVkUXdsamlyUGNhWGh4?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Rheinmetall AG: Sara Georgi Stiftung, Kauf",
+     "s": "MarketScreener Deutschland",
+     "t": "2026-11-20T17:22:03.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVHA4ZWFnTkQyT0xwaHZvY3hrWWVEcVBqOFZCaVBmbGJ4bkRxZUgzOFBkbmtmSUIzTXlPQ3BTVjI3bFhyeGtqaXZZd1NRamZUSTdURFNxZXpSZTNseXpUUkdXWmYzMHJhT3EzVldvSTJwVlRvUDRrSjdLdWpVQm95TjJzYXVrY2lQYUxVNHF0d3RLVzFGQUdYZUpybkpvNDR3emJtRFdFM0ZKdw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Rheinmetall's Order Book Is Full — Its Calendar Is the Real Battleground",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-20T17:01:56.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaW4yZHE5ZlE0OUd1dGVQTlI2RXlMd0c0SkhoLXl4VXV2d1VhcXl0OHdsZFloTTQ4amJrelh1S1hPOG5pc2tUekZfWG12ak1Xcjdack8yOTNjOVBoTGgwRnQyU2t2d0VOVmRhcThCVDRjSEs4X0FYLUlOVklsUnZJRS1fVjk1SW5EMnFMRHdJc0VPUmYyb1RpY0dFdVhDd3daRUkzYnlXM1d3bm9YVmFJbklENHh0YXd3OFprSzJQaHlXUUNoNVJMblpLZG9fTk9veTB5bXB5NE9YQQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Rheinmetall-Erholung mit Hebel 6: So funktioniert der Call-Optionsschein",
+     "s": "FinanzNachrichten.de",
+     "t": "2026-11-20T16:54:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUW5iSElXUS1BVEV5WGtIX251OUdzRG5MVENFRVdpeU9xUjFOMGt2cjk2ejVjR0NWbDFFU0d5cUt4UENZZklMdXVtUHgwMXh6S3NUelZZOHVRTjE2c3VMblZYR24zS3ladWxBc3ZyT1VQUmliQy11Y0gwR2dUTzVaTVZCRF9DZk5qZWRQOHo4RWZKcHBTVklUY1VZSnFKZC1nVGs3bEROWElNVEw0VlVXRzVuenh6ZWlfOW1XQUI1S2RjOXJQcGdZbUZuZW9BVk9vRW1HYjhzdng?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Rheinmetall Aktie News: Rheinmetall am Freitagnachmittag tiefer",
+     "s": "finanzen.ch",
+     "t": "2026-11-20T15:55:16.000Z",
+     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbTc3TGx3SC12NG1CQjJYZ1ZrY0RQWWx3dS1pWnllWnczc3ZJMFZWSUdXT05JVGtFTGVoYm5ZcXhrNXNUcjlVcy01WGpfa0Q1bXBwWXRUODFZcnIxVXptcEhiekZCNFVjaFhqeEcwV3lMX3ZuMXJ5dzBUeS16RV9ONGFaSU1QbjJsbGEwX2FkWFVaeDFWNTYtbTZSYw?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "RLI": {
+   "ok": true,
+   "items": [
+    {
+     "h": "Aktie von RLI Corp markiert neues 52-Wochen-Hoch bei 71,97 USD",
+     "s": "Investing.com Deutsch",
+     "t": "2026-11-20T14:39:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNME5jdFQ4NjZoZV93SmVGdVZVYU9STTVxSkp5eG81ZVJra2R5QWxpOWVhNUJDaWZBQ2ZTbGs1cllNV2NjeXhKTE1oZlBrSHdoRk5BemlpNGlmbmtZa1NTNV85QW1NOVNLYmRoX3RhODYyalJ0RkNMWGFQMnB2RHNMczhuSThqTGJybkp0TERucVVZZGtWWjI5ajNTbFA0S0VVX0g2TkZTRVhIVnZsRVFJdkxOb1g0QQ?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "RLI Corp. (NYSE: RLI) Touches New 52-Week High Friday Morning",
+     "s": "InsuranceNewsNet",
+     "t": "2026-11-20T06:45:00.000Z",
+     "u": "https://insurancenewsnet.com/oarticle/rli-corp-nyse-rli-touches-new-52-week-high-friday-morning",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "RLI - RLI Corp Dilution",
+     "s": "Finviz",
+     "t": "2026-11-15T14:26:29.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pb1hTczZoOG5iWjRTMW9CX3hXanNVZklJZ0xOelFQRTVVdm9jUThsUGE5ajFkeHlLd180N09BSWh2OTdmSUk3S0hVZHI?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "RLI Corp.: Excellence Has A Price, And Investors Are Paying It (NYSE:RLI)",
+     "s": "Seeking Alpha",
+     "t": "2026-11-13T18:34:16.000Z",
+     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdTA4ODB5YzJ6blFJbGNnaWlwVzF4bGNlYWJJY1dYR0Y3VEVCdHpmNXRuMjBNZ0JWZExkNDlJN04wa3NxbmlpMWdNOHVhWVJ3ai1mNG5vUFdibnhacVp4TFZmX2o3cXNncENOb2RMWDNGZ193X0NxNkRSaEMtWnRHWEM1Y2dnMlFYV0pWMmJIRHplTW9wRU1PZ3dTYw?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "RLI Declares Regular & Special Dividends",
+     "s": "Business Wire",
+     "t": "2026-11-11T21:13:04.000Z",
+     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWhDdzNTWlo5VUhYSFItZFhGb1phYW5pR1hvUkthUVU5VlBCQ1hFWi1uRjhROFczdzNDSTVycGlWRTdrTEtXTkoxc0NLR0FXazlWbkttcktyUno3LTY5alhGYlg0LU9LemhWcnZtZTJIbDBLN0paVWlOOEJQNFUyX3pFbEM0UE93SlI2Y191SGNnNEQxdG0zYnlFQQ?oc=5",
+     "r": false,
+     "why": null
+    }
+   ]
+  },
+  "AME": {
+   "ok": true,
+   "items": [
+    {
+     "h": "AMETEK Prices $500M, C$600M and €1.5B Multi-Currency Senior Notes Offering",
+     "s": "Minichart",
+     "t": "2026-11-18T14:43:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmViTHE1Xy1TLWUyNVpLdDExenNLVUFhRnFpSlZrRFlaT1FUYjVyQ0p0ZGNpZzdiMXY5UVlaclVvb2Y4VlAyY2pJR2tXcGdUQmN5NEFXTVczSmpHcU5sdnBvQ0ZtcFlfbVdBN0VRakxFUjl4YURIQjktQzdCYjFxTVBoSXk0YTFmQ2p4UG02YUYwbGlrSjlNQ1lIaUVKbHdCbXVXTDEzbzhfcnNxLWVEeldn?oc=5",
+     "r": true,
+     "why": "Kapitalmaßnahme"
+    },
+    {
+     "h": "AMETEK (AME) Launches Multi-Currency Debt Offering to Refinance Borrowings",
+     "s": "GuruFocus",
+     "t": "2026-11-18T12:43:18.000Z",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0l3TzZ5YTJzMVMtZnlBWXBWRlFrQnQwOVR1UzNuV0lLenM4Rm5zR2NMUHFGdDR1c3hvUlA3cTJqZnNEcUFDZmdaZENQb1lTdW56amdKYWVlbXl1cFNfeDJOb1QwME5Sb3B1SzNfalJGajVVVUVYNW1Kd2RnUHNRMTZyU1l3TlFjVmhzTG5ySDE5WDAzQlpEbmNaM3FuMS14RDJhSmNSeC14c0szdmpV?oc=5",
+     "r": true,
+     "why": "Kapitalmaßnahme"
+    },
+    {
+     "h": "AMETEK stock: Truist raises price target to USD 329",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-16T11:58:41.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTkJoTEtJSXk0UkdqQ1pNMGE0VWRBVzRUR1VLY01SSW81MVdTblprM3YwLTE4Q0RHak92T0s1bVFJZGdKNGpmMUV4Wk5sc3F0czduNHJabnNZNzU1QnYzd2RfRUN1RDRYVnpENTB6LXpKNDlCaEt1RjBHZ0t4cTNyVV9rUWpnRTN3Ul9UeGl1Q3hHbDRvVkJIaVZNenowWk1iQjZPdEp3TDdVeHlleF9TR0VYNA?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "AMETEK-Aktie: Truist hebt Kursziel nach starkem Quartal an",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-16T11:30:36.000Z",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUXo2WVpvREZUQ25SY3RiNUJmc0RweUktbUxmenQ3MWF3X29GbGhmWUNZOC1vSnFGblA4aU1PZm5ZV0JxeExZWldRRGZ6V0ZFNllVRG9MeTItU0ExcDlmcnFYU1F3T3NzekxCQkVCOUs5NDM5Z2dxUHBudUtTRmlUd29MaWp6c2U0REJlelhxbmJSNHo0c29ERS04Z1NDUEpKWHlwdjBEblBrTW1ZLUtoN0xkTFllRklQVlB2QQ?oc=5",
+     "r": true,
+     "why": "Analystenurteil"
+    },
+    {
+     "h": "Ametek Inc. stock outperforms competitors despite losses on the day",
+     "s": "MarketWatch",
+     "t": "2026-11-19T21:48:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQS3pBQW9aRTFmWVhzbFhOTFJrcVpvMWREYUdmWEs0X1JwZnBTS2N5V2paM0lqeTItSmRPQl9Wd1V4a3doc2laRlIzSjlJVHdyZ2ZnOXd2bERZZWxva2tEaTBNby1ybEtrX09Vcm9ZcnZqRm54b201dU5jQUthMjlWUnN2MWdvcnVXbWI3cGZVdE55M1F4RmtYYXhYeWYxWmhpS0dnZDhlalNLeU0yYUhJd2h6V09HT0MzLWZ1ZUVWbTdmV1pDd0FhZFdoeWp0VFYteDNaVHlGMGpfODlk?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "AMETEK stock slips to EUR 210.00, down 1.96% premarket",
+     "s": "ad-hoc-news.de",
+     "t": "2026-11-20T07:55:02.000Z",
+     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ1BPYXp6NmRoR2xwRm5uUkpjX3hnOUhXOXRYcnh3YW9VTVB3dVJsQWstYnZpNEp4ZGFjd1h4azlTbkZsalZoLUF0MFBOYVhsc0N0dThVcEhDbWdtZHpUSTh4aENYams0a2owZXp0N1NJTGxZRWpQM3JsTzN5clNQMUVLRzNHZ0ZTVkZINVl6Um51ZWVOaWpUQmZVSkhWNWwxMGdKQVFMWUhHc01QY2dR?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Ametek-Aktie unter 100-Tage-Linie",
+     "s": "boerse.de",
+     "t": "2026-11-20T07:00:00.000Z",
+     "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd1BQbU0zdExBY1pCLXY3aHh5dlA5YUNOZlFWLXYwN1BjaTV4bk1JQ01SM193RUs3RkZrLUExQlhzR0xweUpiY0kzUGFPQ2RxamF3eVdTMGhDTmJMYm1SSERoTVhaMjJZU0tNLXJNUEE5UmR2YjRRXzV6eUtLbnIzTVRB?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Wrapped AMETEK Tokenized Stock (xStock): Funding, Investors, Team and Key Events",
+     "s": "CryptoRank",
+     "t": "2026-11-19T22:38:09.000Z",
+     "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94UTVmMmlWdlg2V1ZFN2phcC1XLUFXS1RyOWxjRXREZWlMZXdwb0JMNmFMVVo1UDRPMWdDdi03RVktZ0JYLTQ0ZEFodUJ1WXR6QlF1SG5XWllLNWtObU1RZmQzdk9RX0Y2M2I4NC1DeHlnbW8?oc=5",
+     "r": false,
+     "why": null
+    },
+    {
+     "h": "Internet of Things Q3 earnings: AMETEK simply the best",
+     "s": "StockStory.org on MSN",
+     "t": "2026-11-18T19:34:19.000Z",
+     "u": "https://www.msn.com/en-us/money/general/internet-of-things-q3-earnings-ametek-simply-the-best/ar-AA2hMNWy",
+     "r": false,
+     "why": null
+    }
+   ]
+  }
+ }
+}
